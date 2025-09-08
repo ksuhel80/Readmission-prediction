@@ -142,6 +142,9 @@ class ReadmissionPredictor:
         
         # Save best model
         joblib.dump(self.best_model, 'models/best_model.pkl')
+
+        # Save the entire predictor instance
+        joblib.dump(self, 'models/predictor_instance.pkl')
     
 # model.py (revised evaluate_model method)
 

@@ -50,6 +50,8 @@ def main():
     print("\nTraining models...")
     predictor.train_models()
     
+    joblib.dump(predictor, 'models/predictor_instance.pkl')
+    
     # Evaluate best model
     print("\nEvaluating best model...")
     metrics = predictor.evaluate_model()

@@ -1,4 +1,4 @@
-# app.py (updated with automatic data loading)
+# app.py (updated to use API for predictions)
 
 import streamlit as st
 import pandas as pd
@@ -7,10 +7,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from data_loader import DataLoader
 from eda import EDA
-from model import ReadmissionPredictor
-import shap
+import requests
 import os
-import joblib
+import json
 
 # Set page configuration
 st.set_page_config(
@@ -22,17 +21,29 @@ st.set_page_config(
 # Initialize session state
 if 'data' not in st.session_state:
     st.session_state.data = None
-if 'predictor' not in st.session_state:
-    st.session_state.predictor = None
-if 'model_trained' not in st.session_state:
-    st.session_state.model_trained = False
 if 'data_loaded' not in st.session_state:
     st.session_state.data_loaded = False
+if 'api_available' not in st.session_state:
+    st.session_state.api_available = False
+
+# API configuration
+API_URL = "http://localhost:5000"
 
 # Create directories if they don't exist
 os.makedirs('data', exist_ok=True)
 os.makedirs('outputs/plots', exist_ok=True)
 os.makedirs('models', exist_ok=True)
+
+def check_api_available():
+    """Check if the API is available"""
+    try:
+        response = requests.get(f"{API_URL}/health", timeout=5)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get('model_loaded', False)
+    except:
+        pass
+    return False
 
 def check_data_exists():
     """Check if all required data files exist"""
@@ -74,14 +85,21 @@ def load_existing_data():
             return False
     return False
 
-# Check for existing data at startup
+# Check for existing data and API at startup
 if not st.session_state.data_loaded:
     if load_existing_data():
         st.sidebar.success("Existing data loaded successfully!")
 
+# Check API availability
+st.session_state.api_available = check_api_available()
+if st.session_state.api_available:
+    st.sidebar.success("API is available")
+else:
+    st.sidebar.warning("API is not available. Please start the API server.")
+
 # Sidebar
 st.sidebar.title("Navigation")
-page = st.sidebar.selectbox("Select Page", ["Data Upload", "EDA", "Model Training", "Prediction", "About"])
+page = st.sidebar.selectbox("Select Page", ["Data Upload", "EDA", "Prediction", "About"])
 
 # Data Upload Page
 if page == "Data Upload":
@@ -191,68 +209,16 @@ elif page == "EDA":
             eda.categorical_feature_analysis()
             st.pyplot(plt)
 
-# Model Training Page
-elif page == "Model Training":
-    st.title("Model Training")
-    
-    if not st.session_state.data_loaded:
-        st.warning("Please upload data or generate synthetic data first")
-    else:
-        # Check if model already exists
-        if os.path.exists('models/best_model.pkl'):
-            st.info("⚠️ A trained model already exists. Training new models will overwrite it.")
-        
-        if not st.session_state.model_trained:
-            if st.button("Train Models"):
-                with st.spinner("Training models... This may take a while"):
-                    # Initialize predictor
-                    predictor = ReadmissionPredictor(st.session_state.data_loader)
-                    
-                    # Prepare data
-                    X, y = predictor.prepare_data()
-                    
-                    # Train models
-                    predictor.train_models()
-                    
-                    # Evaluate best model
-                    metrics = predictor.evaluate_model()
-                    
-                    # Store in session state
-                    st.session_state.predictor = predictor
-                    st.session_state.model_trained = True
-                    
-                    st.success("Model training completed!")
-                    
-                    # Display metrics
-                    st.subheader("Model Performance Metrics")
-                    col1, col2, col3, col4 = st.columns(4)
-                    col1.metric("AUC-ROC", f"{metrics['auc']:.4f}")
-                    col2.metric("Brier Score", f"{metrics['brier']:.4f}")
-                    col3.metric("Sensitivity", f"{metrics['sensitivity']:.4f}")
-                    col4.metric("Specificity", f"{metrics['specificity']:.4f}")
-        else:
-            st.success("Model already trained!")
-            
-            # Display feature importance
-            st.subheader("Feature Importance")
-            if os.path.exists('outputs/plots/feature_importance.png'):
-                st.image("outputs/plots/feature_importance.png")
-            else:
-                st.warning("Feature importance plot not found. Please train the model again.")
-            
-            # Display net benefit analysis
-            st.subheader("Net Benefit Analysis")
-            if os.path.exists('outputs/plots/net_benefit.png'):
-                st.image("outputs/plots/net_benefit.png")
-            else:
-                st.warning("Net benefit plot not found. Please train the model again.")
-
 # Prediction Page
 elif page == "Prediction":
     st.title("Patient Risk Prediction")
     
-    if not st.session_state.model_trained:
-        st.warning("Please train the model first")
+    if not st.session_state.api_available:
+        st.error("API is not available. Please start the API server.")
+        st.write("To start the API server, run the following command in a separate terminal:")
+        st.code("python api.py")
+    elif not st.session_state.data_loaded:
+        st.warning("Please upload data or generate synthetic data first")
     else:
         # Input form
         st.subheader("Enter Patient Information")
@@ -272,35 +238,48 @@ elif page == "Prediction":
                 input_data[col] = st.number_input(col, value=float(median_val))
         
         if st.button("Predict Risk"):
-            # Convert to DataFrame
-            patient_df = pd.DataFrame([input_data])
-            
-            # Get prediction
-            explanation = st.session_state.predictor.predict_risk(patient_df)
-            
-            # Display results
-            st.subheader("Prediction Results")
-            
-            col1, col2 = st.columns(2)
-            col1.metric("Risk Probability", f"{explanation['risk_probability']:.2%}")
-            col2.metric("Risk Level", explanation['risk_level'])
-            
-            # Display feature contributions
-            st.subheader("Feature Contributions")
-            contributions = pd.DataFrame.from_dict(
-                explanation['feature_contributions'], 
-                orient='index', 
-                columns=['SHAP Value']
-            ).sort_values('SHAP Value', ascending=False)
-            
-            st.dataframe(contributions)
-            
-            # Plot SHAP values
-            fig, ax = plt.subplots()
-            contributions.head(10).plot(kind='barh', ax=ax)
-            ax.invert_yaxis()
-            plt.title("Top 10 Feature Contributions")
-            st.pyplot(fig)
+            with st.spinner("Getting prediction from API..."):
+                # Make API request
+                try:
+                    response = requests.post(
+                        f"{API_URL}/predict",
+                        json=input_data,
+                        timeout=10
+                    )
+                    
+                    if response.status_code == 200:
+                        explanation = response.json()
+                        
+                        # Display results
+                        st.subheader("Prediction Results")
+                        
+                        col1, col2 = st.columns(2)
+                        col1.metric("Risk Probability", f"{explanation['risk_probability']:.2%}")
+                        col2.metric("Risk Level", explanation['risk_level'])
+                        
+                        # Display feature contributions
+                        st.subheader("Feature Contributions")
+                        contributions = pd.DataFrame.from_dict(
+                            explanation['feature_contributions'], 
+                            orient='index', 
+                            columns=['SHAP Value']
+                        ).sort_values('SHAP Value', ascending=False)
+                        
+                        st.dataframe(contributions)
+                        
+                        # Plot SHAP values
+                        fig, ax = plt.subplots()
+                        contributions.head(10).plot(kind='barh', ax=ax)
+                        ax.invert_yaxis()
+                        plt.title("Top 10 Feature Contributions")
+                        st.pyplot(fig)
+                    else:
+                        st.error(f"API returned status code {response.status_code}")
+                        st.json(response.json())
+                except requests.exceptions.RequestException as e:
+                    st.error(f"Error connecting to API: {str(e)}")
+        
+       
 
 # About Page
 elif page == "About":
@@ -316,6 +295,13 @@ elif page == "About":
     - **Medication History**
     - **Social Determinants of Health**
     
+    ### Architecture
+    
+    This system consists of two main components:
+    
+    1. **Streamlit Dashboard**: User interface for data exploration and predictions
+    2. **Flask API**: Backend service for model predictions
+    
     ### Key Features:
     
     1. **Data Integration**: Combines multiple data sources for comprehensive analysis
@@ -323,21 +309,32 @@ elif page == "About":
     3. **Machine Learning Models**: Implements multiple algorithms with ensemble methods
     4. **Clinical Decision Support**: Provides risk stratification and feature importance
     5. **Explainable AI**: Uses SHAP values for model interpretation
-    
-    ### Technical Implementation:
-    
-    - **Data Preprocessing**: Handles missing data, outliers, and feature engineering
-    - **Imbalanced Data**: Uses SMOTE-Tomek links for balanced training
-    - **Model Validation**: Group stratified k-fold cross-validation
-    - **Performance Metrics**: AUC-ROC, Brier score, sensitivity, specificity
-    - **Deployment**: Streamlit dashboard and Flask API
+    6. **API Integration**: Uses a REST API for predictions
     
     ### How to Use:
     
-    1. Upload your datasets on the Data Upload page (or generate synthetic data)
-    2. Explore your data with the EDA tools
-    3. Train the prediction models
-    4. Use the Prediction page to assess patient risk
+    1. **Start the API Server**: In a separate terminal, run:
+       ```
+       python api.py
+       ```
+    
+    2. **Start the Dashboard**: In another terminal, run:
+       ```
+       streamlit run app.py
+       ```
+    
+    3. **Upload Data**: On the Data Upload page, either generate synthetic data or upload your own
+    
+    4. **Explore Data**: Use the EDA tools to understand your data
+    
+    5. **Make Predictions**: Use the Prediction page to assess patient risk
+    
+    ### API Endpoints:
+    
+    - `GET /health`: Health check endpoint
+    - `POST /predict`: Predict risk for a single patient
+    - `POST /batch_predict`: Predict risk for multiple patients
+    - `GET /model_info`: Get model information
     
     ### Contact:
     
