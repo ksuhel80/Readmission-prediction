@@ -1,0 +1,1001 @@
+patient_id,admission_date,discharge_date,length_of_stay,primary_diagnosis,number_of_diagnoses,number_of_procedures,emergency_admission,previous_admissions,clinical_notes
+1,2022-07-26,2022-01-10,21,Other,10,1,0,1,"Patient admitted with dementia. History of anemia, pneumonia. Patient responding well to treatment. Discharge home."
+2,2022-04-20,2022-01-16,11,Stroke,11,7,0,3,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+3,2022-10-05,2022-01-12,27,COPD,12,1,0,2,Patient admitted with copd. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+4,2022-02-25,2022-01-28,16,Stroke,1,8,1,3,Patient admitted with copd. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+5,2022-02-26,2022-01-24,26,Kidney Disease,3,3,0,1,"Patient admitted with pneumonia. History of heart failure, dementia. Patient responding well to treatment. Discharge home."
+6,2022-10-18,2022-01-16,29,Kidney Disease,3,0,0,1,"Patient admitted with hypertension. History of sepsis, pneumonia. Condition improved. Continue medications as prescribed."
+7,2022-04-24,2022-01-15,29,Kidney Disease,5,3,1,0,Patient admitted with depression. History of dementia. Patient responding well to treatment. Discharge home.
+8,2022-11-04,2022-01-16,17,COPD,3,2,0,1,Patient admitted with heart failure. History of dementia. Patient responding well to treatment. Discharge home.
+9,2022-12-07,2022-01-27,16,Other,13,5,0,4,"Patient admitted with pneumonia. History of anemia, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+10,2022-07-17,2022-01-13,7,Heart Failure,9,6,0,1,Patient admitted with pneumonia. Patient responding well to treatment. Discharge home.
+11,2022-11-17,2022-01-04,16,Diabetes,1,7,0,2,"Patient admitted with hypertension. History of diabetes, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+12,2022-06-28,2022-01-28,3,Other,4,1,0,2,Patient admitted with sepsis. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+13,2022-08-07,2022-01-11,26,Kidney Disease,13,5,0,1,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+14,2022-10-04,2022-01-25,16,Other,13,5,0,3,"Patient admitted with heart failure. History of pneumonia, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+15,2022-01-16,2022-01-19,8,Pneumonia,10,9,1,1,"Patient admitted with diabetes. History of heart failure, dementia. Patient responding well to treatment. Discharge home."
+16,2022-03-02,2022-01-16,12,Cancer,10,4,0,0,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+17,2022-02-23,2022-01-06,3,Cancer,4,9,1,5,Patient admitted with diabetes. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+18,2022-06-17,2022-01-06,17,Diabetes,1,9,0,1,Patient admitted with copd. History of depression. Patient responding well to treatment. Discharge home.
+19,2022-01-26,2022-01-27,21,Diabetes,14,6,0,1,Patient admitted with kidney disease. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+20,2022-12-02,2022-01-08,18,Heart Failure,2,2,0,1,"Patient admitted with dementia. History of sepsis, kidney disease. Patient responding well to treatment. Discharge home."
+21,2022-03-06,2022-01-29,11,Pneumonia,11,3,1,1,Patient admitted with diabetes. History of kidney disease. Condition improved. Continue medications as prescribed.
+22,2022-04-10,2022-01-14,4,Hip Fracture,1,9,0,1,"Patient admitted with sepsis. History of copd, depression. Significant improvement observed. Recommend outpatient follow-up."
+23,2022-03-15,2022-01-10,16,Other,6,8,0,0,Patient admitted with kidney disease. History of heart failure. Condition improved. Continue medications as prescribed.
+24,2022-07-11,2022-01-24,17,Stroke,3,3,1,2,"Patient admitted with depression. History of copd, anemia. Condition improved. Continue medications as prescribed."
+25,2022-06-20,2022-01-27,9,Stroke,7,2,0,2,"Patient admitted with hypertension. History of copd, sepsis. Patient responding well to treatment. Discharge home."
+26,2022-09-30,2022-01-13,6,Hip Fracture,5,1,1,1,"Patient admitted with heart failure. History of pneumonia, dementia. Patient responding well to treatment. Discharge home."
+27,2022-07-06,2022-01-13,24,Cancer,9,4,0,3,Patient admitted with pneumonia. History of diabetes. Condition improved. Continue medications as prescribed.
+28,2022-01-23,2022-01-23,27,Hip Fracture,7,3,1,1,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+29,2022-06-30,2022-01-05,20,Other,4,7,1,0,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+30,2022-11-23,2022-01-06,25,Pneumonia,5,6,0,3,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+31,2022-04-18,2022-01-11,2,Kidney Disease,5,5,0,3,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+32,2022-12-01,2022-01-14,9,COPD,11,1,0,0,"Patient admitted with anemia. History of copd, sepsis. Condition improved. Continue medications as prescribed."
+33,2022-06-11,2022-01-16,28,Kidney Disease,5,2,1,1,"Patient admitted with depression. History of dementia, copd. Condition improved. Continue medications as prescribed."
+34,2022-10-29,2022-01-10,21,COPD,10,9,0,2,Patient admitted with copd. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+35,2022-07-25,2022-01-16,29,Stroke,9,8,0,1,"Patient admitted with sepsis. History of pneumonia, copd. Significant improvement observed. Recommend outpatient follow-up."
+36,2022-03-19,2022-01-05,6,Diabetes,10,8,0,0,Patient admitted with hypertension. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+37,2022-01-16,2022-01-09,3,Other,3,4,0,0,"Patient admitted with kidney disease. History of sepsis, heart failure. Patient responding well to treatment. Discharge home."
+38,2022-11-23,2022-01-12,20,Kidney Disease,6,2,0,2,Patient admitted with sepsis. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+39,2022-04-06,2022-01-23,6,Hip Fracture,8,1,0,3,Patient admitted with dementia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+40,2022-05-27,2022-01-28,7,Pneumonia,11,7,0,0,Patient admitted with pneumonia. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+41,2022-01-02,2022-01-05,1,Pneumonia,9,5,0,0,"Patient admitted with hypertension. History of heart failure, depression. Condition improved. Continue medications as prescribed."
+42,2022-01-10,2022-01-21,23,Cancer,13,9,0,1,"Patient admitted with sepsis. History of diabetes, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+43,2022-05-05,2022-01-19,1,Pneumonia,7,6,0,3,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+44,2022-03-22,2022-01-28,5,Pneumonia,12,0,1,0,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+45,2022-05-20,2022-01-15,6,Diabetes,3,0,1,5,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+46,2022-11-22,2022-01-10,13,Hip Fracture,1,9,0,1,"Patient admitted with anemia. History of diabetes, pneumonia. Condition improved. Continue medications as prescribed."
+47,2022-05-30,2022-01-10,2,Stroke,4,1,0,1,Patient admitted with depression. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+48,2022-10-15,2022-01-20,15,Pneumonia,13,9,0,3,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+49,2022-12-27,2022-01-16,15,Stroke,6,2,0,1,"Patient admitted with anemia. History of depression, kidney disease. Patient responding well to treatment. Discharge home."
+50,2022-12-06,2022-01-14,13,Diabetes,3,0,0,0,"Patient admitted with kidney disease. History of heart failure, depression. Condition improved. Continue medications as prescribed."
+51,2022-05-09,2022-01-09,26,Pneumonia,14,4,0,1,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+52,2022-08-27,2022-01-26,25,Other,1,2,0,1,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+53,2022-02-27,2022-01-30,14,Cancer,6,0,1,1,Patient admitted with copd. History of heart failure. Patient responding well to treatment. Discharge home.
+54,2022-07-17,2022-01-17,26,Kidney Disease,14,7,0,2,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+55,2022-07-30,2022-01-09,22,Other,1,5,0,1,"Patient admitted with pneumonia. History of depression, dementia. Patient responding well to treatment. Discharge home."
+56,2022-02-14,2022-01-09,7,Sepsis,9,8,0,0,"Patient admitted with depression. History of kidney disease, pneumonia. Patient responding well to treatment. Discharge home."
+57,2022-04-07,2022-01-05,14,Heart Failure,11,2,1,2,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+58,2022-10-06,2022-01-25,26,Pneumonia,14,8,0,1,Patient admitted with hypertension. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+59,2022-01-23,2022-01-23,24,Stroke,12,8,0,2,"Patient admitted with hypertension. History of anemia, dementia. Significant improvement observed. Recommend outpatient follow-up."
+60,2022-12-01,2022-01-28,27,Heart Failure,1,0,0,2,Patient admitted with depression. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+61,2022-02-13,2022-01-18,29,COPD,13,2,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+62,2022-01-27,2022-01-20,10,Pneumonia,6,5,0,1,"Patient admitted with copd. History of pneumonia, hypertension. Condition improved. Continue medications as prescribed."
+63,2022-10-09,2022-01-11,17,Sepsis,1,7,0,0,Patient admitted with diabetes. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+64,2022-04-07,2022-01-08,14,Diabetes,12,3,0,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+65,2022-02-05,2022-01-20,8,Cancer,7,4,0,1,Patient admitted with copd. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+66,2022-04-19,2022-01-23,4,Sepsis,3,8,0,4,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+67,2022-02-24,2022-01-04,26,Stroke,6,5,1,1,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+68,2022-07-11,2022-01-25,16,Diabetes,7,6,0,3,Patient admitted with sepsis. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+69,2022-08-07,2022-01-21,24,Kidney Disease,1,6,1,1,"Patient admitted with anemia. History of depression, sepsis. Patient stable for discharge. Follow up in 2 weeks."
+70,2022-07-04,2022-01-18,13,Diabetes,1,3,0,2,Patient admitted with diabetes. History of heart failure. Condition improved. Continue medications as prescribed.
+71,2022-03-10,2022-01-08,22,Pneumonia,13,3,0,2,"Patient admitted with diabetes. History of hypertension, anemia. Patient responding well to treatment. Discharge home."
+72,2022-11-13,2022-01-10,27,Heart Failure,5,3,0,4,Patient admitted with anemia. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+73,2022-05-10,2022-01-21,25,Heart Failure,6,4,0,1,"Patient admitted with pneumonia. History of copd, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+74,2022-02-24,2022-01-09,27,Stroke,9,4,1,0,Patient admitted with anemia. History of depression. Condition improved. Continue medications as prescribed.
+75,2022-04-07,2022-01-25,20,Diabetes,14,7,1,3,"Patient admitted with anemia. History of heart failure, depression. Condition improved. Continue medications as prescribed."
+76,2022-12-02,2022-01-24,18,Sepsis,1,8,0,6,"Patient admitted with hypertension. History of depression, pneumonia. Patient responding well to treatment. Discharge home."
+77,2022-03-28,2022-01-08,14,Stroke,13,1,0,1,"Patient admitted with pneumonia. History of sepsis, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+78,2022-10-21,2022-01-22,18,Cancer,4,6,0,0,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+79,2022-04-29,2022-01-13,5,Stroke,10,0,0,1,"Patient admitted with kidney disease. History of copd, pneumonia. Condition improved. Continue medications as prescribed."
+80,2022-07-27,2022-01-18,26,Stroke,8,0,0,1,"Patient admitted with depression. History of kidney disease, sepsis. Condition improved. Continue medications as prescribed."
+81,2022-11-30,2022-01-13,9,Kidney Disease,10,3,0,0,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+82,2022-06-03,2022-01-30,28,Other,9,9,1,1,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+83,2022-02-04,2022-01-19,3,Pneumonia,13,6,0,1,Patient admitted with kidney disease. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+84,2022-03-20,2022-01-15,8,Kidney Disease,3,1,1,4,"Patient admitted with heart failure. History of diabetes, anemia. Significant improvement observed. Recommend outpatient follow-up."
+85,2022-03-08,2022-01-21,20,Heart Failure,11,1,1,4,"Patient admitted with sepsis. History of kidney disease, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+86,2022-12-09,2022-01-26,22,Heart Failure,2,0,1,2,Patient admitted with sepsis. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+87,2022-02-03,2022-01-04,10,COPD,4,9,0,0,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+88,2022-04-07,2022-01-19,22,COPD,2,1,0,1,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+89,2022-06-18,2022-01-25,19,Sepsis,1,6,0,1,Patient admitted with pneumonia. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+90,2022-06-18,2022-01-09,21,Heart Failure,12,8,0,2,Patient admitted with depression. Patient responding well to treatment. Discharge home.
+91,2022-05-31,2022-01-06,28,Other,3,5,0,0,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+92,2022-03-12,2022-01-05,3,Kidney Disease,7,9,1,5,Patient admitted with depression. History of sepsis. Patient responding well to treatment. Discharge home.
+93,2022-01-03,2022-01-05,11,Cancer,13,1,1,2,"Patient admitted with kidney disease. History of heart failure, sepsis. Patient responding well to treatment. Discharge home."
+94,2022-11-10,2022-01-16,11,Other,13,9,1,2,"Patient admitted with sepsis. History of hypertension, kidney disease. Patient responding well to treatment. Discharge home."
+95,2022-02-01,2022-01-12,17,COPD,1,9,1,1,Patient admitted with pneumonia. History of depression. Condition improved. Continue medications as prescribed.
+96,2022-10-14,2022-01-19,16,Diabetes,2,8,0,1,Patient admitted with copd. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+97,2022-03-23,2022-01-30,7,Other,1,6,0,0,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+98,2022-02-12,2022-01-08,4,Other,8,0,0,3,"Patient admitted with depression. History of diabetes, heart failure. Condition improved. Continue medications as prescribed."
+99,2022-04-15,2022-01-26,23,Other,5,8,0,4,Patient admitted with copd. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+100,2022-01-01,2022-01-24,19,Other,8,1,1,2,Patient admitted with kidney disease. History of hypertension. Condition improved. Continue medications as prescribed.
+101,2022-03-02,2022-01-10,12,Other,3,3,0,1,"Patient admitted with kidney disease. History of anemia, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+102,2022-09-27,2022-01-16,15,COPD,13,8,0,3,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+103,2022-06-29,2022-01-23,11,Heart Failure,12,3,0,1,"Patient admitted with diabetes. History of sepsis, anemia. Patient responding well to treatment. Discharge home."
+104,2022-08-12,2022-01-27,5,Stroke,7,2,0,2,"Patient admitted with heart failure. History of sepsis, anemia. Patient stable for discharge. Follow up in 2 weeks."
+105,2022-01-06,2022-01-30,5,Other,8,0,0,1,Patient admitted with copd. History of heart failure. Condition improved. Continue medications as prescribed.
+106,2022-04-13,2022-01-29,15,Other,6,6,1,0,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+107,2022-01-10,2022-01-16,29,Pneumonia,13,5,0,0,Patient admitted with anemia. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+108,2022-03-12,2022-01-30,18,Heart Failure,13,9,0,3,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+109,2022-03-31,2022-01-29,11,Stroke,7,3,0,2,Patient admitted with dementia. History of heart failure. Condition improved. Continue medications as prescribed.
+110,2022-08-14,2022-01-10,26,Cancer,14,5,0,0,"Patient admitted with dementia. History of copd, depression. Patient responding well to treatment. Discharge home."
+111,2022-06-07,2022-01-13,12,Cancer,12,5,0,3,Patient admitted with pneumonia. History of heart failure. Condition improved. Continue medications as prescribed.
+112,2022-08-16,2022-01-18,2,Diabetes,2,3,1,1,"Patient admitted with copd. History of diabetes, kidney disease. Patient responding well to treatment. Discharge home."
+113,2022-05-06,2022-01-24,20,Hip Fracture,8,5,0,1,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+114,2022-07-28,2022-01-30,15,Kidney Disease,5,9,0,1,Patient admitted with sepsis. History of pneumonia. Patient responding well to treatment. Discharge home.
+115,2022-04-07,2022-01-09,20,Pneumonia,7,7,0,1,"Patient admitted with depression. History of copd, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+116,2022-03-15,2022-01-08,4,Heart Failure,1,2,0,2,Patient admitted with hypertension. History of pneumonia. Patient responding well to treatment. Discharge home.
+117,2022-04-25,2022-01-26,22,Heart Failure,5,3,0,0,Patient admitted with kidney disease. History of depression. Condition improved. Continue medications as prescribed.
+118,2022-07-10,2022-01-05,18,Hip Fracture,1,9,0,0,"Patient admitted with depression. History of copd, sepsis. Condition improved. Continue medications as prescribed."
+119,2022-06-19,2022-01-24,6,Diabetes,12,0,0,1,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+120,2022-11-03,2022-01-18,23,Sepsis,13,3,1,1,Patient admitted with diabetes. History of anemia. Condition improved. Continue medications as prescribed.
+121,2022-07-23,2022-01-29,27,COPD,8,9,0,1,Patient admitted with heart failure. History of sepsis. Condition improved. Continue medications as prescribed.
+122,2022-02-25,2022-01-19,26,Diabetes,4,9,0,1,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+123,2022-07-27,2022-01-22,19,Stroke,4,8,0,3,"Patient admitted with dementia. History of kidney disease, sepsis. Patient stable for discharge. Follow up in 2 weeks."
+124,2022-02-10,2022-01-12,11,Diabetes,2,7,0,2,"Patient admitted with kidney disease. History of anemia, depression. Significant improvement observed. Recommend outpatient follow-up."
+125,2022-02-01,2022-01-25,28,Hip Fracture,5,3,1,2,Patient admitted with depression. History of dementia. Condition improved. Continue medications as prescribed.
+126,2022-01-15,2022-01-29,24,Hip Fracture,1,6,1,0,Patient admitted with anemia. History of sepsis. Condition improved. Continue medications as prescribed.
+127,2022-03-03,2022-01-22,2,Kidney Disease,9,9,0,0,Patient admitted with pneumonia. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+128,2022-06-04,2022-01-10,27,Pneumonia,5,2,1,2,Patient admitted with heart failure. History of diabetes. Patient responding well to treatment. Discharge home.
+129,2022-10-11,2022-01-07,8,Other,6,8,1,0,Patient admitted with pneumonia. History of heart failure. Patient responding well to treatment. Discharge home.
+130,2022-07-28,2022-01-06,29,Cancer,2,9,1,2,Patient admitted with copd. Patient responding well to treatment. Discharge home.
+131,2022-11-16,2022-01-27,11,Hip Fracture,10,3,0,3,Patient admitted with dementia. History of depression. Condition improved. Continue medications as prescribed.
+132,2022-07-06,2022-01-23,5,Kidney Disease,10,1,0,3,"Patient admitted with heart failure. History of kidney disease, anemia. Patient responding well to treatment. Discharge home."
+133,2022-05-10,2022-01-14,18,COPD,1,9,0,1,Patient admitted with hypertension. History of diabetes. Condition improved. Continue medications as prescribed.
+134,2022-05-07,2022-01-04,23,Cancer,4,4,1,2,Patient admitted with sepsis. History of pneumonia. Condition improved. Continue medications as prescribed.
+135,2022-10-19,2022-01-09,18,Sepsis,7,1,0,1,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+136,2022-04-24,2022-01-29,14,Heart Failure,6,9,0,3,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+137,2022-07-18,2022-01-14,22,COPD,10,5,0,2,Patient admitted with copd. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+138,2022-01-13,2022-01-30,10,Sepsis,1,9,0,1,Patient admitted with depression. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+139,2022-09-28,2022-01-04,3,Cancer,1,0,0,2,"Patient admitted with heart failure. History of hypertension, diabetes. Condition improved. Continue medications as prescribed."
+140,2022-03-30,2022-01-24,9,COPD,8,5,1,0,"Patient admitted with heart failure. History of pneumonia, anemia. Patient stable for discharge. Follow up in 2 weeks."
+141,2022-08-03,2022-01-10,3,Kidney Disease,4,3,0,1,"Patient admitted with anemia. History of dementia, diabetes. Condition improved. Continue medications as prescribed."
+142,2022-10-05,2022-01-09,11,Sepsis,5,2,1,0,Patient admitted with dementia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+143,2022-07-22,2022-01-17,12,Heart Failure,13,1,0,0,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+144,2022-03-15,2022-01-05,12,Other,7,6,0,2,Patient admitted with dementia. History of sepsis. Condition improved. Continue medications as prescribed.
+145,2022-01-25,2022-01-30,3,Kidney Disease,8,8,0,3,Patient admitted with dementia. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+146,2022-04-11,2022-01-07,21,Stroke,10,2,0,2,"Patient admitted with heart failure. History of anemia, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+147,2022-06-25,2022-01-14,7,Heart Failure,7,5,0,2,Patient admitted with heart failure. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+148,2022-04-27,2022-01-18,14,Pneumonia,2,8,0,0,Patient admitted with kidney disease. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+149,2022-06-15,2022-01-21,24,Diabetes,14,1,0,1,"Patient admitted with heart failure. History of depression, copd. Significant improvement observed. Recommend outpatient follow-up."
+150,2022-02-10,2022-01-30,28,Pneumonia,4,6,1,0,Patient admitted with heart failure. Patient responding well to treatment. Discharge home.
+151,2022-12-10,2022-01-04,11,Hip Fracture,10,4,0,1,Patient admitted with kidney disease. Patient responding well to treatment. Discharge home.
+152,2022-04-30,2022-01-06,7,Other,12,4,0,3,"Patient admitted with kidney disease. History of anemia, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+153,2022-04-07,2022-01-06,25,Stroke,1,6,0,1,Patient admitted with dementia. History of heart failure. Patient responding well to treatment. Discharge home.
+154,2022-05-25,2022-01-10,21,Stroke,10,8,0,0,"Patient admitted with anemia. History of pneumonia, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+155,2022-08-04,2022-01-04,10,Diabetes,9,3,0,1,"Patient admitted with diabetes. History of pneumonia, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+156,2022-08-17,2022-01-28,11,Sepsis,3,8,0,0,Patient admitted with copd. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+157,2022-11-09,2022-01-14,15,Diabetes,12,9,0,0,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+158,2022-05-10,2022-01-09,19,Hip Fracture,3,8,0,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+159,2022-12-18,2022-01-23,16,Pneumonia,10,3,0,0,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+160,2022-11-14,2022-01-06,22,Stroke,9,2,1,2,"Patient admitted with copd. History of hypertension, diabetes. Condition improved. Continue medications as prescribed."
+161,2022-05-17,2022-01-22,21,Pneumonia,10,1,0,0,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+162,2022-11-20,2022-01-05,28,Heart Failure,3,8,0,4,Patient admitted with sepsis. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+163,2022-12-03,2022-01-21,20,Other,8,1,1,1,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+164,2022-09-30,2022-01-15,12,COPD,2,5,0,3,"Patient admitted with kidney disease. History of heart failure, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+165,2022-04-27,2022-01-13,18,Hip Fracture,14,4,0,0,"Patient admitted with depression. History of pneumonia, dementia. Patient stable for discharge. Follow up in 2 weeks."
+166,2022-11-02,2022-01-08,23,COPD,13,4,0,3,Patient admitted with kidney disease. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+167,2022-04-04,2022-01-12,13,Hip Fracture,3,3,0,1,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+168,2022-06-17,2022-01-05,5,Cancer,2,5,0,2,"Patient admitted with depression. History of sepsis, copd. Significant improvement observed. Recommend outpatient follow-up."
+169,2022-07-22,2022-01-05,4,Other,1,4,0,3,"Patient admitted with pneumonia. History of kidney disease, dementia. Patient stable for discharge. Follow up in 2 weeks."
+170,2022-12-07,2022-01-09,28,Heart Failure,2,3,1,2,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+171,2022-05-29,2022-01-13,14,Other,8,8,1,0,Patient admitted with kidney disease. History of sepsis. Patient responding well to treatment. Discharge home.
+172,2022-07-02,2022-01-21,8,Sepsis,9,5,0,1,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+173,2022-06-01,2022-01-15,9,Hip Fracture,13,9,0,2,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+174,2022-03-15,2022-01-07,25,COPD,2,9,0,2,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+175,2022-12-31,2022-01-25,19,Hip Fracture,7,9,0,1,Patient admitted with diabetes. History of hypertension. Patient responding well to treatment. Discharge home.
+176,2022-10-01,2022-01-24,3,Sepsis,5,2,0,0,"Patient admitted with dementia. History of depression, diabetes. Condition improved. Continue medications as prescribed."
+177,2022-02-11,2022-01-20,5,Hip Fracture,3,9,0,2,Patient admitted with heart failure. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+178,2022-07-31,2022-01-18,21,Other,9,5,0,3,"Patient admitted with kidney disease. History of diabetes, dementia. Patient stable for discharge. Follow up in 2 weeks."
+179,2022-04-11,2022-01-09,26,Kidney Disease,6,0,0,5,Patient admitted with kidney disease. Patient responding well to treatment. Discharge home.
+180,2022-02-14,2022-01-19,18,Hip Fracture,11,4,1,1,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+181,2022-03-23,2022-01-20,1,Cancer,1,9,0,1,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+182,2022-01-17,2022-01-06,8,Cancer,5,5,1,1,Patient admitted with heart failure. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+183,2022-03-14,2022-01-13,19,Stroke,7,7,1,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+184,2022-01-14,2022-01-08,17,Cancer,4,8,0,4,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+185,2022-06-06,2022-01-17,17,Hip Fracture,8,2,1,1,"Patient admitted with diabetes. History of pneumonia, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+186,2022-08-11,2022-01-29,11,Hip Fracture,10,1,0,3,Patient admitted with depression. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+187,2022-05-12,2022-01-24,2,Kidney Disease,5,3,0,0,Patient admitted with pneumonia. Patient responding well to treatment. Discharge home.
+188,2022-12-04,2022-01-16,6,Cancer,9,7,0,1,"Patient admitted with heart failure. History of depression, anemia. Significant improvement observed. Recommend outpatient follow-up."
+189,2022-02-16,2022-01-29,22,Pneumonia,9,7,0,1,Patient admitted with copd. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+190,2022-04-17,2022-01-09,14,Hip Fracture,9,2,0,1,"Patient admitted with heart failure. History of anemia, dementia. Patient stable for discharge. Follow up in 2 weeks."
+191,2022-04-18,2022-01-15,3,Heart Failure,1,3,0,1,"Patient admitted with copd. History of sepsis, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+192,2022-09-22,2022-01-29,12,Heart Failure,2,2,0,3,Patient admitted with heart failure. History of pneumonia. Patient responding well to treatment. Discharge home.
+193,2022-07-24,2022-01-11,4,COPD,3,9,0,0,Patient admitted with depression. History of copd. Patient responding well to treatment. Discharge home.
+194,2022-03-20,2022-01-08,12,Kidney Disease,14,1,0,3,"Patient admitted with sepsis. History of anemia, depression. Patient responding well to treatment. Discharge home."
+195,2022-06-04,2022-01-18,13,Sepsis,4,3,0,2,Patient admitted with anemia. History of copd. Condition improved. Continue medications as prescribed.
+196,2022-09-28,2022-01-30,2,Pneumonia,10,5,0,1,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+197,2022-09-04,2022-01-19,2,Hip Fracture,9,4,0,3,Patient admitted with heart failure. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+198,2022-01-19,2022-01-04,15,Other,10,2,0,1,"Patient admitted with copd. History of sepsis, pneumonia. Condition improved. Continue medications as prescribed."
+199,2022-12-12,2022-01-19,23,Diabetes,13,1,0,2,Patient admitted with depression. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+200,2022-01-26,2022-01-08,29,Diabetes,6,8,1,1,"Patient admitted with heart failure. History of pneumonia, depression. Significant improvement observed. Recommend outpatient follow-up."
+201,2022-08-05,2022-01-06,17,Sepsis,1,0,0,0,"Patient admitted with kidney disease. History of copd, sepsis. Patient responding well to treatment. Discharge home."
+202,2022-06-03,2022-01-23,7,Stroke,12,8,0,1,Patient admitted with sepsis. History of copd. Condition improved. Continue medications as prescribed.
+203,2022-06-03,2022-01-18,28,Other,9,0,0,1,Patient admitted with dementia. Patient stable for discharge. Follow up in 2 weeks.
+204,2022-06-23,2022-01-16,14,Diabetes,6,6,1,0,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+205,2022-04-02,2022-01-27,12,Sepsis,4,5,0,1,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+206,2022-12-04,2022-01-19,17,Diabetes,14,6,0,1,Patient admitted with depression. History of copd. Patient responding well to treatment. Discharge home.
+207,2022-06-30,2022-01-26,14,Kidney Disease,4,2,0,3,Patient admitted with heart failure. Patient responding well to treatment. Discharge home.
+208,2022-05-11,2022-01-14,6,COPD,3,2,0,1,"Patient admitted with depression. History of diabetes, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+209,2022-10-25,2022-01-24,19,Stroke,7,0,0,1,Patient admitted with diabetes. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+210,2022-10-02,2022-01-05,24,Kidney Disease,3,3,0,1,"Patient admitted with dementia. History of kidney disease, diabetes. Patient responding well to treatment. Discharge home."
+211,2022-09-30,2022-01-25,6,Other,2,1,1,1,Patient admitted with diabetes. History of hypertension. Condition improved. Continue medications as prescribed.
+212,2022-03-17,2022-01-30,27,Sepsis,10,9,0,1,"Patient admitted with hypertension. History of depression, kidney disease. Condition improved. Continue medications as prescribed."
+213,2022-06-26,2022-01-09,18,Pneumonia,8,7,0,3,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+214,2022-07-03,2022-01-29,24,Other,4,2,1,3,"Patient admitted with pneumonia. History of copd, dementia. Significant improvement observed. Recommend outpatient follow-up."
+215,2022-11-15,2022-01-29,5,Other,8,6,0,1,"Patient admitted with anemia. History of pneumonia, copd. Patient responding well to treatment. Discharge home."
+216,2022-05-11,2022-01-30,24,Cancer,1,6,1,2,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+217,2022-12-29,2022-01-09,24,Pneumonia,5,8,0,2,"Patient admitted with copd. History of depression, hypertension. Patient responding well to treatment. Discharge home."
+218,2022-02-18,2022-01-17,6,Heart Failure,13,5,1,5,"Patient admitted with depression. History of hypertension, copd. Patient stable for discharge. Follow up in 2 weeks."
+219,2022-02-24,2022-01-28,2,Cancer,9,0,0,2,"Patient admitted with diabetes. History of kidney disease, hypertension. Patient responding well to treatment. Discharge home."
+220,2022-06-03,2022-01-14,8,Sepsis,1,7,1,2,"Patient admitted with heart failure. History of sepsis, depression. Significant improvement observed. Recommend outpatient follow-up."
+221,2022-12-21,2022-01-11,15,Heart Failure,11,0,1,2,Patient admitted with kidney disease. History of sepsis. Patient responding well to treatment. Discharge home.
+222,2022-07-19,2022-01-11,15,Diabetes,13,2,0,2,"Patient admitted with pneumonia. History of anemia, depression. Significant improvement observed. Recommend outpatient follow-up."
+223,2022-11-04,2022-01-04,11,Diabetes,4,4,0,4,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+224,2022-12-22,2022-01-24,22,Other,6,7,0,1,Patient admitted with kidney disease. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+225,2022-04-28,2022-01-10,22,Cancer,10,8,1,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+226,2022-09-20,2022-01-09,24,Hip Fracture,8,6,0,0,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+227,2022-02-15,2022-01-24,1,Pneumonia,14,8,0,6,Patient admitted with copd. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+228,2022-10-29,2022-01-11,18,Heart Failure,3,2,0,0,"Patient admitted with pneumonia. History of dementia, sepsis. Condition improved. Continue medications as prescribed."
+229,2022-12-22,2022-01-22,12,Pneumonia,5,4,0,3,"Patient admitted with copd. History of sepsis, dementia. Patient responding well to treatment. Discharge home."
+230,2022-07-08,2022-01-25,12,Cancer,7,9,0,1,"Patient admitted with copd. History of dementia, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+231,2022-11-06,2022-01-24,25,Other,1,7,1,1,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+232,2022-11-14,2022-01-27,11,Kidney Disease,7,0,0,0,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+233,2022-05-09,2022-01-23,28,Diabetes,13,7,1,1,"Patient admitted with kidney disease. History of anemia, dementia. Condition improved. Continue medications as prescribed."
+234,2022-02-18,2022-01-11,8,Heart Failure,12,6,0,1,"Patient admitted with pneumonia. History of sepsis, copd. Patient responding well to treatment. Discharge home."
+235,2022-01-25,2022-01-29,28,Heart Failure,11,0,0,1,Patient admitted with hypertension. History of sepsis. Patient responding well to treatment. Discharge home.
+236,2022-09-23,2022-01-17,7,Sepsis,8,9,0,2,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+237,2022-04-28,2022-01-21,23,Heart Failure,8,9,0,3,"Patient admitted with copd. History of hypertension, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+238,2022-05-24,2022-01-28,21,Cancer,9,5,1,0,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+239,2022-07-19,2022-01-19,2,Heart Failure,6,0,1,2,"Patient admitted with dementia. History of heart failure, copd. Patient responding well to treatment. Discharge home."
+240,2022-06-06,2022-01-12,11,Heart Failure,12,1,0,2,Patient admitted with kidney disease. History of hypertension. Patient responding well to treatment. Discharge home.
+241,2022-12-14,2022-01-18,22,Pneumonia,6,4,0,2,Patient admitted with dementia. Patient stable for discharge. Follow up in 2 weeks.
+242,2022-05-14,2022-01-29,10,Other,2,1,0,1,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+243,2022-05-28,2022-01-13,3,COPD,3,9,1,1,"Patient admitted with hypertension. History of pneumonia, dementia. Condition improved. Continue medications as prescribed."
+244,2022-12-02,2022-01-25,20,Heart Failure,4,0,1,0,"Patient admitted with sepsis. History of hypertension, copd. Patient stable for discharge. Follow up in 2 weeks."
+245,2022-03-12,2022-01-19,29,Hip Fracture,4,5,1,3,Patient admitted with copd. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+246,2022-08-21,2022-01-07,10,Other,8,7,0,1,"Patient admitted with sepsis. History of copd, kidney disease. Patient responding well to treatment. Discharge home."
+247,2022-11-30,2022-01-23,28,Stroke,14,7,0,1,Patient admitted with dementia. History of depression. Patient responding well to treatment. Discharge home.
+248,2022-10-26,2022-01-16,27,Sepsis,1,7,0,4,Patient admitted with pneumonia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+249,2022-06-03,2022-01-25,18,Pneumonia,10,5,0,2,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+250,2022-03-31,2022-01-08,14,Sepsis,14,2,0,6,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+251,2022-11-30,2022-01-25,18,Kidney Disease,4,0,0,1,Patient admitted with depression. History of diabetes. Patient responding well to treatment. Discharge home.
+252,2022-07-18,2022-01-10,28,Heart Failure,11,1,0,1,Patient admitted with anemia. History of depression. Condition improved. Continue medications as prescribed.
+253,2022-06-10,2022-01-26,24,Diabetes,12,4,1,2,Patient admitted with anemia. History of depression. Patient responding well to treatment. Discharge home.
+254,2022-01-26,2022-01-12,8,Hip Fracture,13,9,1,2,"Patient admitted with heart failure. History of anemia, hypertension. Condition improved. Continue medications as prescribed."
+255,2022-05-01,2022-01-11,10,Pneumonia,11,4,0,1,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+256,2022-10-28,2022-01-19,22,Sepsis,11,9,0,2,Patient admitted with hypertension. History of copd. Condition improved. Continue medications as prescribed.
+257,2022-07-31,2022-01-09,13,Heart Failure,4,0,0,3,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+258,2022-03-04,2022-01-19,21,Diabetes,1,0,1,2,"Patient admitted with copd. History of anemia, kidney disease. Patient responding well to treatment. Discharge home."
+259,2022-03-09,2022-01-09,8,Diabetes,3,8,1,0,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+260,2022-09-10,2022-01-17,4,Kidney Disease,5,1,1,1,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+261,2022-01-02,2022-01-24,27,Other,6,6,1,1,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+262,2022-04-18,2022-01-04,4,Hip Fracture,9,9,0,1,Patient admitted with pneumonia. Patient responding well to treatment. Discharge home.
+263,2022-10-13,2022-01-28,5,COPD,9,3,0,0,"Patient admitted with depression. History of hypertension, dementia. Condition improved. Continue medications as prescribed."
+264,2022-02-18,2022-01-12,1,Hip Fracture,9,6,0,1,Patient admitted with depression. Patient responding well to treatment. Discharge home.
+265,2022-05-20,2022-01-28,17,Kidney Disease,11,7,0,2,Patient admitted with kidney disease. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+266,2022-08-06,2022-01-30,2,Cancer,1,4,1,1,"Patient admitted with hypertension. History of kidney disease, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+267,2022-02-13,2022-01-27,8,Other,12,0,0,1,"Patient admitted with kidney disease. History of hypertension, copd. Condition improved. Continue medications as prescribed."
+268,2022-09-26,2022-01-16,7,Pneumonia,9,3,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+269,2022-03-19,2022-01-29,15,Other,13,9,0,2,Patient admitted with kidney disease. History of diabetes. Patient responding well to treatment. Discharge home.
+270,2022-08-04,2022-01-22,26,Kidney Disease,8,2,1,0,"Patient admitted with kidney disease. History of depression, sepsis. Condition improved. Continue medications as prescribed."
+271,2022-04-08,2022-01-20,25,Kidney Disease,2,9,0,0,"Patient admitted with pneumonia. History of kidney disease, anemia. Significant improvement observed. Recommend outpatient follow-up."
+272,2022-08-24,2022-01-14,5,Pneumonia,13,4,0,0,"Patient admitted with kidney disease. History of heart failure, diabetes. Patient responding well to treatment. Discharge home."
+273,2022-10-09,2022-01-11,2,Pneumonia,11,9,0,2,"Patient admitted with hypertension. History of anemia, depression. Patient responding well to treatment. Discharge home."
+274,2022-05-29,2022-01-26,7,Pneumonia,1,9,0,1,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+275,2022-10-31,2022-01-08,8,Other,1,5,0,2,"Patient admitted with hypertension. History of pneumonia, dementia. Patient stable for discharge. Follow up in 2 weeks."
+276,2022-03-07,2022-01-13,28,Heart Failure,12,1,1,0,Patient admitted with copd. History of dementia. Patient responding well to treatment. Discharge home.
+277,2022-08-22,2022-01-10,7,Sepsis,6,6,0,1,"Patient admitted with kidney disease. History of copd, heart failure. Condition improved. Continue medications as prescribed."
+278,2022-03-28,2022-01-13,7,Stroke,9,2,1,2,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+279,2022-03-20,2022-01-07,28,Pneumonia,7,0,0,3,Patient admitted with diabetes. History of pneumonia. Patient responding well to treatment. Discharge home.
+280,2022-07-24,2022-01-12,14,Sepsis,5,9,0,3,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+281,2022-10-06,2022-01-30,21,Stroke,11,2,1,2,Patient admitted with heart failure. History of pneumonia. Patient responding well to treatment. Discharge home.
+282,2022-12-03,2022-01-29,18,Other,2,8,0,0,"Patient admitted with kidney disease. History of copd, dementia. Patient responding well to treatment. Discharge home."
+283,2022-09-11,2022-01-17,6,Sepsis,1,9,0,1,"Patient admitted with kidney disease. History of anemia, hypertension. Condition improved. Continue medications as prescribed."
+284,2022-10-31,2022-01-05,4,Pneumonia,2,5,1,3,"Patient admitted with kidney disease. History of pneumonia, hypertension. Condition improved. Continue medications as prescribed."
+285,2022-05-10,2022-01-28,10,COPD,1,5,0,2,Patient admitted with pneumonia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+286,2022-03-25,2022-01-12,18,Kidney Disease,3,3,1,0,Patient admitted with dementia. History of pneumonia. Patient responding well to treatment. Discharge home.
+287,2022-10-03,2022-01-24,12,Sepsis,6,7,0,2,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+288,2022-07-06,2022-01-30,16,Diabetes,13,4,0,4,"Patient admitted with dementia. History of depression, kidney disease. Patient stable for discharge. Follow up in 2 weeks."
+289,2022-02-15,2022-01-04,25,Diabetes,8,6,0,3,"Patient admitted with pneumonia. History of depression, copd. Patient stable for discharge. Follow up in 2 weeks."
+290,2022-07-02,2022-01-26,7,Sepsis,3,8,1,1,Patient admitted with hypertension. History of kidney disease. Patient responding well to treatment. Discharge home.
+291,2022-09-25,2022-01-13,6,Pneumonia,10,4,0,3,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+292,2022-10-23,2022-01-13,28,Hip Fracture,9,4,1,0,Patient admitted with pneumonia. History of depression. Patient responding well to treatment. Discharge home.
+293,2022-11-18,2022-01-23,5,Pneumonia,10,3,1,3,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+294,2022-04-10,2022-01-28,3,Other,5,5,0,1,"Patient admitted with depression. History of heart failure, copd. Patient stable for discharge. Follow up in 2 weeks."
+295,2022-03-19,2022-01-25,12,Pneumonia,7,1,0,1,"Patient admitted with diabetes. History of depression, sepsis. Condition improved. Continue medications as prescribed."
+296,2022-09-29,2022-01-06,15,Other,8,2,0,4,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+297,2022-12-05,2022-01-09,10,Hip Fracture,3,0,0,2,"Patient admitted with diabetes. History of copd, anemia. Patient stable for discharge. Follow up in 2 weeks."
+298,2022-06-11,2022-01-29,26,COPD,2,1,0,5,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+299,2022-02-13,2022-01-09,20,Other,2,1,0,3,Patient admitted with depression. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+300,2022-08-26,2022-01-24,19,Cancer,5,7,1,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+301,2022-05-14,2022-01-05,16,Diabetes,1,7,1,0,Patient admitted with sepsis. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+302,2022-07-11,2022-01-29,28,Kidney Disease,2,1,1,2,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+303,2022-12-22,2022-01-29,11,Diabetes,13,5,1,2,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+304,2022-10-05,2022-01-21,8,Other,9,4,0,1,"Patient admitted with sepsis. History of copd, anemia. Significant improvement observed. Recommend outpatient follow-up."
+305,2022-01-18,2022-01-26,3,Cancer,7,2,0,3,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+306,2022-01-12,2022-01-05,23,Heart Failure,6,4,1,1,"Patient admitted with kidney disease. History of sepsis, copd. Condition improved. Continue medications as prescribed."
+307,2022-06-29,2022-01-15,7,COPD,9,4,0,0,Patient admitted with depression. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+308,2022-05-03,2022-01-25,23,COPD,7,4,1,3,"Patient admitted with hypertension. History of sepsis, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+309,2022-09-03,2022-01-08,29,Heart Failure,14,2,0,4,Patient admitted with hypertension. History of depression. Condition improved. Continue medications as prescribed.
+310,2022-08-10,2022-01-23,7,Kidney Disease,11,2,0,1,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+311,2022-02-20,2022-01-10,14,Hip Fracture,5,3,1,1,Patient admitted with dementia. History of sepsis. Patient responding well to treatment. Discharge home.
+312,2022-03-12,2022-01-27,2,Stroke,9,6,1,3,Patient admitted with heart failure. History of depression. Condition improved. Continue medications as prescribed.
+313,2022-02-17,2022-01-19,10,Cancer,6,1,0,0,"Patient admitted with kidney disease. History of diabetes, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+314,2022-01-19,2022-01-23,19,Other,6,9,1,1,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+315,2022-09-19,2022-01-04,26,Stroke,11,3,0,5,Patient admitted with copd. History of sepsis. Condition improved. Continue medications as prescribed.
+316,2022-03-25,2022-01-04,9,Kidney Disease,4,3,0,0,"Patient admitted with anemia. History of dementia, depression. Patient stable for discharge. Follow up in 2 weeks."
+317,2022-06-04,2022-01-20,16,Hip Fracture,13,0,1,2,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+318,2022-02-22,2022-01-30,19,COPD,12,9,0,0,"Patient admitted with pneumonia. History of sepsis, depression. Condition improved. Continue medications as prescribed."
+319,2022-04-17,2022-01-04,18,Other,1,7,0,1,"Patient admitted with pneumonia. History of hypertension, depression. Condition improved. Continue medications as prescribed."
+320,2022-12-23,2022-01-24,9,Other,5,0,0,4,"Patient admitted with copd. History of kidney disease, diabetes. Patient responding well to treatment. Discharge home."
+321,2022-10-31,2022-01-23,16,Hip Fracture,11,7,0,4,Patient admitted with pneumonia. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+322,2022-05-15,2022-01-16,13,Diabetes,9,6,0,0,Patient admitted with sepsis. History of anemia. Patient responding well to treatment. Discharge home.
+323,2022-03-10,2022-01-12,10,Cancer,13,8,0,7,"Patient admitted with diabetes. History of sepsis, heart failure. Condition improved. Continue medications as prescribed."
+324,2022-01-11,2022-01-18,25,Hip Fracture,8,7,0,2,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+325,2022-05-23,2022-01-06,20,Pneumonia,8,4,1,2,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+326,2022-07-11,2022-01-17,14,Pneumonia,5,7,0,1,"Patient admitted with depression. History of diabetes, hypertension. Patient stable for discharge. Follow up in 2 weeks."
+327,2022-03-10,2022-01-26,12,Hip Fracture,12,9,1,3,"Patient admitted with kidney disease. History of dementia, anemia. Patient responding well to treatment. Discharge home."
+328,2022-01-23,2022-01-14,25,COPD,9,2,0,0,Patient admitted with heart failure. History of anemia. Patient responding well to treatment. Discharge home.
+329,2022-06-30,2022-01-27,19,Hip Fracture,3,9,0,1,Patient admitted with kidney disease. History of anemia. Patient responding well to treatment. Discharge home.
+330,2022-10-20,2022-01-25,7,Sepsis,3,6,0,0,Patient admitted with kidney disease. History of diabetes. Patient responding well to treatment. Discharge home.
+331,2022-01-09,2022-01-15,23,Kidney Disease,1,3,0,1,Patient admitted with hypertension. History of diabetes. Condition improved. Continue medications as prescribed.
+332,2022-09-28,2022-01-16,15,Pneumonia,9,4,0,0,Patient admitted with heart failure. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+333,2022-04-03,2022-01-29,16,Stroke,6,8,0,0,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+334,2022-01-17,2022-01-16,27,Hip Fracture,2,6,0,0,Patient admitted with copd. History of depression. Patient responding well to treatment. Discharge home.
+335,2022-06-03,2022-01-04,8,Pneumonia,8,3,0,3,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+336,2022-11-24,2022-01-27,10,Kidney Disease,12,5,0,1,"Patient admitted with anemia. History of depression, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+337,2022-05-29,2022-01-13,4,Kidney Disease,9,9,0,2,Patient admitted with diabetes. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+338,2022-09-24,2022-01-06,19,Stroke,9,6,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+339,2022-11-24,2022-01-27,19,Other,2,9,1,1,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+340,2022-04-16,2022-01-07,28,Sepsis,2,8,0,1,"Patient admitted with kidney disease. History of sepsis, dementia. Patient responding well to treatment. Discharge home."
+341,2022-02-04,2022-01-19,21,Hip Fracture,13,3,0,1,"Patient admitted with depression. History of anemia, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+342,2022-04-29,2022-01-11,27,Heart Failure,7,9,0,1,Patient admitted with kidney disease. History of sepsis. Patient responding well to treatment. Discharge home.
+343,2022-01-14,2022-01-19,15,Hip Fracture,11,2,1,5,"Patient admitted with sepsis. History of dementia, pneumonia. Condition improved. Continue medications as prescribed."
+344,2022-01-14,2022-01-30,14,Other,4,7,0,0,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+345,2022-09-23,2022-01-20,1,Cancer,13,0,1,1,"Patient admitted with anemia. History of dementia, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+346,2022-05-20,2022-01-22,16,Diabetes,1,8,0,1,"Patient admitted with heart failure. History of pneumonia, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+347,2022-10-21,2022-01-25,10,COPD,8,0,1,2,Patient admitted with dementia. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+348,2022-12-30,2022-01-18,19,Other,2,1,1,1,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+349,2022-04-29,2022-01-19,22,Kidney Disease,14,7,1,1,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+350,2022-08-26,2022-01-18,3,Heart Failure,3,8,0,3,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+351,2022-02-03,2022-01-28,5,COPD,5,6,0,1,Patient admitted with hypertension. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+352,2022-06-18,2022-01-05,9,Pneumonia,14,2,0,0,"Patient admitted with dementia. History of pneumonia, sepsis. Condition improved. Continue medications as prescribed."
+353,2022-01-10,2022-01-14,18,Hip Fracture,3,6,0,1,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+354,2022-05-02,2022-01-04,11,COPD,7,5,1,1,Patient admitted with sepsis. History of dementia. Patient responding well to treatment. Discharge home.
+355,2022-05-25,2022-01-18,16,Pneumonia,7,1,0,3,"Patient admitted with sepsis. History of pneumonia, dementia. Significant improvement observed. Recommend outpatient follow-up."
+356,2022-08-11,2022-01-29,2,Diabetes,14,2,0,1,"Patient admitted with heart failure. History of anemia, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+357,2022-09-14,2022-01-22,12,Pneumonia,2,9,0,2,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+358,2022-09-25,2022-01-07,22,Heart Failure,13,9,0,2,"Patient admitted with sepsis. History of hypertension, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+359,2022-12-25,2022-01-14,6,Kidney Disease,13,4,0,0,Patient admitted with heart failure. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+360,2022-01-04,2022-01-08,11,Other,7,9,1,2,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+361,2022-12-20,2022-01-06,27,Stroke,11,3,0,0,Patient admitted with pneumonia. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+362,2022-04-16,2022-01-16,8,Other,6,1,0,0,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+363,2022-03-26,2022-01-13,12,Other,10,3,0,1,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+364,2022-08-02,2022-01-14,29,Pneumonia,9,7,0,2,Patient admitted with copd. History of sepsis. Patient responding well to treatment. Discharge home.
+365,2022-05-01,2022-01-21,27,Hip Fracture,13,4,0,3,"Patient admitted with hypertension. History of heart failure, depression. Patient stable for discharge. Follow up in 2 weeks."
+366,2022-05-12,2022-01-05,2,COPD,9,4,0,2,Patient admitted with hypertension. History of anemia. Patient responding well to treatment. Discharge home.
+367,2022-12-04,2022-01-10,9,Stroke,2,9,1,1,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+368,2022-07-16,2022-01-12,15,Stroke,7,2,1,1,"Patient admitted with hypertension. History of pneumonia, copd. Condition improved. Continue medications as prescribed."
+369,2022-01-19,2022-01-13,2,COPD,5,7,1,2,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+370,2022-05-10,2022-01-21,29,COPD,13,5,0,0,Patient admitted with sepsis. History of copd. Patient responding well to treatment. Discharge home.
+371,2022-01-12,2022-01-26,1,Kidney Disease,6,1,1,2,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+372,2022-03-22,2022-01-10,10,Heart Failure,1,1,1,3,"Patient admitted with depression. History of sepsis, copd. Condition improved. Continue medications as prescribed."
+373,2022-11-26,2022-01-30,2,Diabetes,7,8,1,2,"Patient admitted with diabetes. History of hypertension, anemia. Patient stable for discharge. Follow up in 2 weeks."
+374,2022-12-20,2022-01-10,12,Heart Failure,6,6,0,2,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+375,2022-09-19,2022-01-06,23,COPD,4,9,1,0,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+376,2022-05-05,2022-01-15,8,Hip Fracture,1,8,1,0,"Patient admitted with sepsis. History of heart failure, dementia. Condition improved. Continue medications as prescribed."
+377,2022-11-03,2022-01-10,5,Sepsis,9,5,1,2,Patient admitted with anemia. History of hypertension. Condition improved. Continue medications as prescribed.
+378,2022-09-24,2022-01-20,22,Sepsis,4,4,0,0,"Patient admitted with kidney disease. History of hypertension, copd. Patient responding well to treatment. Discharge home."
+379,2022-05-20,2022-01-29,28,Diabetes,2,0,1,5,"Patient admitted with anemia. History of sepsis, copd. Condition improved. Continue medications as prescribed."
+380,2022-11-25,2022-01-04,1,COPD,8,5,1,0,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+381,2022-01-02,2022-01-08,15,Sepsis,2,5,0,0,"Patient admitted with sepsis. History of diabetes, depression. Condition improved. Continue medications as prescribed."
+382,2022-01-08,2022-01-19,6,Diabetes,5,2,0,2,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+383,2022-09-07,2022-01-18,12,Stroke,11,2,1,2,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+384,2022-05-19,2022-01-05,8,Diabetes,6,2,0,0,Patient admitted with pneumonia. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+385,2022-05-04,2022-01-12,13,Stroke,11,2,0,1,Patient admitted with heart failure. History of diabetes. Condition improved. Continue medications as prescribed.
+386,2022-11-05,2022-01-10,19,Kidney Disease,13,6,0,2,"Patient admitted with copd. History of pneumonia, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+387,2022-08-16,2022-01-07,27,Sepsis,8,9,1,2,"Patient admitted with copd. History of hypertension, depression. Patient responding well to treatment. Discharge home."
+388,2022-01-10,2022-01-23,1,Diabetes,11,1,0,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+389,2022-07-31,2022-01-21,11,Diabetes,1,9,0,1,Patient admitted with anemia. History of sepsis. Condition improved. Continue medications as prescribed.
+390,2022-04-22,2022-01-24,20,Diabetes,1,9,0,4,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+391,2022-01-08,2022-01-07,1,Hip Fracture,12,1,1,4,Patient admitted with sepsis. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+392,2022-10-19,2022-01-16,8,Diabetes,4,2,0,0,Patient admitted with diabetes. History of sepsis. Condition improved. Continue medications as prescribed.
+393,2022-12-28,2022-01-04,5,Hip Fracture,5,9,1,1,"Patient admitted with anemia. History of depression, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+394,2022-09-10,2022-01-27,17,Other,13,6,1,0,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+395,2022-01-14,2022-01-06,8,Kidney Disease,13,2,0,1,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+396,2022-08-28,2022-01-19,25,Other,9,6,0,2,Patient admitted with copd. Patient responding well to treatment. Discharge home.
+397,2022-08-30,2022-01-25,10,Cancer,11,8,0,3,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+398,2022-12-08,2022-01-07,2,Other,14,9,0,0,"Patient admitted with anemia. History of depression, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+399,2022-05-29,2022-01-28,9,COPD,7,3,0,1,"Patient admitted with pneumonia. History of copd, anemia. Patient responding well to treatment. Discharge home."
+400,2022-08-24,2022-01-26,24,Stroke,7,6,1,4,"Patient admitted with anemia. History of copd, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+401,2022-11-02,2022-01-28,23,COPD,8,8,1,2,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+402,2022-06-16,2022-01-19,3,Heart Failure,5,7,0,2,"Patient admitted with hypertension. History of dementia, anemia. Significant improvement observed. Recommend outpatient follow-up."
+403,2022-01-20,2022-01-29,18,Other,5,7,0,4,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+404,2022-08-04,2022-01-22,7,Sepsis,1,8,0,1,Patient admitted with anemia. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+405,2022-12-09,2022-01-04,15,Pneumonia,14,4,0,2,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+406,2022-05-15,2022-01-08,21,Other,9,4,0,2,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+407,2022-05-09,2022-01-22,22,Kidney Disease,6,2,1,3,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+408,2022-10-21,2022-01-25,20,Other,9,4,1,0,"Patient admitted with copd. History of heart failure, hypertension. Condition improved. Continue medications as prescribed."
+409,2022-09-03,2022-01-27,18,Hip Fracture,3,7,0,1,"Patient admitted with sepsis. History of pneumonia, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+410,2022-07-08,2022-01-14,25,Heart Failure,5,4,1,1,"Patient admitted with kidney disease. History of diabetes, hypertension. Condition improved. Continue medications as prescribed."
+411,2022-02-13,2022-01-16,3,Diabetes,2,3,0,2,Patient admitted with anemia. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+412,2022-03-27,2022-01-23,28,Heart Failure,10,7,1,0,Patient admitted with dementia. History of anemia. Patient responding well to treatment. Discharge home.
+413,2022-02-13,2022-01-08,23,Heart Failure,5,6,0,2,"Patient admitted with hypertension. History of heart failure, anemia. Condition improved. Continue medications as prescribed."
+414,2022-11-26,2022-01-24,14,Stroke,13,5,0,2,Patient admitted with anemia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+415,2022-05-25,2022-01-07,24,Pneumonia,13,4,1,1,"Patient admitted with heart failure. History of hypertension, dementia. Patient stable for discharge. Follow up in 2 weeks."
+416,2022-02-20,2022-01-07,2,Heart Failure,13,4,0,2,Patient admitted with copd. History of pneumonia. Condition improved. Continue medications as prescribed.
+417,2022-08-30,2022-01-07,14,Stroke,14,9,1,2,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+418,2022-10-21,2022-01-07,22,Diabetes,8,1,0,1,"Patient admitted with kidney disease. History of pneumonia, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+419,2022-02-20,2022-01-23,11,COPD,11,3,0,2,"Patient admitted with kidney disease. History of heart failure, anemia. Patient stable for discharge. Follow up in 2 weeks."
+420,2022-09-23,2022-01-24,16,Diabetes,2,7,0,1,"Patient admitted with copd. History of sepsis, kidney disease. Patient responding well to treatment. Discharge home."
+421,2022-04-30,2022-01-21,8,Sepsis,8,7,0,2,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+422,2022-07-19,2022-01-21,7,Heart Failure,4,0,0,0,"Patient admitted with copd. History of diabetes, kidney disease. Condition improved. Continue medications as prescribed."
+423,2022-09-05,2022-01-19,11,Heart Failure,10,1,0,0,Patient admitted with hypertension. History of kidney disease. Condition improved. Continue medications as prescribed.
+424,2022-03-11,2022-01-12,3,COPD,10,4,0,0,Patient admitted with kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+425,2022-12-07,2022-01-21,17,Kidney Disease,1,8,0,0,Patient admitted with anemia. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+426,2022-02-26,2022-01-25,14,Heart Failure,13,9,1,1,Patient admitted with anemia. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+427,2022-02-08,2022-01-05,6,Pneumonia,5,6,0,3,"Patient admitted with anemia. History of pneumonia, kidney disease. Patient responding well to treatment. Discharge home."
+428,2022-10-16,2022-01-24,8,Cancer,13,9,1,1,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+429,2022-01-18,2022-01-07,22,Heart Failure,1,4,0,2,Patient admitted with anemia. History of sepsis. Patient responding well to treatment. Discharge home.
+430,2022-08-08,2022-01-15,5,Cancer,7,0,0,0,Patient admitted with anemia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+431,2022-11-09,2022-01-10,27,Diabetes,8,5,0,1,Patient admitted with copd. History of kidney disease. Condition improved. Continue medications as prescribed.
+432,2022-09-01,2022-01-18,28,Other,3,7,0,2,"Patient admitted with kidney disease. History of dementia, anemia. Condition improved. Continue medications as prescribed."
+433,2022-12-18,2022-01-10,8,Kidney Disease,3,6,0,0,Patient admitted with dementia. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+434,2022-10-31,2022-01-25,2,Stroke,7,1,0,2,Patient admitted with anemia. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+435,2022-10-25,2022-01-29,15,Hip Fracture,4,4,0,2,"Patient admitted with sepsis. History of dementia, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+436,2022-10-10,2022-01-24,12,Kidney Disease,3,3,0,0,Patient admitted with diabetes. History of dementia. Condition improved. Continue medications as prescribed.
+437,2022-03-15,2022-01-20,17,Hip Fracture,8,8,1,1,"Patient admitted with copd. History of kidney disease, heart failure. Condition improved. Continue medications as prescribed."
+438,2022-04-20,2022-01-19,1,Diabetes,3,9,0,2,Patient admitted with heart failure. Patient responding well to treatment. Discharge home.
+439,2022-06-29,2022-01-22,15,Kidney Disease,13,0,0,3,"Patient admitted with anemia. History of kidney disease, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+440,2022-02-01,2022-01-12,14,Stroke,14,5,0,2,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+441,2022-08-22,2022-01-17,20,Hip Fracture,7,2,1,1,"Patient admitted with copd. History of pneumonia, kidney disease. Condition improved. Continue medications as prescribed."
+442,2022-10-09,2022-01-20,22,COPD,2,8,0,0,Patient admitted with dementia. History of kidney disease. Patient responding well to treatment. Discharge home.
+443,2022-01-25,2022-01-08,16,Pneumonia,11,4,0,0,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+444,2022-11-27,2022-01-05,29,Kidney Disease,11,5,0,2,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+445,2022-10-06,2022-01-23,9,Diabetes,1,8,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+446,2022-08-14,2022-01-19,1,Heart Failure,12,8,0,1,Patient admitted with sepsis. History of dementia. Condition improved. Continue medications as prescribed.
+447,2022-02-26,2022-01-17,28,Stroke,6,7,1,1,Patient admitted with sepsis. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+448,2022-06-29,2022-01-17,17,Hip Fracture,8,8,0,1,Patient admitted with depression. History of dementia. Condition improved. Continue medications as prescribed.
+449,2022-08-20,2022-01-30,29,Hip Fracture,1,3,0,1,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+450,2022-12-09,2022-01-04,13,Pneumonia,13,5,0,0,"Patient admitted with pneumonia. History of dementia, anemia. Patient responding well to treatment. Discharge home."
+451,2022-10-14,2022-01-06,21,Hip Fracture,10,4,0,3,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+452,2022-03-05,2022-01-29,26,Cancer,12,4,0,2,Patient admitted with heart failure. Patient responding well to treatment. Discharge home.
+453,2022-08-20,2022-01-10,21,Sepsis,9,3,0,2,Patient admitted with sepsis. History of kidney disease. Patient responding well to treatment. Discharge home.
+454,2022-10-16,2022-01-29,5,Cancer,3,1,0,1,Patient admitted with copd. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+455,2022-08-01,2022-01-18,10,Hip Fracture,3,5,0,0,"Patient admitted with heart failure. History of copd, anemia. Patient stable for discharge. Follow up in 2 weeks."
+456,2022-09-15,2022-01-22,6,Stroke,4,8,0,2,Patient admitted with heart failure. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+457,2022-01-18,2022-01-23,24,Kidney Disease,11,0,1,2,"Patient admitted with anemia. History of copd, depression. Patient responding well to treatment. Discharge home."
+458,2022-06-24,2022-01-05,19,Diabetes,1,6,0,2,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+459,2022-08-17,2022-01-22,25,Heart Failure,9,5,0,3,Patient admitted with pneumonia. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+460,2022-08-14,2022-01-12,13,Kidney Disease,11,2,0,3,"Patient admitted with heart failure. History of sepsis, copd. Significant improvement observed. Recommend outpatient follow-up."
+461,2022-03-25,2022-01-22,1,COPD,3,0,0,1,"Patient admitted with dementia. History of pneumonia, copd. Patient responding well to treatment. Discharge home."
+462,2022-10-18,2022-01-30,20,Kidney Disease,13,3,0,0,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+463,2022-09-03,2022-01-08,25,Kidney Disease,10,8,0,0,Patient admitted with sepsis. History of hypertension. Patient responding well to treatment. Discharge home.
+464,2022-04-20,2022-01-21,15,Diabetes,4,1,1,4,Patient admitted with dementia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+465,2022-09-11,2022-01-19,14,Pneumonia,1,2,1,2,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+466,2022-03-29,2022-01-07,8,Hip Fracture,4,1,0,2,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+467,2022-03-13,2022-01-15,10,Pneumonia,13,1,1,2,"Patient admitted with sepsis. History of anemia, dementia. Significant improvement observed. Recommend outpatient follow-up."
+468,2022-01-30,2022-01-10,9,COPD,1,9,1,1,"Patient admitted with kidney disease. History of depression, copd. Condition improved. Continue medications as prescribed."
+469,2022-06-21,2022-01-17,17,Other,5,7,0,0,Patient admitted with sepsis. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+470,2022-11-05,2022-01-26,9,Heart Failure,5,2,1,4,"Patient admitted with copd. History of hypertension, diabetes. Patient responding well to treatment. Discharge home."
+471,2022-12-09,2022-01-15,3,Cancer,14,6,0,3,Patient admitted with dementia. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+472,2022-06-26,2022-01-06,11,Heart Failure,11,7,0,4,Patient admitted with depression. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+473,2022-05-19,2022-01-08,12,Hip Fracture,7,2,0,2,Patient admitted with copd. History of sepsis. Patient responding well to treatment. Discharge home.
+474,2022-07-13,2022-01-20,10,Heart Failure,14,1,0,2,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+475,2022-07-05,2022-01-29,25,Sepsis,8,7,0,1,Patient admitted with dementia. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+476,2022-08-06,2022-01-13,17,Cancer,4,2,0,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+477,2022-06-13,2022-01-13,17,COPD,7,6,1,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+478,2022-06-10,2022-01-14,25,Hip Fracture,4,0,1,4,Patient admitted with depression. History of hypertension. Patient responding well to treatment. Discharge home.
+479,2022-01-13,2022-01-20,11,Stroke,3,5,1,2,Patient admitted with hypertension. History of kidney disease. Condition improved. Continue medications as prescribed.
+480,2022-10-23,2022-01-08,22,COPD,6,8,1,4,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+481,2022-03-30,2022-01-16,4,Sepsis,4,2,1,1,Patient admitted with kidney disease. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+482,2022-11-20,2022-01-13,7,Cancer,14,6,0,1,Patient admitted with kidney disease. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+483,2022-02-11,2022-01-12,21,Diabetes,3,5,0,0,"Patient admitted with kidney disease. History of dementia, copd. Significant improvement observed. Recommend outpatient follow-up."
+484,2022-07-29,2022-01-20,26,Sepsis,9,7,0,0,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+485,2022-08-17,2022-01-04,14,COPD,5,2,1,0,Patient admitted with kidney disease. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+486,2022-12-16,2022-01-07,7,Hip Fracture,13,2,0,3,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+487,2022-10-02,2022-01-07,24,Other,14,3,1,2,"Patient admitted with sepsis. History of dementia, anemia. Significant improvement observed. Recommend outpatient follow-up."
+488,2022-10-06,2022-01-21,8,Hip Fracture,7,2,0,2,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+489,2022-09-08,2022-01-12,1,Cancer,12,8,0,2,Patient admitted with diabetes. History of dementia. Condition improved. Continue medications as prescribed.
+490,2022-11-06,2022-01-28,24,Other,14,3,1,0,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+491,2022-07-27,2022-01-21,22,Pneumonia,6,5,0,0,"Patient admitted with hypertension. History of copd, pneumonia. Patient responding well to treatment. Discharge home."
+492,2022-11-17,2022-01-17,4,Cancer,10,7,0,1,"Patient admitted with hypertension. History of dementia, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+493,2022-05-20,2022-01-28,29,Cancer,5,7,0,1,"Patient admitted with dementia. History of sepsis, anemia. Condition improved. Continue medications as prescribed."
+494,2022-10-07,2022-01-18,12,Sepsis,7,4,0,2,"Patient admitted with dementia. History of kidney disease, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+495,2022-02-03,2022-01-09,24,Hip Fracture,11,4,1,1,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+496,2022-11-05,2022-01-27,3,COPD,6,5,0,1,Patient admitted with diabetes. History of anemia. Condition improved. Continue medications as prescribed.
+497,2022-01-18,2022-01-13,13,Diabetes,10,9,0,0,Patient admitted with heart failure. History of dementia. Patient stable for discharge. Follow up in 2 weeks.
+498,2022-02-26,2022-01-18,20,Heart Failure,2,6,0,3,"Patient admitted with pneumonia. History of kidney disease, hypertension. Patient stable for discharge. Follow up in 2 weeks."
+499,2022-04-22,2022-01-07,6,Kidney Disease,13,9,1,2,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+500,2022-01-05,2022-01-21,11,Diabetes,13,6,0,3,Patient admitted with sepsis. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+501,2022-07-01,2022-01-21,23,Heart Failure,13,3,0,2,Patient admitted with kidney disease. History of heart failure. Patient responding well to treatment. Discharge home.
+502,2022-01-13,2022-01-28,4,Pneumonia,3,5,1,1,Patient admitted with kidney disease. Patient responding well to treatment. Discharge home.
+503,2022-12-05,2022-01-20,20,COPD,2,6,0,1,"Patient admitted with depression. History of dementia, hypertension. Patient responding well to treatment. Discharge home."
+504,2022-10-12,2022-01-15,16,Hip Fracture,12,4,1,3,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+505,2022-09-16,2022-01-10,7,Stroke,3,4,0,3,Patient admitted with copd. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+506,2022-03-31,2022-01-19,22,Cancer,1,1,0,0,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+507,2022-04-14,2022-01-14,29,Diabetes,8,6,0,2,Patient admitted with heart failure. History of kidney disease. Patient responding well to treatment. Discharge home.
+508,2022-07-05,2022-01-17,11,Heart Failure,6,5,1,2,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+509,2022-09-07,2022-01-06,24,Stroke,13,0,1,0,Patient admitted with heart failure. History of sepsis. Patient responding well to treatment. Discharge home.
+510,2022-09-12,2022-01-22,1,Diabetes,2,3,0,2,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+511,2022-03-17,2022-01-21,26,COPD,8,2,0,3,Patient admitted with depression. History of heart failure. Patient responding well to treatment. Discharge home.
+512,2022-04-18,2022-01-13,29,Hip Fracture,6,2,1,1,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+513,2022-06-05,2022-01-09,27,Other,7,6,0,2,"Patient admitted with diabetes. History of heart failure, dementia. Patient responding well to treatment. Discharge home."
+514,2022-03-23,2022-01-16,7,Diabetes,11,9,1,3,"Patient admitted with hypertension. History of sepsis, pneumonia. Significant improvement observed. Recommend outpatient follow-up."
+515,2022-03-18,2022-01-13,12,Diabetes,1,3,0,2,"Patient admitted with pneumonia. History of diabetes, copd. Condition improved. Continue medications as prescribed."
+516,2022-09-15,2022-01-21,7,Hip Fracture,7,7,1,1,Patient admitted with dementia. History of kidney disease. Condition improved. Continue medications as prescribed.
+517,2022-05-07,2022-01-29,27,Pneumonia,3,8,0,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+518,2022-10-09,2022-01-23,23,Sepsis,11,2,0,2,Patient admitted with depression. History of sepsis. Condition improved. Continue medications as prescribed.
+519,2022-03-29,2022-01-29,7,Diabetes,12,4,0,3,"Patient admitted with dementia. History of sepsis, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+520,2022-07-23,2022-01-19,10,Hip Fracture,8,3,1,1,"Patient admitted with depression. History of kidney disease, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+521,2022-01-16,2022-01-28,16,Sepsis,6,9,0,2,Patient admitted with diabetes. History of hypertension. Patient responding well to treatment. Discharge home.
+522,2022-05-31,2022-01-28,26,Hip Fracture,4,5,0,2,Patient admitted with sepsis. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+523,2022-09-11,2022-01-09,8,Hip Fracture,11,9,0,2,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+524,2022-07-07,2022-01-16,9,Pneumonia,8,3,0,3,Patient admitted with diabetes. History of kidney disease. Patient responding well to treatment. Discharge home.
+525,2022-11-25,2022-01-07,9,Hip Fracture,9,7,1,2,"Patient admitted with diabetes. History of depression, pneumonia. Condition improved. Continue medications as prescribed."
+526,2022-02-01,2022-01-26,2,COPD,10,2,1,2,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+527,2022-09-28,2022-01-17,13,Diabetes,2,4,0,1,"Patient admitted with heart failure. History of diabetes, copd. Patient responding well to treatment. Discharge home."
+528,2022-01-05,2022-01-04,13,Heart Failure,6,0,1,0,Patient admitted with sepsis. History of depression. Patient responding well to treatment. Discharge home.
+529,2022-11-26,2022-01-23,23,Heart Failure,5,5,1,0,"Patient admitted with diabetes. History of pneumonia, hypertension. Patient responding well to treatment. Discharge home."
+530,2022-11-04,2022-01-08,23,Heart Failure,5,4,1,1,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+531,2022-11-29,2022-01-11,4,Hip Fracture,10,7,0,5,Patient admitted with kidney disease. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+532,2022-06-18,2022-01-15,25,Stroke,11,8,1,3,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+533,2022-06-30,2022-01-05,24,Sepsis,3,7,0,4,"Patient admitted with depression. History of heart failure, hypertension. Patient responding well to treatment. Discharge home."
+534,2022-06-27,2022-01-15,12,Sepsis,12,7,0,1,Patient admitted with copd. History of anemia. Patient responding well to treatment. Discharge home.
+535,2022-05-23,2022-01-08,17,Hip Fracture,8,2,1,1,Patient admitted with copd. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+536,2022-12-28,2022-01-25,2,COPD,14,3,0,2,"Patient admitted with copd. History of sepsis, heart failure. Condition improved. Continue medications as prescribed."
+537,2022-09-05,2022-01-08,13,COPD,8,3,0,0,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+538,2022-05-07,2022-01-16,29,Cancer,12,4,1,1,"Patient admitted with anemia. History of copd, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+539,2022-09-20,2022-01-12,18,Hip Fracture,5,8,1,1,"Patient admitted with diabetes. History of pneumonia, copd. Significant improvement observed. Recommend outpatient follow-up."
+540,2022-02-09,2022-01-13,28,Kidney Disease,8,8,0,1,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+541,2022-12-21,2022-01-04,28,Pneumonia,10,9,1,1,"Patient admitted with heart failure. History of kidney disease, dementia. Significant improvement observed. Recommend outpatient follow-up."
+542,2022-09-12,2022-01-06,27,Heart Failure,8,0,0,2,Patient admitted with depression. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+543,2022-05-23,2022-01-21,15,Pneumonia,3,7,0,3,Patient admitted with anemia. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+544,2022-08-28,2022-01-15,8,Heart Failure,2,0,1,0,Patient admitted with depression. Patient responding well to treatment. Discharge home.
+545,2022-08-16,2022-01-06,15,Other,9,1,0,1,Patient admitted with diabetes. History of pneumonia. Condition improved. Continue medications as prescribed.
+546,2022-12-07,2022-01-29,1,Other,2,6,0,2,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+547,2022-07-17,2022-01-28,20,Hip Fracture,9,7,0,1,Patient admitted with heart failure. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+548,2022-03-06,2022-01-12,10,Other,4,0,0,2,Patient admitted with dementia. History of kidney disease. Condition improved. Continue medications as prescribed.
+549,2022-01-11,2022-01-29,12,Stroke,12,2,0,1,Patient admitted with kidney disease. History of hypertension. Condition improved. Continue medications as prescribed.
+550,2022-04-18,2022-01-05,5,Cancer,13,6,1,3,Patient admitted with sepsis. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+551,2022-01-26,2022-01-06,9,COPD,2,8,1,3,Patient admitted with hypertension. History of kidney disease. Condition improved. Continue medications as prescribed.
+552,2022-05-31,2022-01-17,23,Stroke,10,7,0,2,"Patient admitted with heart failure. History of copd, dementia. Patient stable for discharge. Follow up in 2 weeks."
+553,2022-08-09,2022-01-07,8,Pneumonia,1,7,1,0,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+554,2022-12-07,2022-01-28,16,Pneumonia,4,8,0,1,"Patient admitted with copd. History of anemia, dementia. Condition improved. Continue medications as prescribed."
+555,2022-08-25,2022-01-22,14,Other,9,9,0,3,Patient admitted with sepsis. History of copd. Condition improved. Continue medications as prescribed.
+556,2022-08-25,2022-01-16,27,COPD,12,2,1,1,Patient admitted with diabetes. History of copd. Patient responding well to treatment. Discharge home.
+557,2022-08-07,2022-01-10,25,Cancer,9,7,0,1,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+558,2022-05-31,2022-01-15,13,Heart Failure,4,0,0,1,"Patient admitted with heart failure. History of dementia, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+559,2022-05-03,2022-01-06,23,Stroke,9,7,0,2,Patient admitted with kidney disease. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+560,2022-05-24,2022-01-26,21,Cancer,12,6,0,2,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+561,2022-07-08,2022-01-26,13,Diabetes,6,7,1,3,Patient admitted with dementia. History of hypertension. Patient responding well to treatment. Discharge home.
+562,2022-09-12,2022-01-12,5,Sepsis,1,0,0,1,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+563,2022-03-09,2022-01-05,16,Other,10,5,0,2,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+564,2022-04-14,2022-01-25,26,Heart Failure,13,6,0,1,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+565,2022-12-02,2022-01-12,11,Diabetes,14,4,0,2,Patient admitted with dementia. History of hypertension. Condition improved. Continue medications as prescribed.
+566,2022-06-08,2022-01-15,22,Heart Failure,6,4,0,2,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+567,2022-11-05,2022-01-15,5,Heart Failure,9,6,0,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+568,2022-12-28,2022-01-18,13,Other,13,2,1,0,Patient admitted with kidney disease. History of hypertension. Condition improved. Continue medications as prescribed.
+569,2022-10-27,2022-01-05,28,Heart Failure,2,5,1,1,"Patient admitted with pneumonia. History of depression, anemia. Significant improvement observed. Recommend outpatient follow-up."
+570,2022-03-31,2022-01-21,11,Cancer,6,6,0,0,"Patient admitted with copd. History of depression, heart failure. Patient responding well to treatment. Discharge home."
+571,2022-12-23,2022-01-16,25,Cancer,2,0,0,1,Patient admitted with heart failure. Patient responding well to treatment. Discharge home.
+572,2022-09-13,2022-01-17,19,Diabetes,4,1,0,3,Patient admitted with kidney disease. History of depression. Patient responding well to treatment. Discharge home.
+573,2022-12-19,2022-01-08,3,Pneumonia,8,3,1,2,Patient admitted with copd. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+574,2022-08-08,2022-01-29,15,COPD,13,7,1,1,Patient admitted with heart failure. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+575,2022-01-09,2022-01-13,7,Stroke,7,9,0,2,"Patient admitted with dementia. History of copd, depression. Patient responding well to treatment. Discharge home."
+576,2022-01-12,2022-01-15,7,Stroke,11,5,1,2,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+577,2022-11-21,2022-01-13,6,Kidney Disease,12,0,0,2,"Patient admitted with dementia. History of heart failure, hypertension. Patient responding well to treatment. Discharge home."
+578,2022-09-01,2022-01-27,3,Other,13,9,0,0,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+579,2022-07-01,2022-01-14,13,Hip Fracture,9,4,0,1,"Patient admitted with diabetes. History of sepsis, dementia. Condition improved. Continue medications as prescribed."
+580,2022-10-11,2022-01-28,7,Hip Fracture,7,6,0,1,"Patient admitted with heart failure. History of diabetes, dementia. Patient stable for discharge. Follow up in 2 weeks."
+581,2022-11-08,2022-01-05,5,Diabetes,1,5,0,1,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+582,2022-04-09,2022-01-08,23,Heart Failure,2,8,0,1,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+583,2022-07-16,2022-01-10,18,Heart Failure,6,7,0,0,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+584,2022-08-14,2022-01-09,22,Other,7,3,0,0,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+585,2022-11-29,2022-01-25,8,Sepsis,3,4,0,1,Patient admitted with anemia. History of kidney disease. Patient responding well to treatment. Discharge home.
+586,2022-04-13,2022-01-26,17,Pneumonia,9,6,0,1,Patient admitted with diabetes. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+587,2022-04-16,2022-01-06,20,Kidney Disease,13,7,0,0,"Patient admitted with pneumonia. History of dementia, diabetes. Patient responding well to treatment. Discharge home."
+588,2022-12-31,2022-01-16,27,Cancer,7,4,0,3,Patient admitted with kidney disease. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+589,2022-02-27,2022-01-06,1,Heart Failure,14,8,0,2,Patient admitted with pneumonia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+590,2022-03-19,2022-01-29,14,Kidney Disease,6,9,0,2,"Patient admitted with kidney disease. History of heart failure, pneumonia. Significant improvement observed. Recommend outpatient follow-up."
+591,2022-03-16,2022-01-28,17,Stroke,13,3,0,1,Patient admitted with copd. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+592,2022-02-11,2022-01-27,10,Sepsis,6,3,0,0,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+593,2022-11-20,2022-01-24,12,Cancer,1,7,0,2,"Patient admitted with depression. History of anemia, pneumonia. Condition improved. Continue medications as prescribed."
+594,2022-06-30,2022-01-09,16,Other,13,0,0,0,"Patient admitted with pneumonia. History of diabetes, depression. Significant improvement observed. Recommend outpatient follow-up."
+595,2022-02-02,2022-01-14,14,Kidney Disease,5,7,1,1,Patient admitted with dementia. History of anemia. Patient responding well to treatment. Discharge home.
+596,2022-03-12,2022-01-29,27,Diabetes,10,4,0,1,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+597,2022-02-25,2022-01-20,16,Cancer,3,0,0,2,Patient admitted with diabetes. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+598,2022-04-15,2022-01-13,8,Other,7,3,0,1,Patient admitted with sepsis. History of copd. Condition improved. Continue medications as prescribed.
+599,2022-07-19,2022-01-15,23,Hip Fracture,10,1,0,0,Patient admitted with copd. History of kidney disease. Patient responding well to treatment. Discharge home.
+600,2022-04-11,2022-01-20,28,Other,3,3,0,2,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+601,2022-09-13,2022-01-07,10,Other,5,7,0,0,"Patient admitted with copd. History of hypertension, anemia. Patient stable for discharge. Follow up in 2 weeks."
+602,2022-11-03,2022-01-05,29,Cancer,7,4,0,2,"Patient admitted with hypertension. History of pneumonia, anemia. Condition improved. Continue medications as prescribed."
+603,2022-03-15,2022-01-14,17,Sepsis,14,0,1,2,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+604,2022-06-20,2022-01-10,27,Cancer,3,6,0,0,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+605,2022-05-23,2022-01-05,29,COPD,13,0,0,2,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+606,2022-06-15,2022-01-29,18,Pneumonia,13,8,0,1,"Patient admitted with depression. History of hypertension, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+607,2022-09-18,2022-01-21,20,Sepsis,10,2,1,1,Patient admitted with anemia. History of depression. Condition improved. Continue medications as prescribed.
+608,2022-08-09,2022-01-24,16,Diabetes,2,2,1,0,"Patient admitted with heart failure. History of diabetes, dementia. Patient stable for discharge. Follow up in 2 weeks."
+609,2022-03-24,2022-01-07,17,Sepsis,6,5,0,4,"Patient admitted with hypertension. History of heart failure, dementia. Patient stable for discharge. Follow up in 2 weeks."
+610,2022-07-01,2022-01-11,16,Stroke,8,9,1,2,"Patient admitted with pneumonia. History of depression, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+611,2022-11-03,2022-01-23,19,Diabetes,4,5,0,3,"Patient admitted with kidney disease. History of diabetes, anemia. Condition improved. Continue medications as prescribed."
+612,2022-01-10,2022-01-17,24,Hip Fracture,9,5,1,2,Patient admitted with anemia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+613,2022-01-04,2022-01-15,24,Cancer,12,0,1,3,"Patient admitted with kidney disease. History of depression, heart failure. Significant improvement observed. Recommend outpatient follow-up."
+614,2022-12-17,2022-01-25,8,Other,12,4,0,2,"Patient admitted with dementia. History of anemia, depression. Condition improved. Continue medications as prescribed."
+615,2022-12-02,2022-01-24,6,Cancer,8,5,1,0,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+616,2022-10-19,2022-01-30,6,Stroke,7,7,0,2,Patient admitted with heart failure. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+617,2022-10-08,2022-01-21,21,Kidney Disease,14,0,0,1,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+618,2022-08-03,2022-01-14,29,Stroke,7,4,0,1,Patient admitted with depression. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+619,2022-04-08,2022-01-11,9,COPD,3,2,1,3,Patient admitted with kidney disease. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+620,2022-04-11,2022-01-05,4,Other,14,1,0,0,Patient admitted with depression. History of heart failure. Condition improved. Continue medications as prescribed.
+621,2022-01-09,2022-01-28,26,Other,6,7,0,3,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+622,2022-03-02,2022-01-18,12,Heart Failure,13,6,1,2,"Patient admitted with diabetes. History of anemia, copd. Patient responding well to treatment. Discharge home."
+623,2022-11-05,2022-01-12,28,Kidney Disease,13,9,0,1,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+624,2022-05-26,2022-01-22,12,Heart Failure,5,6,0,2,"Patient admitted with copd. History of dementia, pneumonia. Condition improved. Continue medications as prescribed."
+625,2022-03-04,2022-01-23,23,Hip Fracture,1,4,0,2,Patient admitted with heart failure. History of dementia. Condition improved. Continue medications as prescribed.
+626,2022-05-01,2022-01-11,17,Pneumonia,11,8,0,2,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+627,2022-08-14,2022-01-28,15,Pneumonia,3,4,0,0,Patient admitted with anemia. History of kidney disease. Patient responding well to treatment. Discharge home.
+628,2022-04-15,2022-01-22,9,Cancer,13,1,0,1,Patient admitted with heart failure. Patient stable for discharge. Follow up in 2 weeks.
+629,2022-09-17,2022-01-08,7,Pneumonia,12,2,1,0,"Patient admitted with heart failure. History of diabetes, sepsis. Patient responding well to treatment. Discharge home."
+630,2022-12-15,2022-01-14,10,Other,1,3,1,1,Patient admitted with kidney disease. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+631,2022-09-12,2022-01-18,16,Stroke,4,4,0,3,Patient admitted with kidney disease. History of pneumonia. Condition improved. Continue medications as prescribed.
+632,2022-07-26,2022-01-11,12,Kidney Disease,10,2,0,1,Patient admitted with dementia. Patient stable for discharge. Follow up in 2 weeks.
+633,2022-01-28,2022-01-22,25,Cancer,3,6,0,3,Patient admitted with diabetes. History of heart failure. Patient responding well to treatment. Discharge home.
+634,2022-06-19,2022-01-26,7,Cancer,11,4,0,0,Patient admitted with hypertension. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+635,2022-12-02,2022-01-30,18,Kidney Disease,4,4,0,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+636,2022-03-17,2022-01-11,15,Other,9,5,0,1,"Patient admitted with hypertension. History of copd, kidney disease. Condition improved. Continue medications as prescribed."
+637,2022-04-26,2022-01-29,6,Hip Fracture,3,6,1,4,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+638,2022-03-10,2022-01-30,26,Hip Fracture,12,9,0,4,Patient admitted with copd. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+639,2022-12-20,2022-01-22,12,Cancer,6,9,0,1,"Patient admitted with hypertension. History of diabetes, anemia. Condition improved. Continue medications as prescribed."
+640,2022-08-22,2022-01-21,11,Hip Fracture,6,7,1,1,"Patient admitted with kidney disease. History of pneumonia, anemia. Patient responding well to treatment. Discharge home."
+641,2022-01-01,2022-01-13,20,Other,7,8,0,3,"Patient admitted with depression. History of pneumonia, sepsis. Condition improved. Continue medications as prescribed."
+642,2022-06-16,2022-01-10,3,COPD,9,3,0,1,"Patient admitted with depression. History of pneumonia, heart failure. Patient responding well to treatment. Discharge home."
+643,2022-12-18,2022-01-12,2,COPD,12,4,0,1,Patient admitted with heart failure. History of hypertension. Patient responding well to treatment. Discharge home.
+644,2022-08-06,2022-01-04,6,Heart Failure,7,4,0,2,"Patient admitted with depression. History of copd, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+645,2022-09-30,2022-01-22,24,Sepsis,14,7,1,1,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+646,2022-09-08,2022-01-08,22,Diabetes,1,8,0,2,Patient admitted with diabetes. History of dementia. Patient responding well to treatment. Discharge home.
+647,2022-12-13,2022-01-22,25,Pneumonia,8,6,1,0,"Patient admitted with pneumonia. History of depression, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+648,2022-12-10,2022-01-04,5,Hip Fracture,5,4,1,1,"Patient admitted with kidney disease. History of dementia, anemia. Condition improved. Continue medications as prescribed."
+649,2022-06-23,2022-01-18,18,COPD,9,2,1,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+650,2022-06-19,2022-01-19,16,Stroke,10,0,1,0,Patient admitted with hypertension. History of dementia. Patient responding well to treatment. Discharge home.
+651,2022-09-03,2022-01-26,8,Kidney Disease,13,8,0,1,Patient admitted with pneumonia. History of anemia. Condition improved. Continue medications as prescribed.
+652,2022-03-31,2022-01-10,25,Sepsis,12,4,0,1,Patient admitted with diabetes. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+653,2022-02-18,2022-01-29,26,Heart Failure,5,8,0,0,Patient admitted with anemia. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+654,2022-10-21,2022-01-15,20,Diabetes,5,9,0,3,"Patient admitted with diabetes. History of anemia, kidney disease. Patient stable for discharge. Follow up in 2 weeks."
+655,2022-05-30,2022-01-11,22,COPD,12,3,1,2,Patient admitted with sepsis. History of copd. Patient responding well to treatment. Discharge home.
+656,2022-05-12,2022-01-08,11,Heart Failure,12,4,0,2,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+657,2022-02-28,2022-01-13,10,Sepsis,14,3,1,2,Patient admitted with dementia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+658,2022-11-20,2022-01-24,24,Kidney Disease,2,1,1,1,Patient admitted with hypertension. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+659,2022-07-18,2022-01-08,25,Pneumonia,12,0,1,2,"Patient admitted with kidney disease. History of diabetes, depression. Patient stable for discharge. Follow up in 2 weeks."
+660,2022-08-03,2022-01-20,12,COPD,11,7,1,2,Patient admitted with anemia. History of heart failure. Patient responding well to treatment. Discharge home.
+661,2022-02-18,2022-01-29,21,Kidney Disease,3,3,0,3,Patient admitted with hypertension. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+662,2022-08-20,2022-01-08,28,Diabetes,10,4,0,1,Patient admitted with sepsis. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+663,2022-09-04,2022-01-25,6,Hip Fracture,9,5,0,3,"Patient admitted with anemia. History of hypertension, sepsis. Condition improved. Continue medications as prescribed."
+664,2022-08-27,2022-01-18,27,Sepsis,7,7,0,1,Patient admitted with heart failure. Patient stable for discharge. Follow up in 2 weeks.
+665,2022-06-17,2022-01-16,20,Diabetes,1,7,0,2,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+666,2022-02-17,2022-01-04,5,Pneumonia,3,6,1,1,Patient admitted with heart failure. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+667,2022-02-20,2022-01-14,23,Kidney Disease,12,3,1,0,"Patient admitted with anemia. History of hypertension, dementia. Patient stable for discharge. Follow up in 2 weeks."
+668,2022-10-26,2022-01-26,9,Other,2,5,0,2,"Patient admitted with heart failure. History of anemia, depression. Patient stable for discharge. Follow up in 2 weeks."
+669,2022-04-08,2022-01-04,26,Pneumonia,1,3,0,2,Patient admitted with hypertension. History of heart failure. Patient responding well to treatment. Discharge home.
+670,2022-08-04,2022-01-14,27,Cancer,9,6,0,0,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+671,2022-06-26,2022-01-21,29,COPD,8,0,0,3,"Patient admitted with pneumonia. History of depression, anemia. Significant improvement observed. Recommend outpatient follow-up."
+672,2022-03-21,2022-01-21,16,Hip Fracture,5,4,0,0,"Patient admitted with depression. History of diabetes, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+673,2022-07-04,2022-01-24,22,Sepsis,11,9,0,0,"Patient admitted with diabetes. History of sepsis, anemia. Patient responding well to treatment. Discharge home."
+674,2022-01-27,2022-01-29,14,Stroke,12,9,0,2,"Patient admitted with pneumonia. History of depression, hypertension. Patient responding well to treatment. Discharge home."
+675,2022-07-14,2022-01-19,22,Kidney Disease,2,3,0,4,"Patient admitted with hypertension. History of pneumonia, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+676,2022-08-02,2022-01-16,8,Other,1,6,0,1,Patient admitted with diabetes. History of copd. Patient responding well to treatment. Discharge home.
+677,2022-12-08,2022-01-10,27,Stroke,7,8,0,3,Patient admitted with hypertension. History of sepsis. Condition improved. Continue medications as prescribed.
+678,2022-04-24,2022-01-04,20,COPD,13,4,0,3,Patient admitted with depression. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+679,2022-08-30,2022-01-29,19,COPD,11,3,0,2,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+680,2022-05-04,2022-01-19,14,Sepsis,11,8,0,1,Patient admitted with pneumonia. History of copd. Patient responding well to treatment. Discharge home.
+681,2022-11-01,2022-01-04,7,Other,2,4,1,3,"Patient admitted with anemia. History of hypertension, depression. Patient responding well to treatment. Discharge home."
+682,2022-03-17,2022-01-20,5,COPD,1,8,0,4,"Patient admitted with anemia. History of kidney disease, copd. Patient responding well to treatment. Discharge home."
+683,2022-11-07,2022-01-09,18,Stroke,2,7,0,2,Patient admitted with kidney disease. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+684,2022-11-08,2022-01-05,2,Other,7,3,1,2,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+685,2022-07-15,2022-01-20,11,Stroke,7,6,0,3,Patient admitted with heart failure. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+686,2022-12-17,2022-01-09,22,Pneumonia,10,4,1,0,"Patient admitted with heart failure. History of copd, hypertension. Patient stable for discharge. Follow up in 2 weeks."
+687,2022-02-13,2022-01-17,8,Diabetes,6,9,0,1,Patient admitted with dementia. History of copd. Condition improved. Continue medications as prescribed.
+688,2022-07-05,2022-01-21,1,Other,5,3,0,1,Patient admitted with dementia. History of pneumonia. Patient responding well to treatment. Discharge home.
+689,2022-12-09,2022-01-09,27,Heart Failure,3,4,0,1,Patient admitted with depression. History of copd. Patient responding well to treatment. Discharge home.
+690,2022-09-03,2022-01-13,22,Diabetes,14,4,0,2,"Patient admitted with depression. History of diabetes, anemia. Condition improved. Continue medications as prescribed."
+691,2022-03-25,2022-01-27,12,Diabetes,12,8,0,4,Patient admitted with copd. Patient responding well to treatment. Discharge home.
+692,2022-07-26,2022-01-21,2,Other,3,8,0,2,Patient admitted with kidney disease. Patient responding well to treatment. Discharge home.
+693,2022-05-31,2022-01-30,18,Hip Fracture,11,5,0,2,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+694,2022-06-05,2022-01-12,7,COPD,13,3,0,0,"Patient admitted with anemia. History of hypertension, kidney disease. Patient responding well to treatment. Discharge home."
+695,2022-01-16,2022-01-11,26,Pneumonia,12,1,0,4,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+696,2022-06-14,2022-01-13,17,Hip Fracture,9,2,0,2,Patient admitted with sepsis. Condition improved. Continue medications as prescribed.
+697,2022-05-25,2022-01-20,22,Hip Fracture,4,1,0,1,Patient admitted with diabetes. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+698,2022-02-06,2022-01-26,23,Heart Failure,9,4,0,0,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+699,2022-11-29,2022-01-29,14,Kidney Disease,4,5,0,2,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+700,2022-02-14,2022-01-09,24,Other,2,4,1,4,"Patient admitted with kidney disease. History of anemia, heart failure. Condition improved. Continue medications as prescribed."
+701,2022-07-25,2022-01-17,7,Stroke,4,1,0,0,"Patient admitted with heart failure. History of anemia, depression. Patient responding well to treatment. Discharge home."
+702,2022-03-03,2022-01-25,22,COPD,6,4,0,0,Patient admitted with pneumonia. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+703,2022-12-22,2022-01-25,25,Hip Fracture,6,8,0,2,"Patient admitted with anemia. History of copd, sepsis. Patient stable for discharge. Follow up in 2 weeks."
+704,2022-11-04,2022-01-09,29,Pneumonia,5,3,0,0,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+705,2022-01-19,2022-01-29,3,Kidney Disease,1,9,1,1,"Patient admitted with copd. History of depression, anemia. Patient stable for discharge. Follow up in 2 weeks."
+706,2022-12-31,2022-01-10,27,Heart Failure,3,1,0,2,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+707,2022-10-27,2022-01-15,6,Cancer,5,2,0,1,Patient admitted with pneumonia. History of anemia. Condition improved. Continue medications as prescribed.
+708,2022-01-07,2022-01-06,20,COPD,6,2,0,1,Patient admitted with depression. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+709,2022-09-06,2022-01-17,2,Cancer,14,8,1,0,Patient admitted with anemia. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+710,2022-04-27,2022-01-25,17,Diabetes,1,3,0,0,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+711,2022-03-09,2022-01-22,12,Hip Fracture,14,0,1,0,Patient admitted with sepsis. History of kidney disease. Condition improved. Continue medications as prescribed.
+712,2022-02-03,2022-01-26,12,Sepsis,14,0,1,0,"Patient admitted with copd. History of pneumonia, depression. Significant improvement observed. Recommend outpatient follow-up."
+713,2022-07-13,2022-01-19,17,COPD,9,6,0,2,Patient admitted with copd. History of sepsis. Condition improved. Continue medications as prescribed.
+714,2022-11-21,2022-01-10,27,Stroke,14,6,1,5,"Patient admitted with diabetes. History of heart failure, hypertension. Significant improvement observed. Recommend outpatient follow-up."
+715,2022-02-24,2022-01-11,10,Kidney Disease,3,1,0,2,Patient admitted with dementia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+716,2022-09-23,2022-01-21,3,Pneumonia,10,8,1,1,Patient admitted with copd. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+717,2022-02-11,2022-01-28,20,COPD,13,8,0,4,Patient admitted with kidney disease. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+718,2022-10-24,2022-01-16,18,Stroke,3,4,0,0,"Patient admitted with depression. History of heart failure, kidney disease. Patient stable for discharge. Follow up in 2 weeks."
+719,2022-08-19,2022-01-24,13,Other,11,2,0,1,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+720,2022-01-10,2022-01-12,12,Cancer,2,2,1,0,Patient admitted with pneumonia. History of hypertension. Patient responding well to treatment. Discharge home.
+721,2022-12-24,2022-01-13,27,Other,8,2,0,2,"Patient admitted with diabetes. History of anemia, hypertension. Condition improved. Continue medications as prescribed."
+722,2022-05-08,2022-01-24,27,Kidney Disease,13,5,0,0,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+723,2022-06-28,2022-01-26,27,Heart Failure,3,3,0,0,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+724,2022-07-12,2022-01-30,17,Hip Fracture,6,7,0,4,Patient admitted with depression. History of kidney disease. Condition improved. Continue medications as prescribed.
+725,2022-04-02,2022-01-12,4,COPD,2,4,0,3,"Patient admitted with kidney disease. History of copd, depression. Patient stable for discharge. Follow up in 2 weeks."
+726,2022-08-19,2022-01-18,23,Sepsis,7,0,0,2,Patient admitted with diabetes. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+727,2022-03-19,2022-01-23,10,Cancer,13,8,0,3,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+728,2022-03-26,2022-01-05,11,Cancer,4,0,0,1,Patient admitted with sepsis. History of depression. Condition improved. Continue medications as prescribed.
+729,2022-01-30,2022-01-28,6,COPD,9,5,0,1,Patient admitted with copd. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+730,2022-08-01,2022-01-16,6,Diabetes,14,0,0,0,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+731,2022-02-18,2022-01-05,27,Other,10,2,0,0,"Patient admitted with pneumonia. History of hypertension, diabetes. Condition improved. Continue medications as prescribed."
+732,2022-09-22,2022-01-22,9,Cancer,9,9,1,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+733,2022-05-25,2022-01-29,15,Stroke,7,4,0,1,Patient admitted with sepsis. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+734,2022-03-10,2022-01-05,2,Pneumonia,12,9,1,0,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+735,2022-02-27,2022-01-06,4,Hip Fracture,8,6,1,1,"Patient admitted with anemia. History of pneumonia, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+736,2022-07-04,2022-01-09,5,Cancer,3,9,0,2,"Patient admitted with dementia. History of kidney disease, diabetes. Patient responding well to treatment. Discharge home."
+737,2022-03-03,2022-01-06,17,Stroke,11,7,0,0,Patient admitted with copd. History of dementia. Patient responding well to treatment. Discharge home.
+738,2022-11-04,2022-01-13,8,Kidney Disease,5,8,1,2,"Patient admitted with heart failure. History of hypertension, sepsis. Patient stable for discharge. Follow up in 2 weeks."
+739,2022-10-23,2022-01-27,8,Kidney Disease,2,5,0,1,Patient admitted with heart failure. Significant improvement observed. Recommend outpatient follow-up.
+740,2022-06-15,2022-01-30,22,Hip Fracture,10,8,0,2,Patient admitted with pneumonia. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+741,2022-06-20,2022-01-09,12,Diabetes,7,7,0,1,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+742,2022-03-04,2022-01-26,21,Sepsis,13,8,0,2,"Patient admitted with copd. History of anemia, sepsis. Condition improved. Continue medications as prescribed."
+743,2022-05-27,2022-01-19,8,Hip Fracture,8,9,1,0,"Patient admitted with heart failure. History of diabetes, depression. Patient stable for discharge. Follow up in 2 weeks."
+744,2022-11-02,2022-01-20,19,Heart Failure,9,3,0,1,Patient admitted with heart failure. History of kidney disease. Patient responding well to treatment. Discharge home.
+745,2022-06-10,2022-01-22,3,Diabetes,11,8,0,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+746,2022-05-21,2022-01-06,18,Cancer,11,6,0,4,Patient admitted with copd. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+747,2022-11-30,2022-01-21,21,Hip Fracture,7,4,0,1,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+748,2022-04-07,2022-01-10,19,Other,10,4,0,2,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+749,2022-08-09,2022-01-12,19,Kidney Disease,10,0,0,1,Patient admitted with dementia. History of heart failure. Patient responding well to treatment. Discharge home.
+750,2022-02-12,2022-01-23,15,Stroke,13,1,1,1,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+751,2022-10-19,2022-01-15,6,Hip Fracture,8,9,0,1,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+752,2022-04-18,2022-01-08,16,Other,12,2,1,3,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+753,2022-09-23,2022-01-06,8,Diabetes,9,7,0,1,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+754,2022-04-05,2022-01-14,16,Heart Failure,6,5,0,1,Patient admitted with pneumonia. History of heart failure. Patient responding well to treatment. Discharge home.
+755,2022-09-19,2022-01-28,18,Stroke,12,9,0,0,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+756,2022-11-09,2022-01-07,20,Pneumonia,12,4,0,1,"Patient admitted with dementia. History of diabetes, anemia. Patient stable for discharge. Follow up in 2 weeks."
+757,2022-03-12,2022-01-08,16,Heart Failure,10,0,0,1,"Patient admitted with pneumonia. History of sepsis, heart failure. Patient responding well to treatment. Discharge home."
+758,2022-08-07,2022-01-04,11,Cancer,2,8,0,2,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+759,2022-01-21,2022-01-30,7,Other,2,2,1,2,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+760,2022-04-02,2022-01-21,17,Hip Fracture,4,2,1,1,Patient admitted with kidney disease. History of heart failure. Condition improved. Continue medications as prescribed.
+761,2022-05-07,2022-01-15,17,Hip Fracture,9,1,0,3,Patient admitted with hypertension. History of heart failure. Condition improved. Continue medications as prescribed.
+762,2022-03-21,2022-01-16,12,COPD,7,3,0,0,Patient admitted with copd. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+763,2022-11-08,2022-01-12,13,Kidney Disease,2,1,0,0,"Patient admitted with diabetes. History of pneumonia, depression. Significant improvement observed. Recommend outpatient follow-up."
+764,2022-08-26,2022-01-05,10,Cancer,8,8,0,1,"Patient admitted with hypertension. History of kidney disease, dementia. Patient stable for discharge. Follow up in 2 weeks."
+765,2022-07-01,2022-01-08,7,Other,11,9,0,3,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+766,2022-01-25,2022-01-16,14,Hip Fracture,7,6,0,1,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+767,2022-06-05,2022-01-19,23,Pneumonia,9,7,1,4,"Patient admitted with depression. History of heart failure, hypertension. Condition improved. Continue medications as prescribed."
+768,2022-01-05,2022-01-19,1,Stroke,8,2,1,0,"Patient admitted with diabetes. History of anemia, pneumonia. Condition improved. Continue medications as prescribed."
+769,2022-04-30,2022-01-27,17,Cancer,3,5,0,1,"Patient admitted with heart failure. History of copd, diabetes. Condition improved. Continue medications as prescribed."
+770,2022-10-04,2022-01-06,4,Diabetes,1,9,0,2,Patient admitted with heart failure. History of kidney disease. Condition improved. Continue medications as prescribed.
+771,2022-01-18,2022-01-25,21,Pneumonia,2,5,0,0,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+772,2022-07-17,2022-01-07,5,Stroke,14,0,1,0,Patient admitted with sepsis. History of dementia. Patient stable for discharge. Follow up in 2 weeks.
+773,2022-02-26,2022-01-14,20,Sepsis,13,5,0,0,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+774,2022-04-03,2022-01-26,24,Kidney Disease,2,2,0,0,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+775,2022-01-19,2022-01-29,23,Cancer,4,2,1,0,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+776,2022-12-19,2022-01-17,25,Other,6,2,0,1,Patient admitted with sepsis. Patient stable for discharge. Follow up in 2 weeks.
+777,2022-07-12,2022-01-06,7,Heart Failure,4,9,0,2,Patient admitted with anemia. History of dementia. Patient responding well to treatment. Discharge home.
+778,2022-08-25,2022-01-19,10,Stroke,9,9,0,3,"Patient admitted with dementia. History of diabetes, depression. Significant improvement observed. Recommend outpatient follow-up."
+779,2022-10-04,2022-01-25,17,Diabetes,4,7,0,3,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+780,2022-08-15,2022-01-18,29,Hip Fracture,6,4,0,3,Patient admitted with pneumonia. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+781,2022-08-21,2022-01-13,7,Heart Failure,6,3,0,2,Patient admitted with hypertension. History of depression. Condition improved. Continue medications as prescribed.
+782,2022-02-09,2022-01-12,1,Pneumonia,10,8,0,1,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+783,2022-11-19,2022-01-14,7,Kidney Disease,11,8,0,2,Patient admitted with depression. Condition improved. Continue medications as prescribed.
+784,2022-06-02,2022-01-19,26,Other,10,0,1,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+785,2022-05-07,2022-01-13,24,Heart Failure,1,1,0,1,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+786,2022-08-25,2022-01-20,11,Diabetes,8,7,0,1,"Patient admitted with pneumonia. History of heart failure, copd. Condition improved. Continue medications as prescribed."
+787,2022-02-24,2022-01-22,9,Stroke,12,4,0,2,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+788,2022-06-21,2022-01-05,12,Other,3,6,1,1,Patient admitted with copd. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+789,2022-04-19,2022-01-27,3,Sepsis,13,0,1,0,"Patient admitted with copd. History of hypertension, anemia. Condition improved. Continue medications as prescribed."
+790,2022-12-20,2022-01-26,4,Hip Fracture,6,9,0,0,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+791,2022-07-03,2022-01-05,4,Kidney Disease,3,4,0,2,Patient admitted with anemia. Significant improvement observed. Recommend outpatient follow-up.
+792,2022-07-17,2022-01-09,28,Heart Failure,11,2,1,0,Patient admitted with heart failure. History of kidney disease. Patient responding well to treatment. Discharge home.
+793,2022-03-28,2022-01-22,25,Kidney Disease,2,9,0,1,"Patient admitted with hypertension. History of copd, anemia. Significant improvement observed. Recommend outpatient follow-up."
+794,2022-07-20,2022-01-11,13,Kidney Disease,5,1,0,1,Patient admitted with depression. History of pneumonia. Condition improved. Continue medications as prescribed.
+795,2022-12-03,2022-01-29,23,Kidney Disease,14,1,1,2,Patient admitted with pneumonia. Condition improved. Continue medications as prescribed.
+796,2022-11-18,2022-01-06,19,Stroke,1,8,0,3,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+797,2022-10-02,2022-01-29,10,Kidney Disease,9,3,1,1,"Patient admitted with heart failure. History of copd, anemia. Patient responding well to treatment. Discharge home."
+798,2022-07-30,2022-01-17,5,Sepsis,11,3,1,1,Patient admitted with depression. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+799,2022-04-28,2022-01-28,7,Pneumonia,7,6,0,0,Patient admitted with kidney disease. History of pneumonia. Patient responding well to treatment. Discharge home.
+800,2022-07-10,2022-01-19,24,Diabetes,3,9,1,4,"Patient admitted with diabetes. History of copd, anemia. Significant improvement observed. Recommend outpatient follow-up."
+801,2022-02-11,2022-01-04,16,Other,4,9,1,0,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+802,2022-02-11,2022-01-24,1,Sepsis,13,1,0,2,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+803,2022-11-11,2022-01-06,12,Other,6,2,0,0,"Patient admitted with diabetes. History of heart failure, depression. Significant improvement observed. Recommend outpatient follow-up."
+804,2022-10-03,2022-01-25,2,Diabetes,3,2,0,0,"Patient admitted with hypertension. History of sepsis, depression. Condition improved. Continue medications as prescribed."
+805,2022-11-25,2022-01-29,7,Pneumonia,12,5,0,4,Patient admitted with sepsis. Significant improvement observed. Recommend outpatient follow-up.
+806,2022-01-17,2022-01-21,11,Cancer,7,2,1,4,"Patient admitted with anemia. History of hypertension, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+807,2022-10-10,2022-01-12,29,Other,13,4,0,4,"Patient admitted with dementia. History of sepsis, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+808,2022-09-15,2022-01-09,13,Other,6,3,0,1,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.
+809,2022-03-04,2022-01-26,2,Pneumonia,9,2,0,3,"Patient admitted with anemia. History of hypertension, dementia. Significant improvement observed. Recommend outpatient follow-up."
+810,2022-03-03,2022-01-24,7,Heart Failure,12,7,1,3,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+811,2022-04-10,2022-01-28,15,Sepsis,5,9,0,0,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+812,2022-01-19,2022-01-04,25,Heart Failure,4,2,0,0,Patient admitted with pneumonia. History of copd. Condition improved. Continue medications as prescribed.
+813,2022-01-17,2022-01-24,11,Heart Failure,3,5,0,3,"Patient admitted with anemia. History of diabetes, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+814,2022-11-21,2022-01-30,2,Heart Failure,10,6,0,1,Patient admitted with depression. History of sepsis. Significant improvement observed. Recommend outpatient follow-up.
+815,2022-09-03,2022-01-13,7,Kidney Disease,1,6,0,4,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+816,2022-09-08,2022-01-30,4,Hip Fracture,3,1,0,2,"Patient admitted with pneumonia. History of heart failure, depression. Patient responding well to treatment. Discharge home."
+817,2022-03-22,2022-01-09,11,Other,3,2,0,0,Patient admitted with hypertension. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+818,2022-02-08,2022-01-26,29,Heart Failure,7,9,0,0,Patient admitted with dementia. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+819,2022-02-05,2022-01-15,2,Sepsis,7,9,1,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+820,2022-07-16,2022-01-07,29,Hip Fracture,13,3,0,1,Patient admitted with pneumonia. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+821,2022-06-07,2022-01-16,16,Hip Fracture,12,6,0,1,Patient admitted with dementia. Patient stable for discharge. Follow up in 2 weeks.
+822,2022-07-23,2022-01-20,7,Heart Failure,1,1,0,1,"Patient admitted with anemia. History of depression, kidney disease. Patient responding well to treatment. Discharge home."
+823,2022-07-15,2022-01-30,13,Stroke,3,2,0,0,"Patient admitted with hypertension. History of depression, sepsis. Patient responding well to treatment. Discharge home."
+824,2022-08-04,2022-01-11,5,Heart Failure,13,6,0,1,"Patient admitted with hypertension. History of copd, pneumonia. Patient responding well to treatment. Discharge home."
+825,2022-10-12,2022-01-29,17,Stroke,8,6,0,1,Patient admitted with sepsis. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+826,2022-07-15,2022-01-23,21,Heart Failure,9,9,0,2,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+827,2022-11-03,2022-01-06,12,Sepsis,7,2,0,0,"Patient admitted with sepsis. History of depression, kidney disease. Patient stable for discharge. Follow up in 2 weeks."
+828,2022-06-01,2022-01-15,28,Stroke,7,0,0,3,Patient admitted with anemia. History of hypertension. Significant improvement observed. Recommend outpatient follow-up.
+829,2022-01-14,2022-01-10,19,Kidney Disease,12,2,1,3,Patient admitted with copd. Patient stable for discharge. Follow up in 2 weeks.
+830,2022-11-21,2022-01-15,7,Hip Fracture,11,4,0,0,"Patient admitted with dementia. History of hypertension, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+831,2022-05-26,2022-01-05,6,Heart Failure,8,6,0,2,Patient admitted with heart failure. Condition improved. Continue medications as prescribed.
+832,2022-02-26,2022-01-27,8,Hip Fracture,6,3,0,5,"Patient admitted with hypertension. History of dementia, kidney disease. Patient responding well to treatment. Discharge home."
+833,2022-07-30,2022-01-17,13,Heart Failure,11,0,0,2,"Patient admitted with copd. History of heart failure, diabetes. Patient stable for discharge. Follow up in 2 weeks."
+834,2022-09-25,2022-01-25,5,Other,3,5,0,0,Patient admitted with copd. History of heart failure. Significant improvement observed. Recommend outpatient follow-up.
+835,2022-07-29,2022-01-26,2,Other,1,1,0,3,Patient admitted with heart failure. History of diabetes. Patient responding well to treatment. Discharge home.
+836,2022-01-17,2022-01-08,9,COPD,7,2,0,0,"Patient admitted with diabetes. History of copd, kidney disease. Significant improvement observed. Recommend outpatient follow-up."
+837,2022-10-13,2022-01-12,11,Heart Failure,1,3,0,1,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+838,2022-12-10,2022-01-24,24,COPD,1,5,0,2,Patient admitted with depression. Patient stable for discharge. Follow up in 2 weeks.
+839,2022-07-22,2022-01-14,6,Pneumonia,9,5,1,0,Patient admitted with depression. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+840,2022-04-09,2022-01-08,29,Pneumonia,13,6,0,1,"Patient admitted with copd. History of heart failure, kidney disease. Patient responding well to treatment. Discharge home."
+841,2022-10-06,2022-01-06,26,Hip Fracture,10,4,0,2,Patient admitted with dementia. History of pneumonia. Condition improved. Continue medications as prescribed.
+842,2022-07-28,2022-01-30,7,Stroke,7,6,1,1,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+843,2022-05-09,2022-01-20,25,Heart Failure,13,1,0,0,"Patient admitted with depression. History of sepsis, heart failure. Condition improved. Continue medications as prescribed."
+844,2022-12-01,2022-01-05,7,Diabetes,11,0,0,1,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+845,2022-10-15,2022-01-27,19,Heart Failure,13,9,0,3,"Patient admitted with copd. History of hypertension, anemia. Condition improved. Continue medications as prescribed."
+846,2022-09-09,2022-01-04,6,Heart Failure,4,7,0,3,"Patient admitted with sepsis. History of dementia, copd. Condition improved. Continue medications as prescribed."
+847,2022-09-22,2022-01-10,11,Diabetes,6,0,0,0,"Patient admitted with heart failure. History of hypertension, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+848,2022-09-28,2022-01-17,29,Pneumonia,1,1,1,5,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+849,2022-07-07,2022-01-08,11,COPD,7,9,0,4,Patient admitted with pneumonia. History of diabetes. Patient responding well to treatment. Discharge home.
+850,2022-08-02,2022-01-22,7,Hip Fracture,12,5,0,2,"Patient admitted with dementia. History of pneumonia, depression. Condition improved. Continue medications as prescribed."
+851,2022-10-10,2022-01-14,2,Pneumonia,6,0,1,0,Patient admitted with anemia. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+852,2022-07-30,2022-01-26,19,Diabetes,4,9,1,1,Patient admitted with depression. History of dementia. Condition improved. Continue medications as prescribed.
+853,2022-12-31,2022-01-28,4,Heart Failure,7,2,0,0,"Patient admitted with dementia. History of hypertension, pneumonia. Patient responding well to treatment. Discharge home."
+854,2022-03-17,2022-01-05,26,Pneumonia,3,6,0,1,"Patient admitted with depression. History of sepsis, kidney disease. Patient stable for discharge. Follow up in 2 weeks."
+855,2022-05-28,2022-01-11,6,Sepsis,1,7,0,1,Patient admitted with anemia. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+856,2022-11-17,2022-01-12,17,Other,4,3,0,3,"Patient admitted with dementia. History of anemia, pneumonia. Significant improvement observed. Recommend outpatient follow-up."
+857,2022-08-01,2022-01-30,25,Heart Failure,3,2,0,1,Patient admitted with heart failure. History of pneumonia. Condition improved. Continue medications as prescribed.
+858,2022-04-19,2022-01-06,5,Cancer,1,0,0,0,"Patient admitted with heart failure. History of kidney disease, depression. Patient responding well to treatment. Discharge home."
+859,2022-05-09,2022-01-05,29,Diabetes,2,8,1,1,"Patient admitted with pneumonia. History of dementia, hypertension. Condition improved. Continue medications as prescribed."
+860,2022-01-10,2022-01-10,28,Kidney Disease,11,9,0,2,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+861,2022-02-16,2022-01-08,7,Stroke,5,5,0,0,Patient admitted with hypertension. History of diabetes. Significant improvement observed. Recommend outpatient follow-up.
+862,2022-11-11,2022-01-24,9,Kidney Disease,8,5,0,2,"Patient admitted with sepsis. History of heart failure, dementia. Condition improved. Continue medications as prescribed."
+863,2022-04-06,2022-01-29,25,Pneumonia,1,8,0,0,"Patient admitted with kidney disease. History of sepsis, heart failure. Patient responding well to treatment. Discharge home."
+864,2022-04-13,2022-01-08,1,Heart Failure,4,0,0,1,Patient admitted with anemia. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+865,2022-12-08,2022-01-23,1,Stroke,14,5,0,1,"Patient admitted with heart failure. History of depression, pneumonia. Condition improved. Continue medications as prescribed."
+866,2022-05-26,2022-01-16,19,Stroke,4,4,1,3,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+867,2022-01-27,2022-01-24,6,Hip Fracture,5,5,0,1,"Patient admitted with hypertension. History of pneumonia, depression. Patient stable for discharge. Follow up in 2 weeks."
+868,2022-08-08,2022-01-23,18,Kidney Disease,7,7,0,1,"Patient admitted with sepsis. History of hypertension, heart failure. Condition improved. Continue medications as prescribed."
+869,2022-01-18,2022-01-09,10,Heart Failure,13,4,0,2,"Patient admitted with depression. History of anemia, diabetes. Condition improved. Continue medications as prescribed."
+870,2022-06-16,2022-01-23,28,Hip Fracture,12,1,0,4,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+871,2022-03-23,2022-01-21,11,COPD,8,1,0,2,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+872,2022-03-13,2022-01-28,1,Kidney Disease,6,9,1,1,"Patient admitted with diabetes. History of hypertension, depression. Significant improvement observed. Recommend outpatient follow-up."
+873,2022-11-06,2022-01-05,1,Other,1,4,1,1,Patient admitted with kidney disease. History of heart failure. Patient stable for discharge. Follow up in 2 weeks.
+874,2022-09-11,2022-01-28,13,Other,7,2,0,0,Patient admitted with dementia. Condition improved. Continue medications as prescribed.
+875,2022-06-11,2022-01-29,5,Hip Fracture,3,9,0,2,"Patient admitted with dementia. History of sepsis, kidney disease. Patient responding well to treatment. Discharge home."
+876,2022-11-23,2022-01-09,20,COPD,13,2,1,2,"Patient admitted with hypertension. History of pneumonia, depression. Patient stable for discharge. Follow up in 2 weeks."
+877,2022-02-07,2022-01-12,1,Sepsis,13,7,0,2,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+878,2022-07-20,2022-01-28,20,Sepsis,13,6,0,1,Patient admitted with hypertension. History of copd. Condition improved. Continue medications as prescribed.
+879,2022-07-19,2022-01-06,3,Other,6,0,0,2,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+880,2022-09-12,2022-01-04,18,Cancer,8,4,1,2,"Patient admitted with hypertension. History of anemia, diabetes. Significant improvement observed. Recommend outpatient follow-up."
+881,2022-06-28,2022-01-04,9,Diabetes,7,8,0,2,Patient admitted with anemia. History of pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+882,2022-02-04,2022-01-22,14,Diabetes,10,3,1,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+883,2022-03-23,2022-01-08,27,Cancer,6,0,1,3,"Patient admitted with depression. History of diabetes, heart failure. Condition improved. Continue medications as prescribed."
+884,2022-08-08,2022-01-16,17,Hip Fracture,9,7,0,3,Patient admitted with dementia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+885,2022-06-07,2022-01-22,23,Diabetes,9,4,1,1,"Patient admitted with copd. History of kidney disease, depression. Patient responding well to treatment. Discharge home."
+886,2022-01-04,2022-01-15,14,Diabetes,1,1,1,3,Patient admitted with sepsis. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+887,2022-06-16,2022-01-19,29,Kidney Disease,1,0,0,2,Patient admitted with dementia. History of copd. Patient responding well to treatment. Discharge home.
+888,2022-07-23,2022-01-28,4,Kidney Disease,1,2,0,4,"Patient admitted with diabetes. History of hypertension, sepsis. Patient responding well to treatment. Discharge home."
+889,2022-07-13,2022-01-28,5,Cancer,8,8,0,2,"Patient admitted with kidney disease. History of sepsis, depression. Condition improved. Continue medications as prescribed."
+890,2022-08-23,2022-01-22,26,Heart Failure,12,0,0,3,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+891,2022-07-25,2022-01-06,21,COPD,13,3,0,1,Patient admitted with hypertension. Patient stable for discharge. Follow up in 2 weeks.
+892,2022-05-30,2022-01-15,17,Hip Fracture,14,7,0,3,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+893,2022-06-08,2022-01-08,22,Kidney Disease,12,7,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+894,2022-10-06,2022-01-05,29,Kidney Disease,14,9,1,3,Patient admitted with depression. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+895,2022-10-31,2022-01-25,25,Sepsis,10,7,0,0,Patient admitted with sepsis. Patient responding well to treatment. Discharge home.
+896,2022-06-15,2022-01-10,2,COPD,7,9,0,0,Patient admitted with copd. Significant improvement observed. Recommend outpatient follow-up.
+897,2022-11-07,2022-01-16,23,Sepsis,3,7,0,1,Patient admitted with pneumonia. Patient responding well to treatment. Discharge home.
+898,2022-03-09,2022-01-28,22,Heart Failure,13,3,0,2,Patient admitted with dementia. History of copd. Patient stable for discharge. Follow up in 2 weeks.
+899,2022-03-29,2022-01-18,5,COPD,2,7,0,1,Patient admitted with depression. Patient responding well to treatment. Discharge home.
+900,2022-08-05,2022-01-25,4,Diabetes,4,8,0,0,Patient admitted with anemia. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+901,2022-01-01,2022-01-06,4,Sepsis,3,6,0,2,Patient admitted with depression. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+902,2022-05-15,2022-01-24,6,Other,7,1,1,0,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+903,2022-07-04,2022-01-23,20,Hip Fracture,10,8,1,3,Patient admitted with dementia. History of depression. Condition improved. Continue medications as prescribed.
+904,2022-12-17,2022-01-08,21,Diabetes,8,7,0,2,Patient admitted with copd. History of depression. Patient responding well to treatment. Discharge home.
+905,2022-05-20,2022-01-27,13,COPD,6,4,1,2,Patient admitted with hypertension. Patient responding well to treatment. Discharge home.
+906,2022-04-16,2022-01-11,22,Other,3,2,1,1,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+907,2022-05-13,2022-01-25,5,Heart Failure,6,6,0,0,"Patient admitted with pneumonia. History of dementia, diabetes. Patient responding well to treatment. Discharge home."
+908,2022-04-18,2022-01-04,23,Other,2,1,1,0,"Patient admitted with depression. History of pneumonia, kidney disease. Patient responding well to treatment. Discharge home."
+909,2022-06-27,2022-01-11,25,Kidney Disease,12,2,1,1,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+910,2022-10-25,2022-01-27,26,Cancer,7,8,0,2,Patient admitted with diabetes. History of copd. Patient responding well to treatment. Discharge home.
+911,2022-12-24,2022-01-21,23,Other,14,3,0,4,Patient admitted with dementia. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+912,2022-12-25,2022-01-23,7,Stroke,11,3,0,3,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+913,2022-05-26,2022-01-19,20,Heart Failure,10,2,0,3,Patient admitted with kidney disease. History of anemia. Condition improved. Continue medications as prescribed.
+914,2022-03-15,2022-01-21,1,Diabetes,14,4,1,2,"Patient admitted with heart failure. History of pneumonia, copd. Patient responding well to treatment. Discharge home."
+915,2022-04-18,2022-01-23,14,Sepsis,7,2,0,1,Patient admitted with anemia. Patient responding well to treatment. Discharge home.
+916,2022-05-02,2022-01-15,24,Pneumonia,4,8,1,0,Patient admitted with depression. History of hypertension. Patient stable for discharge. Follow up in 2 weeks.
+917,2022-01-17,2022-01-16,4,Heart Failure,13,2,1,2,"Patient admitted with dementia. History of anemia, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+918,2022-07-15,2022-01-16,17,Stroke,8,1,0,0,"Patient admitted with anemia. History of pneumonia, dementia. Condition improved. Continue medications as prescribed."
+919,2022-11-23,2022-01-13,21,Kidney Disease,4,4,0,4,Patient admitted with dementia. History of sepsis. Condition improved. Continue medications as prescribed.
+920,2022-11-14,2022-01-10,14,Sepsis,7,5,0,2,"Patient admitted with dementia. History of kidney disease, anemia. Patient responding well to treatment. Discharge home."
+921,2022-10-24,2022-01-28,16,Hip Fracture,4,0,0,0,Patient admitted with diabetes. History of copd. Significant improvement observed. Recommend outpatient follow-up.
+922,2022-09-09,2022-01-17,14,Pneumonia,13,5,0,0,Patient admitted with sepsis. History of heart failure. Patient responding well to treatment. Discharge home.
+923,2022-04-29,2022-01-27,16,Other,12,9,0,1,Patient admitted with kidney disease. History of dementia. Significant improvement observed. Recommend outpatient follow-up.
+924,2022-06-11,2022-01-19,24,Stroke,5,2,0,1,"Patient admitted with depression. History of dementia, copd. Patient responding well to treatment. Discharge home."
+925,2022-07-17,2022-01-18,20,Other,7,3,1,2,Patient admitted with anemia. Condition improved. Continue medications as prescribed.
+926,2022-02-14,2022-01-15,29,Hip Fracture,13,5,0,0,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+927,2022-11-10,2022-01-12,28,Heart Failure,14,7,0,0,"Patient admitted with copd. History of anemia, dementia. Patient responding well to treatment. Discharge home."
+928,2022-06-28,2022-01-11,8,Cancer,14,8,0,1,"Patient admitted with anemia. History of pneumonia, diabetes. Patient responding well to treatment. Discharge home."
+929,2022-02-13,2022-01-21,24,Stroke,13,5,1,2,Patient admitted with diabetes. History of sepsis. Patient stable for discharge. Follow up in 2 weeks.
+930,2022-09-28,2022-01-26,3,COPD,10,6,0,1,Patient admitted with depression. History of hypertension. Condition improved. Continue medications as prescribed.
+931,2022-03-19,2022-01-21,25,Diabetes,3,4,0,3,"Patient admitted with diabetes. History of copd, dementia. Significant improvement observed. Recommend outpatient follow-up."
+932,2022-11-22,2022-01-16,19,COPD,10,8,1,1,Patient admitted with diabetes. Patient responding well to treatment. Discharge home.
+933,2022-06-27,2022-01-30,1,Cancer,5,3,0,1,Patient admitted with diabetes. Patient stable for discharge. Follow up in 2 weeks.
+934,2022-12-23,2022-01-21,2,Hip Fracture,11,9,0,3,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+935,2022-01-03,2022-01-18,15,COPD,14,5,0,2,"Patient admitted with diabetes. History of anemia, kidney disease. Patient responding well to treatment. Discharge home."
+936,2022-08-02,2022-01-07,22,Kidney Disease,3,4,1,2,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+937,2022-12-08,2022-01-20,28,Stroke,5,0,0,1,Patient admitted with copd. History of depression. Significant improvement observed. Recommend outpatient follow-up.
+938,2022-03-15,2022-01-08,10,Kidney Disease,14,4,0,3,"Patient admitted with sepsis. History of copd, pneumonia. Condition improved. Continue medications as prescribed."
+939,2022-02-20,2022-01-25,18,Pneumonia,3,4,0,2,Patient admitted with depression. Significant improvement observed. Recommend outpatient follow-up.
+940,2022-03-08,2022-01-19,22,Cancer,11,8,1,2,"Patient admitted with copd. History of diabetes, sepsis. Significant improvement observed. Recommend outpatient follow-up."
+941,2022-11-28,2022-01-12,14,Pneumonia,10,0,0,2,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+942,2022-04-03,2022-01-13,17,Pneumonia,11,4,0,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+943,2022-06-25,2022-01-27,27,Pneumonia,7,6,1,2,"Patient admitted with pneumonia. History of heart failure, depression. Significant improvement observed. Recommend outpatient follow-up."
+944,2022-05-25,2022-01-21,13,Heart Failure,13,5,0,1,Patient admitted with pneumonia. History of anemia. Patient stable for discharge. Follow up in 2 weeks.
+945,2022-01-07,2022-01-20,1,Heart Failure,1,5,1,0,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+946,2022-09-26,2022-01-21,5,Cancer,9,6,1,2,Patient admitted with dementia. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+947,2022-11-18,2022-01-10,26,Sepsis,9,5,1,1,Patient admitted with depression. History of diabetes. Condition improved. Continue medications as prescribed.
+948,2022-01-04,2022-01-07,13,COPD,5,4,0,4,Patient admitted with pneumonia. History of kidney disease. Condition improved. Continue medications as prescribed.
+949,2022-05-18,2022-01-29,27,Heart Failure,9,9,0,2,"Patient admitted with depression. History of hypertension, anemia. Condition improved. Continue medications as prescribed."
+950,2022-08-19,2022-01-08,25,Other,10,4,1,1,Patient admitted with anemia. History of diabetes. Patient stable for discharge. Follow up in 2 weeks.
+951,2022-03-29,2022-01-26,14,Kidney Disease,13,8,1,0,"Patient admitted with pneumonia. History of copd, dementia. Significant improvement observed. Recommend outpatient follow-up."
+952,2022-01-17,2022-01-19,24,Heart Failure,6,7,0,0,Patient admitted with dementia. History of diabetes. Condition improved. Continue medications as prescribed.
+953,2022-02-21,2022-01-06,3,Hip Fracture,5,9,1,2,Patient admitted with hypertension. History of diabetes. Patient responding well to treatment. Discharge home.
+954,2022-05-14,2022-01-29,15,Pneumonia,13,3,0,1,Patient admitted with diabetes. History of heart failure. Patient responding well to treatment. Discharge home.
+955,2022-07-30,2022-01-21,19,Heart Failure,3,3,0,1,Patient admitted with heart failure. History of copd. Patient responding well to treatment. Discharge home.
+956,2022-11-21,2022-01-26,17,Cancer,11,9,0,2,Patient admitted with pneumonia. History of copd. Patient responding well to treatment. Discharge home.
+957,2022-08-07,2022-01-24,3,Kidney Disease,11,4,1,0,"Patient admitted with sepsis. History of anemia, heart failure. Patient responding well to treatment. Discharge home."
+958,2022-07-24,2022-01-17,16,Kidney Disease,8,2,0,4,Patient admitted with pneumonia. History of anemia. Condition improved. Continue medications as prescribed.
+959,2022-07-30,2022-01-18,14,Sepsis,4,7,0,1,Patient admitted with pneumonia. History of depression. Patient stable for discharge. Follow up in 2 weeks.
+960,2022-10-04,2022-01-20,12,Diabetes,10,6,1,0,"Patient admitted with kidney disease. History of dementia, copd. Patient responding well to treatment. Discharge home."
+961,2022-01-24,2022-01-04,28,Diabetes,13,4,0,2,"Patient admitted with hypertension. History of kidney disease, dementia. Condition improved. Continue medications as prescribed."
+962,2022-01-04,2022-01-28,12,COPD,13,9,0,0,Patient admitted with hypertension. Significant improvement observed. Recommend outpatient follow-up.
+963,2022-06-01,2022-01-24,29,Other,3,2,0,0,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+964,2022-09-16,2022-01-20,11,Stroke,13,4,0,0,Patient admitted with dementia. Patient responding well to treatment. Discharge home.
+965,2022-11-20,2022-01-26,17,Cancer,6,2,0,0,Patient admitted with copd. Patient responding well to treatment. Discharge home.
+966,2022-12-23,2022-01-28,8,Hip Fracture,8,9,1,4,"Patient admitted with anemia. History of diabetes, dementia. Condition improved. Continue medications as prescribed."
+967,2022-06-17,2022-01-14,17,Heart Failure,13,4,0,2,"Patient admitted with diabetes. History of dementia, pneumonia. Significant improvement observed. Recommend outpatient follow-up."
+968,2022-06-25,2022-01-20,21,Cancer,9,0,1,4,Patient admitted with anemia. Patient stable for discharge. Follow up in 2 weeks.
+969,2022-11-06,2022-01-29,25,Other,14,5,0,1,Patient admitted with heart failure. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+970,2022-10-18,2022-01-17,23,Diabetes,6,9,0,2,Patient admitted with heart failure. History of kidney disease. Patient responding well to treatment. Discharge home.
+971,2022-02-25,2022-01-23,20,Cancer,5,3,0,1,"Patient admitted with hypertension. History of diabetes, dementia. Condition improved. Continue medications as prescribed."
+972,2022-04-18,2022-01-22,11,Heart Failure,12,3,0,0,Patient admitted with dementia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+973,2022-10-23,2022-01-24,25,Sepsis,11,7,0,1,"Patient admitted with heart failure. History of kidney disease, dementia. Condition improved. Continue medications as prescribed."
+974,2022-11-20,2022-01-10,25,COPD,2,1,0,2,"Patient admitted with hypertension. History of kidney disease, pneumonia. Patient stable for discharge. Follow up in 2 weeks."
+975,2022-10-29,2022-01-27,2,Sepsis,2,3,0,2,"Patient admitted with heart failure. History of kidney disease, pneumonia. Significant improvement observed. Recommend outpatient follow-up."
+976,2022-11-30,2022-01-16,10,Diabetes,9,1,0,2,Patient admitted with diabetes. Significant improvement observed. Recommend outpatient follow-up.
+977,2022-05-21,2022-01-21,10,Pneumonia,2,0,0,1,Patient admitted with depression. History of anemia. Patient responding well to treatment. Discharge home.
+978,2022-06-04,2022-01-26,11,Diabetes,2,9,0,1,Patient admitted with hypertension. Condition improved. Continue medications as prescribed.
+979,2022-09-19,2022-01-17,28,COPD,3,2,1,2,Patient admitted with dementia. History of kidney disease. Patient stable for discharge. Follow up in 2 weeks.
+980,2022-09-30,2022-01-04,6,Heart Failure,3,7,0,0,"Patient admitted with copd. History of sepsis, hypertension. Patient responding well to treatment. Discharge home."
+981,2022-08-20,2022-01-10,4,Other,4,5,0,0,Patient admitted with kidney disease. Condition improved. Continue medications as prescribed.
+982,2022-08-29,2022-01-11,24,Stroke,7,6,1,1,Patient admitted with copd. Condition improved. Continue medications as prescribed.
+983,2022-12-21,2022-01-21,12,Sepsis,9,1,1,2,Patient admitted with sepsis. History of diabetes. Condition improved. Continue medications as prescribed.
+984,2022-12-03,2022-01-12,11,Diabetes,2,5,0,3,"Patient admitted with hypertension. History of heart failure, copd. Significant improvement observed. Recommend outpatient follow-up."
+985,2022-09-15,2022-01-04,23,Other,4,7,0,2,Patient admitted with heart failure. History of anemia. Significant improvement observed. Recommend outpatient follow-up.
+986,2022-09-06,2022-01-25,23,Sepsis,9,7,0,1,Patient admitted with diabetes. Condition improved. Continue medications as prescribed.
+987,2022-03-18,2022-01-20,27,Diabetes,14,3,0,2,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+988,2022-06-29,2022-01-22,26,COPD,2,5,1,1,Patient admitted with pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+989,2022-03-07,2022-01-30,25,Sepsis,10,4,1,3,"Patient admitted with dementia. History of hypertension, anemia. Patient responding well to treatment. Discharge home."
+990,2022-11-04,2022-01-09,13,Diabetes,11,8,0,1,Patient admitted with pneumonia. Patient stable for discharge. Follow up in 2 weeks.
+991,2022-12-14,2022-01-06,5,Heart Failure,13,7,1,0,Patient admitted with heart failure. History of kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+992,2022-06-20,2022-01-27,6,COPD,1,1,0,1,Patient admitted with sepsis. History of pneumonia. Significant improvement observed. Recommend outpatient follow-up.
+993,2022-01-22,2022-01-08,1,Other,10,6,0,0,Patient admitted with kidney disease. Significant improvement observed. Recommend outpatient follow-up.
+994,2022-04-17,2022-01-05,6,Other,8,6,1,3,"Patient admitted with anemia. History of pneumonia, depression. Significant improvement observed. Recommend outpatient follow-up."
+995,2022-11-19,2022-01-23,18,Stroke,9,0,0,1,"Patient admitted with diabetes. History of sepsis, heart failure. Patient stable for discharge. Follow up in 2 weeks."
+996,2022-08-15,2022-01-28,22,Cancer,7,0,1,2,"Patient admitted with anemia. History of sepsis, dementia. Patient stable for discharge. Follow up in 2 weeks."
+997,2022-08-04,2022-01-07,9,Pneumonia,8,3,1,1,Patient admitted with sepsis. History of pneumonia. Condition improved. Continue medications as prescribed.
+998,2022-03-10,2022-01-13,24,Heart Failure,4,4,0,4,"Patient admitted with anemia. History of depression, sepsis. Patient responding well to treatment. Discharge home."
+999,2022-03-25,2022-01-13,25,COPD,4,3,0,0,"Patient admitted with pneumonia. History of heart failure, copd. Significant improvement observed. Recommend outpatient follow-up."
+1000,2022-04-13,2022-01-27,29,Sepsis,13,6,0,0,Patient admitted with dementia. Significant improvement observed. Recommend outpatient follow-up.

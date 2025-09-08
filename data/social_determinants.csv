@@ -1,0 +1,1001 @@
+patient_id,zip_code,employment_status,education_level,housing_status,transportation_access,social_support,food_insecurity,health_literacy
+1,80818,Employed,College,Stable,Good,Good,1,Low
+2,29270,Retired,High School,Unstable,Limited,Good,1,High
+3,31326,Disabled,Less than High School,Unstable,Good,Good,0,High
+4,31531,Unemployed,High School,Stable,Good,Good,0,High
+5,67599,Disabled,College,Stable,Good,Good,0,High
+6,55960,Retired,High School,Stable,Limited,Limited,1,Medium
+7,34354,Unemployed,Less than High School,Stable,Good,Limited,0,Medium
+8,91519,Unemployed,High School,Stable,Limited,Good,0,Medium
+9,48639,Retired,High School,Stable,Good,Limited,0,Medium
+10,93698,Disabled,Graduate,Stable,Good,None,0,High
+11,96280,Unemployed,High School,Stable,Good,Good,1,Medium
+12,60739,Employed,Less than High School,Stable,Limited,Limited,0,High
+13,38128,Employed,High School,Stable,Good,Good,0,High
+14,98523,Unemployed,Less than High School,Stable,Good,Good,1,High
+15,55832,Employed,College,Stable,Good,Good,0,Low
+16,95557,Unemployed,College,Stable,Good,Good,0,Medium
+17,99220,Retired,Less than High School,Unstable,Good,Limited,1,Medium
+18,66316,Unemployed,College,Stable,Good,Good,0,Medium
+19,35790,Retired,College,Stable,Good,Limited,0,High
+20,76683,Employed,High School,Homeless,Good,Limited,0,High
+21,15550,Retired,High School,Stable,Limited,None,1,High
+22,33769,Unemployed,Graduate,Stable,Limited,Limited,0,High
+23,17138,Employed,High School,Stable,Good,Good,0,Medium
+24,57404,Retired,High School,Stable,Good,Limited,1,Medium
+25,70486,Employed,College,Stable,Good,Good,0,High
+26,91864,Unemployed,College,Stable,Good,None,0,High
+27,84601,Retired,High School,Stable,Limited,Limited,0,High
+28,64816,Employed,Graduate,Stable,Good,Good,1,Medium
+29,84101,Disabled,High School,Stable,None,Limited,0,Medium
+30,11194,Retired,Graduate,Stable,Good,Good,0,Medium
+31,49255,Unemployed,Graduate,Stable,Good,Good,1,Medium
+32,62679,Employed,High School,Stable,Good,Limited,0,High
+33,39533,Retired,Graduate,Stable,Good,Good,0,Medium
+34,95401,Unemployed,Graduate,Stable,Limited,Limited,0,Medium
+35,15615,Retired,Less than High School,Stable,Limited,Good,0,High
+36,25084,Employed,College,Stable,Good,Limited,0,Medium
+37,18016,Retired,High School,Unstable,Good,None,0,Low
+38,36725,Disabled,Less than High School,Stable,Good,Limited,0,High
+39,44825,Employed,Graduate,Stable,Good,Limited,0,Low
+40,54072,Disabled,High School,Stable,Good,None,1,High
+41,28801,Unemployed,Less than High School,Stable,Good,Good,0,Medium
+42,47246,Employed,Less than High School,Homeless,Good,Good,0,High
+43,32854,Employed,High School,Stable,Limited,Good,0,High
+44,67793,Employed,High School,Stable,Good,Good,0,Low
+45,47386,Employed,College,Stable,Good,None,0,High
+46,24142,Employed,Less than High School,Stable,Good,Good,0,High
+47,27393,Employed,High School,Stable,Limited,Good,1,Medium
+48,13778,Employed,College,Homeless,Limited,Good,0,Low
+49,25318,Employed,Graduate,Homeless,Limited,Good,0,High
+50,57068,Employed,High School,Stable,Good,Good,0,High
+51,54778,Disabled,College,Stable,Limited,Good,0,High
+52,11250,Disabled,High School,Stable,Good,Good,0,Medium
+53,66161,Retired,College,Stable,Good,None,0,High
+54,53348,Employed,College,Stable,None,Good,1,High
+55,28703,Employed,High School,Stable,None,Good,1,High
+56,48678,Employed,Less than High School,Stable,Good,Limited,1,High
+57,98458,Employed,High School,Stable,Good,Good,0,High
+58,62347,Disabled,College,Stable,Good,Limited,0,Low
+59,78493,Retired,Graduate,Homeless,Limited,Limited,0,Medium
+60,32722,Employed,High School,Unstable,Limited,None,0,Low
+61,23894,Unemployed,High School,Stable,Good,Limited,0,High
+62,67063,Retired,High School,Unstable,Limited,Good,1,High
+63,35772,Retired,High School,Stable,Good,Good,0,High
+64,46042,Employed,Graduate,Stable,None,Good,0,High
+65,74181,Employed,Graduate,Stable,None,Good,0,Low
+66,57856,Unemployed,Less than High School,Stable,Good,Good,1,Low
+67,45816,Employed,Graduate,Stable,Good,Good,0,Medium
+68,78475,Retired,High School,Unstable,Good,Limited,0,High
+69,21670,Employed,High School,Stable,Good,Good,0,Medium
+70,71572,Employed,High School,Stable,Limited,Good,0,Medium
+71,89967,Employed,High School,Stable,Good,Good,1,Medium
+72,19049,Employed,College,Stable,Good,Limited,0,Medium
+73,21028,Retired,High School,Stable,None,Limited,1,High
+74,44520,Employed,College,Stable,Good,Good,0,High
+75,39587,Employed,High School,Stable,Good,Limited,0,Medium
+76,66599,Retired,College,Stable,Good,Good,0,Medium
+77,28050,Employed,High School,Stable,Limited,Good,0,Medium
+78,74597,Employed,College,Unstable,Limited,Good,0,Low
+79,77399,Employed,High School,Stable,Good,Good,0,High
+80,14461,Employed,High School,Stable,Limited,None,0,High
+81,47980,Unemployed,High School,Stable,None,Good,0,High
+82,12118,Employed,High School,Stable,Limited,Limited,0,High
+83,88149,Retired,High School,Stable,Good,Limited,0,High
+84,48394,Unemployed,High School,Stable,Good,Limited,0,High
+85,52309,Retired,Less than High School,Stable,Good,Good,0,High
+86,17358,Disabled,High School,Unstable,Limited,Good,0,High
+87,52030,Employed,Less than High School,Unstable,Good,Good,1,High
+88,93673,Retired,College,Stable,Good,Good,0,High
+89,66291,Retired,College,Stable,Good,Limited,1,Low
+90,39922,Disabled,Graduate,Stable,Limited,Good,0,Low
+91,73215,Retired,College,Stable,Good,Limited,0,Medium
+92,54447,Employed,High School,Unstable,Limited,Good,0,Medium
+93,41572,Employed,High School,Stable,Good,Good,0,Medium
+94,37517,Employed,Graduate,Stable,Good,Limited,1,Medium
+95,30649,Disabled,High School,Stable,Good,Limited,0,Medium
+96,39927,Unemployed,College,Stable,Good,Good,0,High
+97,21591,Unemployed,Less than High School,Stable,Good,None,0,Low
+98,35832,Retired,College,Stable,None,Good,1,High
+99,95638,Employed,High School,Stable,Good,Limited,0,High
+100,73524,Employed,High School,Stable,Good,Good,1,Medium
+101,82450,Disabled,High School,Stable,Good,Good,0,Low
+102,48289,Retired,College,Stable,Good,None,0,High
+103,86411,Unemployed,College,Stable,Good,Limited,0,Medium
+104,10425,Employed,College,Stable,Limited,Good,0,High
+105,40600,Unemployed,High School,Stable,Good,Limited,0,Low
+106,90279,Employed,High School,Stable,Good,Good,0,Medium
+107,82454,Employed,Less than High School,Unstable,Good,Limited,0,High
+108,17008,Employed,High School,Stable,Good,Limited,0,Medium
+109,51176,Unemployed,High School,Stable,Good,Good,0,High
+110,18801,Employed,High School,Stable,Good,None,0,High
+111,22645,Employed,High School,Stable,None,Good,1,Medium
+112,35300,Retired,Less than High School,Stable,Good,Good,1,Medium
+113,23157,Retired,High School,Stable,Limited,Good,0,High
+114,19015,Employed,College,Stable,Good,None,1,High
+115,69111,Employed,High School,Unstable,Good,Limited,1,Medium
+116,85705,Retired,College,Stable,Good,Good,0,Medium
+117,26273,Retired,Less than High School,Stable,Good,Good,0,High
+118,38465,Unemployed,High School,Stable,Good,Good,0,High
+119,93104,Retired,High School,Homeless,Good,Good,1,High
+120,71723,Employed,High School,Stable,Good,Good,1,Medium
+121,34759,Retired,College,Homeless,Good,Good,0,Low
+122,95528,Retired,College,Stable,Good,Good,0,High
+123,90013,Retired,Less than High School,Stable,Limited,Good,0,Medium
+124,85347,Disabled,High School,Unstable,Good,Limited,0,Medium
+125,47094,Employed,Graduate,Stable,Good,Good,0,Medium
+126,34019,Employed,High School,Stable,Good,Limited,0,Low
+127,91798,Employed,High School,Stable,Good,Good,0,High
+128,12435,Employed,College,Stable,Good,Good,0,High
+129,10734,Retired,Less than High School,Stable,Good,Limited,1,Low
+130,42925,Retired,High School,Stable,Good,Good,0,High
+131,68685,Retired,High School,Stable,Limited,Limited,0,Medium
+132,59146,Employed,College,Stable,None,Good,0,Medium
+133,17764,Retired,Graduate,Unstable,Limited,Good,0,High
+134,27459,Employed,Less than High School,Stable,None,None,0,High
+135,80658,Employed,High School,Stable,Limited,Limited,1,High
+136,40342,Unemployed,Graduate,Stable,Good,Limited,0,Medium
+137,52821,Employed,High School,Stable,Good,Good,0,High
+138,50958,Disabled,College,Stable,Limited,Good,0,Medium
+139,69973,Employed,High School,Stable,Good,Limited,0,High
+140,66993,Unemployed,High School,Stable,Good,Good,0,Medium
+141,33135,Retired,Less than High School,Stable,Good,Good,1,Low
+142,65525,Unemployed,College,Stable,Good,Limited,0,Medium
+143,78500,Unemployed,High School,Stable,Good,Limited,0,Low
+144,89114,Employed,Graduate,Stable,Good,Limited,0,High
+145,56385,Employed,College,Stable,Good,Limited,0,High
+146,99942,Unemployed,High School,Stable,Good,None,0,High
+147,47893,Disabled,College,Unstable,None,Good,0,High
+148,76669,Disabled,College,Stable,Good,Good,0,High
+149,47006,Unemployed,High School,Unstable,Limited,Limited,0,Low
+150,15786,Unemployed,Less than High School,Stable,Limited,Good,0,Medium
+151,38878,Retired,College,Stable,Good,Good,1,Medium
+152,65724,Retired,Less than High School,Stable,Limited,Limited,0,Medium
+153,90131,Retired,College,Unstable,Good,Limited,0,High
+154,98013,Retired,College,Stable,Limited,Limited,0,High
+155,87484,Disabled,High School,Stable,Good,Good,1,Medium
+156,67464,Retired,College,Stable,None,None,0,High
+157,55468,Retired,Graduate,Stable,Limited,Limited,1,Medium
+158,86939,Employed,High School,Stable,Good,Limited,0,High
+159,92340,Employed,College,Stable,Limited,Good,0,Medium
+160,85457,Retired,High School,Stable,Good,Good,1,Medium
+161,45603,Employed,Graduate,Stable,Good,Good,0,Medium
+162,77621,Employed,Less than High School,Stable,Limited,Limited,0,High
+163,49837,Disabled,College,Stable,None,Limited,0,High
+164,33854,Unemployed,High School,Stable,Good,Limited,0,High
+165,28761,Employed,College,Stable,None,Good,0,Medium
+166,62009,Unemployed,Graduate,Homeless,Good,Limited,0,High
+167,87828,Employed,Less than High School,Stable,Good,Limited,0,Medium
+168,11455,Retired,High School,Stable,Good,Limited,0,High
+169,68332,Retired,Graduate,Stable,Limited,None,0,Medium
+170,23682,Retired,High School,Stable,Good,Limited,0,High
+171,88718,Employed,Graduate,Stable,Limited,Good,0,High
+172,11890,Employed,Less than High School,Stable,Limited,Limited,1,Low
+173,57206,Employed,Less than High School,Stable,Limited,Good,0,Medium
+174,51609,Employed,College,Stable,Good,Good,0,High
+175,69172,Retired,College,Stable,Good,Limited,0,Medium
+176,45196,Unemployed,Less than High School,Stable,Good,Good,0,Medium
+177,81745,Employed,College,Homeless,Good,Good,0,Medium
+178,61469,Employed,High School,Stable,None,Limited,0,High
+179,67390,Employed,Less than High School,Homeless,Good,None,0,Low
+180,41635,Retired,High School,Stable,Good,None,1,Medium
+181,50816,Employed,College,Stable,None,Limited,0,Medium
+182,66499,Employed,High School,Stable,Limited,None,1,High
+183,17282,Employed,High School,Stable,Good,Limited,0,High
+184,91454,Unemployed,College,Stable,Good,Good,0,Medium
+185,20446,Employed,College,Stable,None,Good,0,Low
+186,26456,Retired,High School,Stable,Good,Good,0,Medium
+187,13457,Retired,High School,Stable,Good,Good,0,High
+188,91832,Employed,High School,Stable,Limited,Limited,0,High
+189,46853,Employed,Graduate,Stable,Good,Good,1,Medium
+190,53037,Disabled,High School,Unstable,Good,Limited,0,High
+191,60695,Retired,Less than High School,Unstable,Good,Limited,0,Medium
+192,25223,Employed,High School,Stable,Limited,Good,0,Medium
+193,30880,Employed,Less than High School,Stable,None,Good,0,Medium
+194,85764,Employed,College,Stable,None,Limited,0,Low
+195,80285,Retired,High School,Stable,Good,Limited,0,Medium
+196,15045,Disabled,High School,Unstable,Good,Good,1,Low
+197,43615,Retired,Graduate,Stable,Good,None,0,Medium
+198,71424,Employed,Less than High School,Stable,Good,Good,0,Medium
+199,98494,Retired,Less than High School,Stable,Limited,Good,0,Medium
+200,92458,Disabled,College,Unstable,Good,Limited,0,Low
+201,67414,Employed,High School,Stable,Good,Good,0,High
+202,40426,Disabled,High School,Unstable,Limited,Limited,1,Medium
+203,24113,Retired,High School,Stable,Limited,Limited,0,High
+204,67599,Employed,High School,Stable,Good,Limited,0,High
+205,74614,Employed,College,Stable,Limited,Good,0,High
+206,85922,Employed,College,Stable,Good,Limited,0,High
+207,76437,Retired,Graduate,Homeless,Good,Good,1,Medium
+208,28267,Unemployed,High School,Stable,None,Good,1,Medium
+209,83867,Unemployed,High School,Stable,Limited,Good,0,High
+210,61854,Employed,High School,Stable,Good,Good,0,Medium
+211,86396,Disabled,Less than High School,Stable,Good,Limited,0,Low
+212,21110,Employed,Less than High School,Stable,Good,Good,0,Medium
+213,30543,Employed,High School,Stable,Good,Good,1,High
+214,52254,Employed,College,Stable,Limited,Limited,0,Medium
+215,86610,Employed,College,Stable,Good,Limited,0,High
+216,27800,Disabled,College,Stable,Good,Limited,0,High
+217,21264,Employed,High School,Stable,Good,Limited,1,Medium
+218,73534,Employed,College,Stable,None,Good,0,Low
+219,96883,Unemployed,High School,Stable,Good,Good,0,Medium
+220,64025,Unemployed,Graduate,Stable,Limited,Good,0,Medium
+221,97041,Employed,High School,Stable,Good,Limited,0,Medium
+222,92278,Employed,College,Stable,Good,Limited,0,Medium
+223,11500,Employed,College,Stable,Limited,Good,0,Low
+224,50887,Retired,Graduate,Stable,Good,Limited,1,High
+225,10814,Retired,High School,Stable,Good,Good,0,High
+226,24539,Disabled,College,Stable,Good,Limited,0,High
+227,47834,Employed,Less than High School,Stable,Limited,Limited,1,High
+228,67570,Unemployed,High School,Stable,Limited,Good,1,High
+229,86723,Retired,College,Stable,Limited,Limited,0,High
+230,62987,Employed,High School,Stable,Good,Limited,0,Low
+231,16086,Retired,Graduate,Stable,Limited,Good,1,Medium
+232,21510,Unemployed,High School,Stable,Good,Good,0,Medium
+233,89665,Unemployed,College,Stable,Good,Good,0,Medium
+234,44832,Retired,High School,Stable,Good,Good,0,Low
+235,61503,Unemployed,High School,Stable,Limited,Good,0,Medium
+236,24200,Retired,College,Stable,Good,Good,0,High
+237,36113,Disabled,College,Unstable,Good,Good,0,High
+238,40141,Unemployed,College,Stable,Good,Good,1,Low
+239,92186,Employed,High School,Stable,Limited,Limited,0,Medium
+240,67303,Retired,College,Stable,Good,Good,0,High
+241,23408,Employed,High School,Stable,Limited,Good,0,High
+242,23594,Employed,High School,Stable,None,Good,0,Low
+243,52230,Unemployed,Graduate,Homeless,Limited,Good,0,Low
+244,18226,Retired,Graduate,Unstable,Good,Limited,0,High
+245,42212,Retired,High School,Stable,None,Good,0,Low
+246,10067,Disabled,High School,Stable,Good,None,0,Medium
+247,92108,Retired,High School,Stable,Good,Good,0,Medium
+248,55663,Disabled,Graduate,Stable,Limited,Limited,0,High
+249,59834,Unemployed,Graduate,Stable,Good,None,1,Low
+250,23232,Employed,College,Stable,Limited,Good,0,Medium
+251,86682,Unemployed,Graduate,Stable,None,Limited,0,High
+252,45906,Retired,Less than High School,Stable,None,Good,1,High
+253,56002,Unemployed,Less than High School,Stable,Good,Good,1,High
+254,52291,Retired,Less than High School,Stable,None,Limited,0,High
+255,13190,Retired,Graduate,Stable,Good,Good,0,High
+256,91578,Employed,High School,Stable,Good,Limited,0,Medium
+257,82889,Employed,High School,Stable,Limited,Good,0,High
+258,39645,Unemployed,Graduate,Stable,None,Limited,1,Low
+259,99157,Disabled,High School,Stable,Good,None,0,High
+260,23930,Employed,High School,Unstable,None,Limited,0,Medium
+261,12595,Disabled,High School,Stable,None,Good,1,Medium
+262,97387,Disabled,Graduate,Stable,None,Good,0,High
+263,74402,Employed,College,Stable,Good,None,0,High
+264,11218,Retired,High School,Stable,Limited,Limited,1,Medium
+265,97819,Employed,College,Homeless,Good,Good,0,Low
+266,18675,Unemployed,Less than High School,Stable,Good,Good,0,High
+267,73447,Unemployed,College,Stable,None,Good,0,High
+268,96603,Disabled,College,Stable,Good,Good,1,Low
+269,33831,Unemployed,High School,Stable,Good,Good,0,Low
+270,34384,Unemployed,High School,Stable,Good,Good,0,Medium
+271,72811,Retired,College,Stable,Good,Good,0,Medium
+272,50527,Employed,Graduate,Stable,Good,None,1,High
+273,87277,Unemployed,Less than High School,Stable,None,Limited,0,High
+274,68465,Disabled,College,Stable,None,Good,0,High
+275,26665,Employed,High School,Stable,Good,Good,0,High
+276,51589,Unemployed,Graduate,Stable,Good,Limited,1,Medium
+277,45234,Employed,High School,Stable,Good,Good,0,High
+278,38894,Retired,High School,Stable,Good,Good,0,High
+279,74763,Employed,Graduate,Stable,None,Limited,0,Medium
+280,46943,Employed,Graduate,Stable,Good,Good,0,High
+281,47689,Retired,Less than High School,Stable,Good,Good,0,Medium
+282,53689,Unemployed,College,Stable,Limited,Limited,0,High
+283,49324,Retired,Less than High School,Stable,Good,Good,0,High
+284,75180,Retired,High School,Unstable,Good,Good,0,High
+285,38040,Employed,High School,Homeless,Limited,Good,0,High
+286,78472,Employed,Graduate,Stable,Good,Good,0,High
+287,35927,Employed,College,Stable,Limited,Limited,0,High
+288,23514,Retired,High School,Stable,Good,Limited,0,High
+289,66058,Employed,Graduate,Unstable,Limited,Limited,0,High
+290,54398,Retired,Graduate,Stable,Good,Limited,0,High
+291,99233,Employed,College,Stable,Good,Good,0,Medium
+292,16139,Employed,College,Stable,Good,Good,0,Medium
+293,62601,Employed,Graduate,Stable,Good,Good,0,High
+294,71894,Unemployed,Graduate,Stable,Good,Good,0,High
+295,89634,Employed,Less than High School,Stable,Good,Good,0,High
+296,85794,Employed,College,Stable,Good,Limited,1,Medium
+297,29385,Retired,High School,Stable,Limited,Good,1,Medium
+298,80610,Employed,College,Stable,Good,Good,1,High
+299,97468,Disabled,High School,Unstable,Good,Limited,1,Low
+300,30731,Unemployed,High School,Homeless,Good,Good,1,Low
+301,48887,Employed,High School,Homeless,None,None,0,High
+302,88619,Disabled,High School,Stable,Good,Good,0,High
+303,71258,Unemployed,High School,Stable,Good,Good,0,High
+304,21825,Unemployed,College,Stable,Good,Limited,0,Medium
+305,82586,Employed,College,Stable,Good,Limited,1,High
+306,97862,Employed,High School,Stable,Good,Good,0,High
+307,86685,Retired,College,Stable,Limited,Good,0,Low
+308,53745,Employed,College,Homeless,Limited,Good,0,Medium
+309,83948,Unemployed,High School,Stable,Good,Good,1,Medium
+310,96575,Retired,College,Unstable,Good,Limited,0,Medium
+311,97097,Employed,Graduate,Stable,Good,Good,0,Medium
+312,36820,Retired,Less than High School,Stable,Good,Good,0,High
+313,30192,Employed,High School,Stable,Good,Limited,1,Medium
+314,66968,Employed,Graduate,Stable,Good,None,1,Medium
+315,50642,Disabled,College,Unstable,Good,Good,1,High
+316,58145,Employed,College,Stable,Good,Good,0,High
+317,61414,Retired,Less than High School,Stable,Good,Good,0,High
+318,50653,Retired,College,Stable,None,Limited,0,Low
+319,47499,Unemployed,High School,Unstable,Good,Good,1,Low
+320,60191,Unemployed,Graduate,Stable,Good,Good,0,Medium
+321,99875,Employed,Less than High School,Homeless,Good,Good,0,Low
+322,45048,Retired,Less than High School,Stable,Good,Good,0,High
+323,89896,Disabled,Less than High School,Unstable,Good,Good,0,High
+324,60540,Employed,High School,Stable,Good,Good,0,High
+325,66314,Employed,College,Stable,Good,Limited,0,Medium
+326,79044,Unemployed,College,Stable,Limited,Good,0,Low
+327,77654,Employed,High School,Stable,Limited,Limited,0,High
+328,71127,Retired,High School,Unstable,Good,Good,0,High
+329,55015,Retired,Graduate,Stable,Good,Good,1,Medium
+330,60734,Employed,College,Stable,Limited,Good,0,Medium
+331,24360,Unemployed,College,Stable,None,Good,0,High
+332,75056,Employed,College,Unstable,Good,Good,0,Low
+333,41957,Employed,High School,Stable,Limited,Good,0,High
+334,72502,Retired,Graduate,Stable,Good,Good,0,High
+335,59828,Employed,College,Stable,None,Good,0,High
+336,53102,Unemployed,College,Unstable,Good,Limited,0,Medium
+337,19605,Unemployed,High School,Stable,Good,Limited,0,Low
+338,81899,Unemployed,College,Stable,Good,Good,1,Low
+339,48155,Employed,High School,Stable,Good,Limited,0,Medium
+340,32133,Retired,High School,Unstable,Good,Limited,0,High
+341,56145,Disabled,College,Stable,Good,Limited,0,Medium
+342,32720,Unemployed,High School,Stable,Good,Good,0,Low
+343,37967,Employed,Less than High School,Stable,Good,Good,1,High
+344,58674,Retired,College,Stable,Limited,Good,0,High
+345,87719,Disabled,College,Stable,None,Good,0,Medium
+346,20414,Retired,High School,Stable,Good,Good,0,High
+347,75647,Employed,High School,Stable,Good,Good,0,High
+348,13379,Employed,College,Stable,Good,Good,0,Medium
+349,66659,Employed,Less than High School,Stable,Good,Good,0,Low
+350,13151,Employed,High School,Stable,Limited,Limited,0,Low
+351,73598,Employed,College,Unstable,Good,Good,1,Medium
+352,64758,Disabled,High School,Stable,Good,Good,0,Low
+353,61652,Retired,Graduate,Stable,Limited,None,0,High
+354,84140,Employed,College,Homeless,Good,Good,0,Medium
+355,78187,Unemployed,High School,Stable,Limited,Limited,0,High
+356,26308,Employed,College,Stable,Good,Limited,0,Medium
+357,34761,Retired,Less than High School,Stable,Good,Good,0,Low
+358,85304,Employed,College,Stable,Good,Good,0,High
+359,13158,Employed,High School,Stable,Limited,Good,0,Low
+360,33775,Employed,High School,Stable,None,None,0,High
+361,46845,Retired,Less than High School,Stable,Good,None,1,Medium
+362,25485,Unemployed,College,Stable,Good,Good,1,High
+363,74552,Unemployed,High School,Homeless,Good,Good,1,Low
+364,75326,Retired,High School,Stable,Good,Good,1,High
+365,31787,Retired,Less than High School,Unstable,None,Good,0,High
+366,58793,Unemployed,College,Unstable,None,None,0,Low
+367,17153,Disabled,High School,Stable,Limited,None,1,Medium
+368,49093,Employed,High School,Unstable,Good,Good,1,Medium
+369,65766,Employed,Less than High School,Unstable,Good,Good,0,Medium
+370,15931,Disabled,Graduate,Stable,Good,Good,0,Medium
+371,37040,Retired,High School,Homeless,Good,Good,0,Low
+372,27272,Employed,College,Stable,Good,None,0,Medium
+373,75939,Disabled,College,Homeless,Good,Limited,0,High
+374,22801,Employed,Graduate,Stable,Good,Good,0,Medium
+375,69957,Retired,High School,Stable,Good,Good,0,Low
+376,37064,Employed,High School,Stable,Good,None,0,Low
+377,13985,Employed,High School,Stable,Good,Limited,0,High
+378,91796,Unemployed,High School,Stable,Good,Good,0,Medium
+379,37615,Retired,High School,Stable,Good,Good,1,Low
+380,69466,Retired,High School,Unstable,None,Good,0,High
+381,16549,Disabled,High School,Stable,Good,Good,0,Low
+382,98066,Unemployed,Graduate,Stable,Good,Good,0,High
+383,80664,Unemployed,Graduate,Stable,Good,Good,0,High
+384,22801,Employed,High School,Stable,Good,Limited,1,High
+385,61739,Employed,College,Stable,Good,Limited,0,High
+386,61380,Unemployed,Graduate,Stable,Good,Good,1,Medium
+387,58442,Retired,High School,Stable,Limited,Good,1,Medium
+388,20505,Retired,High School,Stable,Limited,Limited,0,High
+389,87906,Employed,College,Unstable,Good,Good,0,Medium
+390,69228,Retired,High School,Stable,Good,Limited,0,High
+391,87564,Retired,College,Stable,Good,Good,0,Low
+392,90129,Employed,College,Stable,Good,Good,0,Low
+393,73275,Retired,High School,Stable,Good,Good,1,Medium
+394,39621,Unemployed,College,Stable,Good,Limited,0,Medium
+395,85974,Disabled,High School,Homeless,Good,Good,0,Low
+396,64563,Employed,High School,Stable,Limited,None,0,Medium
+397,43415,Unemployed,Graduate,Stable,Good,Limited,0,High
+398,29538,Employed,Graduate,Stable,Good,Limited,1,High
+399,79024,Retired,High School,Stable,Good,None,0,Low
+400,25332,Employed,High School,Stable,Limited,Good,0,High
+401,86645,Unemployed,Graduate,Stable,Good,Good,0,High
+402,29162,Retired,Less than High School,Stable,Good,Good,0,High
+403,96876,Unemployed,Less than High School,Stable,Good,Good,0,Medium
+404,34594,Unemployed,High School,Stable,None,Good,0,Medium
+405,21793,Employed,High School,Unstable,Limited,None,1,Medium
+406,30850,Employed,Less than High School,Unstable,Good,None,0,High
+407,75202,Disabled,High School,Stable,Good,Limited,1,High
+408,70438,Retired,High School,Stable,Good,Good,0,High
+409,33936,Retired,College,Stable,Limited,Limited,1,Medium
+410,13827,Unemployed,High School,Stable,Limited,Limited,1,Medium
+411,43410,Employed,High School,Homeless,Good,Good,1,High
+412,68889,Employed,High School,Homeless,Good,Good,1,High
+413,56790,Employed,Less than High School,Stable,Limited,Good,0,Medium
+414,76352,Retired,College,Stable,Good,Good,0,Low
+415,70215,Unemployed,College,Stable,Good,Good,0,High
+416,69481,Unemployed,College,Stable,Good,Limited,1,Medium
+417,32310,Retired,College,Stable,Good,Good,0,High
+418,45436,Unemployed,Less than High School,Homeless,Good,None,1,High
+419,68207,Disabled,High School,Stable,Limited,Limited,0,Low
+420,71643,Employed,College,Stable,Limited,Good,0,High
+421,54587,Disabled,High School,Stable,Good,Good,0,High
+422,87319,Retired,College,Unstable,None,Limited,0,High
+423,83095,Employed,College,Homeless,Good,Good,0,Low
+424,52890,Unemployed,High School,Unstable,Good,Good,0,Medium
+425,17008,Retired,College,Stable,Good,Good,0,Medium
+426,69544,Unemployed,Graduate,Stable,None,None,0,Medium
+427,46830,Employed,High School,Stable,Good,Good,0,High
+428,33276,Disabled,High School,Stable,Limited,Good,1,Low
+429,65222,Unemployed,High School,Stable,Good,Good,0,High
+430,83038,Unemployed,College,Homeless,Good,Limited,0,High
+431,72519,Employed,College,Unstable,Good,Good,1,Low
+432,63044,Employed,Less than High School,Stable,Limited,Limited,0,Low
+433,29184,Retired,High School,Stable,Good,Good,0,High
+434,60082,Unemployed,High School,Stable,None,Limited,1,Medium
+435,86326,Disabled,College,Stable,Good,Limited,0,Low
+436,31633,Retired,College,Stable,Good,Good,0,Low
+437,46961,Disabled,College,Stable,Good,Limited,0,Low
+438,35368,Employed,High School,Unstable,Limited,Limited,0,High
+439,37045,Employed,High School,Homeless,Good,Limited,0,Medium
+440,63187,Employed,Graduate,Stable,Good,Good,0,High
+441,55135,Employed,High School,Unstable,Good,Limited,0,High
+442,79919,Retired,High School,Stable,Good,Good,1,High
+443,71261,Retired,High School,Stable,Good,Limited,0,High
+444,65464,Unemployed,Graduate,Stable,None,Good,0,Medium
+445,30742,Employed,High School,Homeless,Limited,Limited,0,High
+446,33250,Employed,High School,Stable,Good,Good,0,High
+447,12577,Employed,High School,Stable,Limited,Good,0,High
+448,80416,Retired,High School,Stable,Good,Limited,0,Low
+449,14305,Employed,Graduate,Stable,Good,Good,0,High
+450,63202,Disabled,Graduate,Stable,Good,Good,0,High
+451,24951,Retired,Less than High School,Stable,Good,None,1,Medium
+452,29532,Retired,High School,Stable,Limited,Good,0,Medium
+453,88138,Employed,High School,Stable,Good,Good,0,Medium
+454,98074,Disabled,High School,Stable,Good,None,0,Low
+455,50828,Retired,High School,Stable,Good,Good,0,High
+456,72514,Employed,Graduate,Stable,Good,Good,0,High
+457,80662,Employed,Less than High School,Unstable,Good,Limited,0,Medium
+458,28330,Retired,High School,Stable,Good,None,1,Medium
+459,23242,Employed,High School,Stable,Good,Limited,0,High
+460,44340,Employed,High School,Stable,Good,Limited,0,High
+461,70989,Employed,Less than High School,Stable,Limited,Good,1,Low
+462,23823,Employed,College,Homeless,None,Good,0,Low
+463,92119,Employed,Less than High School,Unstable,Good,Limited,1,High
+464,79604,Retired,College,Stable,Good,Limited,0,High
+465,18281,Unemployed,Graduate,Stable,Limited,Limited,0,Medium
+466,81734,Retired,High School,Stable,Good,Limited,0,High
+467,97951,Employed,Less than High School,Stable,None,Limited,0,High
+468,51051,Employed,College,Stable,Good,Good,0,High
+469,67283,Employed,College,Stable,Limited,None,0,High
+470,69309,Retired,High School,Stable,Good,Limited,0,Low
+471,22348,Employed,High School,Unstable,Good,Good,0,Medium
+472,73335,Retired,High School,Stable,Limited,Good,0,High
+473,53124,Employed,High School,Unstable,None,Limited,0,High
+474,92509,Retired,Less than High School,Unstable,None,Limited,0,Medium
+475,95558,Retired,Graduate,Stable,Good,Limited,0,High
+476,62466,Employed,Graduate,Stable,Good,Limited,0,Medium
+477,59937,Retired,Graduate,Stable,Limited,Good,0,High
+478,34459,Unemployed,College,Stable,Good,None,0,High
+479,55076,Retired,High School,Stable,Good,Limited,0,Medium
+480,20080,Retired,High School,Stable,None,Good,0,Medium
+481,46813,Employed,Less than High School,Unstable,Limited,Limited,1,Medium
+482,30168,Retired,High School,Stable,Good,Good,0,High
+483,93097,Employed,College,Stable,Good,Good,1,High
+484,41892,Employed,College,Stable,None,Limited,0,High
+485,12965,Employed,College,Stable,Good,Limited,0,High
+486,42438,Employed,Less than High School,Stable,Good,Limited,0,Medium
+487,18493,Employed,High School,Stable,Good,Limited,0,High
+488,77880,Unemployed,Graduate,Stable,Limited,Good,0,High
+489,55828,Unemployed,College,Homeless,Good,Good,1,Medium
+490,95135,Retired,Less than High School,Stable,Limited,Limited,0,High
+491,37891,Retired,Less than High School,Stable,Good,Good,0,Low
+492,50955,Retired,High School,Stable,Good,Good,0,Medium
+493,26445,Employed,High School,Stable,Good,Limited,0,High
+494,43625,Employed,Less than High School,Stable,Good,Good,0,High
+495,93260,Disabled,High School,Stable,Good,None,0,Medium
+496,35393,Unemployed,High School,Stable,None,Good,0,Low
+497,72844,Employed,College,Stable,Good,Limited,0,Low
+498,37683,Employed,College,Stable,Good,Limited,0,High
+499,31399,Employed,College,Stable,Good,Good,0,High
+500,92894,Disabled,Graduate,Stable,Good,Limited,0,Medium
+501,30036,Retired,Graduate,Unstable,Good,Good,0,High
+502,93631,Unemployed,Graduate,Stable,Limited,Good,0,High
+503,59941,Disabled,Less than High School,Stable,Good,Limited,0,Low
+504,36656,Unemployed,High School,Stable,Limited,Limited,0,Medium
+505,43348,Retired,High School,Stable,Good,Limited,0,Medium
+506,36617,Unemployed,High School,Stable,Limited,None,0,High
+507,51311,Unemployed,Less than High School,Stable,Good,Good,0,High
+508,41766,Employed,High School,Stable,None,Limited,0,Medium
+509,83097,Retired,College,Stable,Limited,Limited,0,Medium
+510,28266,Employed,College,Homeless,Good,Limited,1,Low
+511,14345,Retired,Less than High School,Unstable,Good,Good,1,Medium
+512,27644,Employed,Less than High School,Stable,None,Limited,0,High
+513,82583,Employed,Graduate,Stable,Good,Limited,0,Medium
+514,75767,Disabled,High School,Stable,Good,Good,0,High
+515,57531,Unemployed,High School,Stable,Good,Good,0,Medium
+516,84684,Employed,High School,Stable,Limited,Good,0,Low
+517,47497,Disabled,High School,Unstable,None,Limited,0,Medium
+518,54889,Unemployed,High School,Stable,Good,Good,0,High
+519,29920,Employed,High School,Homeless,Good,Limited,1,Medium
+520,64271,Employed,High School,Stable,Limited,Good,1,Medium
+521,79850,Unemployed,Graduate,Stable,None,Good,0,Medium
+522,92226,Employed,Graduate,Stable,Good,None,0,Medium
+523,67657,Disabled,College,Unstable,Good,Good,0,High
+524,13474,Employed,Less than High School,Stable,Good,Limited,1,High
+525,97768,Employed,High School,Stable,Good,Good,0,Medium
+526,34039,Employed,High School,Stable,None,Good,0,Medium
+527,24104,Employed,High School,Stable,Limited,Good,0,Low
+528,27786,Unemployed,Less than High School,Stable,Good,Limited,0,High
+529,96296,Retired,College,Stable,None,Good,0,High
+530,56716,Employed,Less than High School,Stable,None,Limited,1,High
+531,54358,Employed,High School,Stable,Good,Good,0,Low
+532,61269,Retired,Graduate,Stable,Good,Good,0,Low
+533,32193,Employed,High School,Stable,Good,Limited,0,High
+534,97950,Unemployed,Graduate,Stable,Good,Good,0,High
+535,26791,Employed,Less than High School,Stable,Good,None,1,High
+536,81216,Employed,Less than High School,Stable,Good,Limited,0,Medium
+537,90390,Employed,Graduate,Stable,Limited,Good,1,High
+538,88429,Employed,High School,Stable,None,Good,0,High
+539,16224,Unemployed,College,Stable,Good,Good,1,Medium
+540,37685,Employed,Graduate,Stable,Good,Good,0,Medium
+541,28476,Employed,High School,Unstable,Good,Good,0,High
+542,86598,Unemployed,Graduate,Stable,None,None,0,Medium
+543,11484,Retired,High School,Stable,Limited,Good,0,High
+544,29760,Retired,High School,Stable,Good,Good,0,High
+545,16326,Employed,College,Stable,Limited,Limited,0,High
+546,43234,Employed,College,Stable,Good,Limited,0,Medium
+547,80469,Retired,High School,Stable,Good,Good,1,High
+548,90075,Unemployed,High School,Stable,Good,Good,0,High
+549,43742,Retired,College,Unstable,Good,Good,1,High
+550,55678,Employed,Graduate,Stable,Good,Good,0,Low
+551,80723,Employed,High School,Stable,Good,Good,0,High
+552,66624,Retired,Less than High School,Stable,Good,Limited,0,Medium
+553,78187,Retired,High School,Stable,Good,Good,0,High
+554,93719,Employed,Graduate,Stable,Good,Limited,0,Low
+555,24963,Disabled,High School,Stable,Good,Good,1,Low
+556,92935,Employed,College,Stable,Good,Limited,0,Medium
+557,16238,Retired,College,Stable,Good,Good,0,Medium
+558,68028,Unemployed,College,Stable,Good,Good,0,Medium
+559,57900,Unemployed,Graduate,Stable,Good,Good,0,High
+560,70494,Retired,Graduate,Homeless,Limited,Good,0,High
+561,74791,Employed,High School,Stable,Good,Limited,0,High
+562,58788,Employed,Graduate,Stable,Good,Limited,1,High
+563,51328,Unemployed,High School,Stable,None,None,1,Low
+564,65574,Employed,Graduate,Homeless,Good,Good,0,High
+565,71790,Unemployed,College,Homeless,Good,None,1,High
+566,81583,Unemployed,High School,Stable,Good,Good,1,Medium
+567,65701,Employed,College,Stable,Good,Good,0,High
+568,82125,Retired,Less than High School,Stable,Good,Good,0,High
+569,90501,Employed,High School,Stable,Good,Good,0,High
+570,22805,Employed,College,Unstable,Good,Good,0,Medium
+571,76880,Retired,College,Stable,None,None,0,Low
+572,96037,Unemployed,High School,Stable,Limited,Good,0,High
+573,37331,Employed,College,Stable,Good,Good,0,Low
+574,84860,Employed,High School,Stable,Good,Good,1,Low
+575,83075,Retired,Less than High School,Unstable,Good,Good,0,High
+576,50632,Employed,Graduate,Stable,Good,Limited,0,High
+577,97268,Disabled,Less than High School,Stable,Good,Good,0,Medium
+578,23225,Retired,College,Stable,Limited,Good,0,High
+579,62218,Employed,High School,Homeless,Good,None,0,Medium
+580,49859,Retired,High School,Stable,Limited,Good,0,Medium
+581,69755,Employed,College,Homeless,Good,Good,0,High
+582,36496,Unemployed,Less than High School,Unstable,Limited,Limited,0,Medium
+583,94392,Employed,Less than High School,Stable,Good,Good,0,Medium
+584,10958,Employed,College,Unstable,Good,Limited,0,High
+585,93408,Retired,Graduate,Stable,Good,Good,0,Medium
+586,96687,Retired,Less than High School,Unstable,Good,Good,0,High
+587,75457,Unemployed,Less than High School,Stable,Limited,Good,0,Low
+588,28317,Employed,College,Stable,Good,Limited,0,High
+589,23584,Disabled,College,Stable,None,Good,0,Medium
+590,48495,Employed,College,Stable,Limited,None,0,Medium
+591,36592,Unemployed,Graduate,Stable,Good,Good,0,Medium
+592,47917,Employed,Graduate,Stable,None,Limited,1,High
+593,97672,Retired,High School,Stable,Good,Limited,0,High
+594,66308,Employed,College,Homeless,Good,Good,1,Medium
+595,47742,Employed,Graduate,Stable,Limited,Good,0,Medium
+596,99010,Unemployed,College,Stable,None,Limited,0,Medium
+597,30321,Retired,College,Unstable,Good,Good,1,High
+598,46029,Employed,High School,Unstable,Limited,Limited,1,High
+599,38858,Retired,College,Stable,Good,Good,0,Medium
+600,51838,Employed,College,Stable,Limited,Good,0,High
+601,48336,Retired,College,Stable,Good,Good,0,Medium
+602,74597,Retired,Less than High School,Stable,Good,Good,0,Medium
+603,14768,Retired,College,Unstable,Good,Good,1,Medium
+604,87422,Retired,Less than High School,Stable,Good,Good,0,Medium
+605,15177,Employed,High School,Stable,Limited,None,0,High
+606,41761,Retired,Graduate,Stable,Good,Good,0,High
+607,83582,Unemployed,College,Stable,Good,Good,0,High
+608,60022,Employed,High School,Stable,Good,Limited,0,Medium
+609,41883,Employed,High School,Stable,Good,Good,0,Low
+610,16601,Retired,High School,Stable,Good,Limited,0,High
+611,84433,Unemployed,College,Stable,Good,Good,1,Medium
+612,29073,Employed,High School,Stable,Good,None,0,Medium
+613,66261,Disabled,College,Stable,Good,Good,1,High
+614,53219,Employed,High School,Unstable,Good,Good,0,High
+615,14581,Unemployed,Graduate,Stable,Good,Limited,1,Medium
+616,49802,Retired,College,Stable,Limited,Good,0,High
+617,39698,Disabled,High School,Stable,Good,Limited,1,Medium
+618,61119,Employed,High School,Stable,Good,Good,0,Medium
+619,84980,Retired,Less than High School,Stable,Good,Good,0,High
+620,84980,Unemployed,Less than High School,Stable,Limited,Good,0,High
+621,70393,Employed,College,Stable,Good,Good,1,Medium
+622,15080,Disabled,College,Stable,Good,Good,0,Medium
+623,74652,Retired,Less than High School,Stable,Limited,Limited,0,High
+624,78664,Retired,Less than High School,Stable,Good,Limited,0,Medium
+625,72577,Retired,High School,Stable,Good,None,0,Medium
+626,32206,Retired,College,Unstable,Good,Good,1,High
+627,40450,Unemployed,Graduate,Stable,Limited,Good,0,High
+628,88117,Employed,High School,Unstable,Good,Good,0,Medium
+629,54569,Retired,Graduate,Stable,Good,Limited,0,High
+630,19811,Retired,College,Stable,Good,Good,0,Medium
+631,60496,Unemployed,College,Stable,Good,Good,1,Medium
+632,87641,Unemployed,High School,Stable,Limited,Good,0,High
+633,96588,Retired,High School,Stable,None,Good,0,High
+634,21960,Disabled,High School,Stable,Good,Limited,0,Low
+635,66832,Retired,Less than High School,Unstable,Good,Limited,0,High
+636,28162,Employed,High School,Stable,Limited,None,1,Medium
+637,78639,Unemployed,High School,Stable,Good,Good,0,High
+638,48634,Retired,High School,Homeless,Good,Good,0,High
+639,15530,Employed,College,Stable,Good,Good,0,High
+640,78624,Disabled,College,Stable,Good,Good,0,High
+641,33128,Employed,Graduate,Homeless,Good,None,0,Medium
+642,80707,Retired,Less than High School,Homeless,Good,Good,0,Low
+643,14465,Disabled,College,Stable,Good,Limited,0,High
+644,39998,Retired,College,Stable,Good,None,0,High
+645,98607,Retired,College,Stable,Good,Good,0,High
+646,37333,Disabled,College,Stable,Limited,Good,0,High
+647,75886,Retired,College,Stable,Limited,Good,0,High
+648,16522,Disabled,College,Stable,Good,Good,1,Low
+649,56518,Retired,College,Stable,Good,Good,0,Medium
+650,99194,Retired,High School,Stable,Limited,Good,0,Medium
+651,45320,Retired,College,Stable,Limited,Good,0,High
+652,66307,Employed,High School,Unstable,Good,Limited,0,Medium
+653,83087,Retired,High School,Unstable,Good,Limited,0,Medium
+654,58975,Disabled,High School,Stable,Good,Good,0,Medium
+655,43819,Retired,College,Stable,Good,Good,0,High
+656,67630,Employed,High School,Stable,Good,Good,0,Low
+657,86406,Employed,High School,Stable,Good,Good,0,High
+658,66662,Employed,High School,Stable,Limited,None,0,Low
+659,13558,Unemployed,High School,Stable,Good,None,0,High
+660,73082,Unemployed,Less than High School,Stable,Good,Good,0,Medium
+661,74762,Disabled,Graduate,Stable,None,Good,0,High
+662,83834,Disabled,Graduate,Unstable,Good,Good,0,High
+663,61705,Employed,College,Unstable,Good,Good,0,High
+664,13513,Retired,Less than High School,Stable,Limited,Limited,0,High
+665,19460,Retired,Graduate,Stable,Good,Limited,0,Medium
+666,65374,Employed,High School,Stable,Good,None,0,High
+667,35316,Disabled,College,Stable,Good,Limited,0,High
+668,83189,Employed,College,Stable,Good,Good,0,Low
+669,75558,Retired,College,Stable,Good,Good,1,High
+670,59512,Retired,Graduate,Stable,Good,Good,1,Low
+671,38669,Retired,College,Stable,Good,Limited,1,Low
+672,67560,Retired,Graduate,Stable,Limited,Good,0,Medium
+673,41709,Unemployed,High School,Unstable,None,Good,0,High
+674,75270,Retired,Less than High School,Unstable,Good,Good,0,High
+675,97705,Unemployed,High School,Stable,Good,Good,0,Medium
+676,27011,Disabled,Less than High School,Stable,Good,Good,0,High
+677,29651,Retired,College,Stable,Good,Limited,0,Medium
+678,10566,Employed,College,Unstable,Limited,Limited,0,Medium
+679,46526,Retired,High School,Stable,Limited,Good,0,Low
+680,12020,Unemployed,College,Stable,Good,Good,0,Medium
+681,79066,Retired,Graduate,Stable,Good,Limited,0,Low
+682,28890,Retired,High School,Stable,Good,Good,0,High
+683,87283,Retired,High School,Stable,Limited,Limited,0,Medium
+684,85919,Retired,High School,Stable,Good,Good,0,High
+685,53882,Unemployed,College,Stable,Good,Limited,0,High
+686,35304,Employed,High School,Stable,None,Limited,1,High
+687,57742,Retired,College,Stable,None,Limited,0,High
+688,92393,Retired,Less than High School,Stable,Good,Good,0,High
+689,72124,Employed,Less than High School,Unstable,Good,Good,0,Low
+690,43373,Retired,Less than High School,Stable,Good,Good,1,High
+691,48451,Retired,College,Stable,Good,Good,0,High
+692,62754,Employed,High School,Stable,Good,Good,1,High
+693,23669,Unemployed,High School,Stable,Good,Good,0,High
+694,82940,Employed,High School,Homeless,Good,Good,0,High
+695,30754,Employed,High School,Stable,Good,Limited,1,Low
+696,14847,Retired,College,Stable,Limited,Good,0,Medium
+697,91472,Employed,Less than High School,Stable,Good,Limited,0,Medium
+698,48446,Unemployed,Graduate,Stable,Good,Good,0,Medium
+699,70489,Retired,Less than High School,Stable,Limited,Good,1,Medium
+700,79589,Disabled,High School,Stable,None,Good,0,Medium
+701,76245,Retired,College,Unstable,Good,Limited,1,Medium
+702,10922,Employed,Graduate,Unstable,Good,Good,0,Medium
+703,60261,Disabled,College,Stable,Good,Good,1,Medium
+704,46360,Unemployed,High School,Stable,Good,Good,0,High
+705,22790,Employed,Graduate,Stable,Limited,Limited,0,High
+706,24567,Employed,College,Stable,Good,Good,0,Low
+707,30343,Disabled,Less than High School,Stable,Good,Good,0,High
+708,65793,Unemployed,High School,Stable,Limited,Good,0,Medium
+709,41142,Disabled,Less than High School,Homeless,None,Limited,0,Medium
+710,11490,Employed,High School,Stable,Good,Good,0,Medium
+711,90118,Unemployed,High School,Stable,Limited,Limited,0,High
+712,70928,Employed,College,Stable,Good,Good,0,Medium
+713,38426,Unemployed,College,Stable,Good,None,0,Medium
+714,93401,Retired,College,Stable,Limited,Limited,0,Medium
+715,44048,Employed,Less than High School,Stable,Good,Limited,0,Medium
+716,57578,Employed,Graduate,Stable,Good,Good,0,Medium
+717,41723,Retired,High School,Stable,Good,Good,0,Low
+718,26178,Employed,College,Stable,Limited,Limited,0,High
+719,71286,Unemployed,College,Stable,None,Limited,0,High
+720,47622,Employed,High School,Stable,Good,Limited,0,Medium
+721,51834,Retired,Graduate,Stable,Good,Good,0,High
+722,18055,Employed,High School,Unstable,Good,Good,0,Medium
+723,34687,Retired,Less than High School,Stable,Good,Good,0,Medium
+724,65318,Retired,High School,Unstable,Good,Good,0,High
+725,49848,Employed,College,Stable,Good,Good,0,High
+726,50829,Employed,Graduate,Stable,Good,Good,0,High
+727,83929,Disabled,High School,Stable,Good,Good,0,High
+728,91396,Unemployed,College,Stable,Good,Limited,0,High
+729,53613,Employed,High School,Stable,Good,Limited,0,Medium
+730,96672,Employed,College,Stable,None,Good,0,Medium
+731,93451,Employed,College,Stable,Good,Limited,1,High
+732,19581,Unemployed,High School,Stable,Good,Limited,0,High
+733,91617,Unemployed,College,Stable,Limited,Limited,0,Medium
+734,93537,Retired,College,Stable,Good,Good,0,Medium
+735,55101,Retired,College,Unstable,Good,Limited,0,Medium
+736,34940,Employed,Less than High School,Stable,Good,Limited,0,Medium
+737,78907,Employed,College,Stable,Good,Limited,0,High
+738,21016,Retired,College,Unstable,Good,Good,0,High
+739,32943,Unemployed,College,Stable,Good,Good,0,Low
+740,64617,Disabled,College,Stable,None,None,0,High
+741,93292,Retired,High School,Stable,Good,None,1,High
+742,86585,Employed,Graduate,Stable,Good,Limited,1,Medium
+743,12237,Unemployed,High School,Stable,Good,None,0,High
+744,75263,Employed,High School,Stable,Good,Good,0,High
+745,79980,Unemployed,College,Stable,Good,Good,0,High
+746,30852,Retired,High School,Stable,Good,Limited,0,Low
+747,15758,Retired,High School,Homeless,Good,Good,0,Medium
+748,54322,Employed,High School,Unstable,Good,Good,0,High
+749,55003,Retired,Less than High School,Stable,Limited,Limited,1,Medium
+750,95895,Employed,High School,Stable,Good,Good,0,High
+751,19176,Employed,High School,Stable,Good,Good,0,High
+752,39658,Unemployed,Graduate,Stable,Good,Good,0,Low
+753,15674,Retired,Less than High School,Stable,Limited,Limited,0,Medium
+754,27910,Retired,College,Stable,None,Limited,0,Medium
+755,37948,Employed,Less than High School,Stable,None,Limited,0,Low
+756,65941,Retired,Less than High School,Stable,None,None,0,Medium
+757,76572,Employed,College,Stable,None,Good,1,High
+758,37749,Employed,High School,Stable,Limited,Good,0,High
+759,36678,Retired,College,Stable,Good,Good,0,High
+760,77766,Employed,College,Stable,Good,Good,1,High
+761,27426,Employed,High School,Stable,Limited,Good,0,Medium
+762,55418,Employed,Less than High School,Stable,Limited,Good,0,Medium
+763,50709,Employed,College,Stable,Limited,Good,0,Medium
+764,38680,Retired,Less than High School,Stable,Good,Good,0,Medium
+765,16168,Retired,Graduate,Stable,Limited,Good,0,High
+766,79191,Retired,High School,Stable,Limited,Good,0,Low
+767,57076,Employed,Less than High School,Stable,Good,Good,0,Medium
+768,11080,Disabled,Graduate,Stable,Good,Good,0,Medium
+769,87333,Unemployed,College,Stable,Limited,Good,1,High
+770,59975,Retired,Graduate,Stable,Good,Good,1,Medium
+771,46018,Disabled,High School,Unstable,Good,Good,0,Medium
+772,77651,Unemployed,College,Stable,Good,Good,0,Medium
+773,95487,Employed,High School,Unstable,Good,Good,0,High
+774,83775,Unemployed,Less than High School,Stable,Limited,Limited,0,Medium
+775,93360,Employed,Graduate,Stable,Good,Good,0,High
+776,21927,Employed,High School,Stable,Good,Good,0,Low
+777,10944,Employed,High School,Stable,Good,Good,0,High
+778,62420,Unemployed,High School,Stable,Limited,Limited,0,High
+779,29503,Employed,College,Unstable,Limited,None,0,High
+780,32456,Retired,High School,Stable,Good,Good,0,High
+781,20175,Employed,Less than High School,Stable,Limited,Good,0,High
+782,34930,Unemployed,Less than High School,Stable,Good,Good,0,Medium
+783,13305,Employed,College,Stable,Good,Good,0,High
+784,90881,Retired,High School,Stable,Good,Good,1,Medium
+785,63947,Retired,Less than High School,Stable,Limited,None,0,High
+786,49537,Employed,Graduate,Stable,Good,Limited,0,Medium
+787,43136,Retired,High School,Stable,None,Good,0,Medium
+788,37562,Employed,College,Stable,Good,Good,0,High
+789,54953,Retired,Less than High School,Stable,Good,Good,0,High
+790,86730,Unemployed,College,Stable,Good,Good,1,High
+791,85624,Employed,Less than High School,Stable,Limited,Limited,0,Medium
+792,99264,Unemployed,Less than High School,Stable,Good,Good,0,High
+793,61699,Employed,High School,Stable,Good,Good,0,Medium
+794,93473,Retired,Less than High School,Stable,Limited,Limited,0,High
+795,29194,Retired,High School,Stable,Good,Good,1,Low
+796,90312,Retired,High School,Stable,Limited,Good,0,High
+797,95992,Retired,High School,Stable,Good,Limited,1,High
+798,92983,Retired,College,Stable,Good,Good,0,High
+799,63349,Unemployed,High School,Stable,Good,Good,0,High
+800,93117,Retired,High School,Stable,Good,None,0,Low
+801,71241,Retired,High School,Stable,Good,Limited,0,Medium
+802,80551,Retired,College,Stable,Good,Good,0,High
+803,45629,Disabled,Graduate,Stable,Good,Good,0,Medium
+804,55251,Disabled,College,Stable,Good,Good,0,Medium
+805,23895,Employed,Graduate,Stable,Good,Good,0,High
+806,68549,Employed,High School,Stable,Limited,Good,0,Medium
+807,68918,Unemployed,High School,Stable,Good,Limited,0,High
+808,22792,Disabled,High School,Stable,Good,Good,1,Medium
+809,73406,Employed,High School,Unstable,Good,Good,0,High
+810,25430,Retired,College,Stable,Good,Good,1,Medium
+811,49130,Retired,College,Stable,Good,Good,0,Medium
+812,52500,Disabled,High School,Stable,Good,None,0,Medium
+813,81844,Retired,High School,Homeless,Good,Good,0,Low
+814,79120,Employed,High School,Stable,Good,Good,0,Low
+815,71397,Employed,Graduate,Stable,Good,Good,0,High
+816,64455,Disabled,High School,Stable,Good,Good,0,High
+817,61078,Disabled,College,Stable,Limited,Good,0,High
+818,41088,Retired,High School,Stable,Good,Limited,0,High
+819,79055,Disabled,Less than High School,Stable,Good,Limited,0,Medium
+820,19597,Employed,College,Unstable,Good,Good,0,High
+821,12013,Retired,High School,Stable,Good,Good,0,Medium
+822,93640,Employed,Graduate,Homeless,None,Good,1,High
+823,23465,Retired,College,Stable,None,Limited,0,High
+824,96013,Employed,Less than High School,Stable,Limited,Good,1,Medium
+825,75569,Employed,College,Stable,Good,Good,1,High
+826,37487,Retired,College,Stable,None,Good,0,High
+827,76939,Retired,Graduate,Stable,Good,Good,0,High
+828,13219,Disabled,College,Stable,Good,Good,1,High
+829,18077,Retired,Graduate,Unstable,Good,None,0,Medium
+830,12710,Employed,High School,Stable,Good,Good,0,High
+831,36178,Unemployed,Graduate,Stable,Good,None,1,Medium
+832,56994,Disabled,College,Stable,Good,Limited,0,Medium
+833,22964,Retired,College,Stable,Good,Limited,0,Medium
+834,97138,Retired,High School,Stable,Good,Good,0,High
+835,38288,Employed,High School,Stable,Good,Good,0,High
+836,40714,Employed,College,Stable,Limited,Limited,0,High
+837,13602,Disabled,College,Stable,Good,Good,0,High
+838,98024,Employed,High School,Stable,Limited,None,0,Medium
+839,14096,Unemployed,High School,Stable,Limited,Good,0,High
+840,81652,Employed,College,Stable,Good,Limited,1,High
+841,91075,Retired,High School,Stable,Good,Limited,0,Medium
+842,39610,Employed,Less than High School,Stable,Good,Good,0,Medium
+843,76815,Retired,High School,Stable,Good,None,0,Medium
+844,75585,Disabled,High School,Stable,Limited,Good,1,High
+845,48419,Employed,High School,Homeless,Good,Good,0,Medium
+846,52734,Unemployed,High School,Stable,Limited,Limited,0,High
+847,91985,Employed,Graduate,Stable,Good,Good,0,Low
+848,16539,Unemployed,High School,Stable,Limited,Good,0,High
+849,31754,Unemployed,High School,Stable,Good,Good,0,High
+850,14223,Unemployed,Less than High School,Stable,Limited,Good,0,Low
+851,37320,Employed,High School,Stable,Limited,Good,0,High
+852,59339,Employed,High School,Stable,Good,Good,0,Medium
+853,15302,Retired,High School,Stable,Good,Good,0,High
+854,73046,Disabled,College,Stable,Good,Good,0,High
+855,94808,Employed,Graduate,Stable,Limited,None,0,High
+856,31241,Retired,Less than High School,Stable,Good,Limited,0,Low
+857,43434,Unemployed,Graduate,Stable,Good,Good,0,High
+858,66731,Employed,Graduate,Stable,Good,Limited,0,High
+859,51892,Unemployed,Less than High School,Stable,Good,Limited,0,Low
+860,40798,Retired,Graduate,Stable,Good,Good,0,Medium
+861,15138,Unemployed,High School,Stable,Good,Limited,0,High
+862,79676,Employed,College,Stable,Good,Limited,0,High
+863,58901,Retired,College,Stable,Good,Limited,0,High
+864,23533,Employed,High School,Stable,Good,Limited,1,Medium
+865,43385,Employed,High School,Stable,Good,Limited,0,Medium
+866,89480,Retired,Graduate,Stable,Good,Good,0,High
+867,59944,Employed,High School,Stable,Good,Good,1,High
+868,68594,Employed,College,Stable,Limited,Good,0,Low
+869,87721,Unemployed,High School,Stable,Good,Good,0,High
+870,77980,Retired,College,Stable,Good,Good,0,Medium
+871,20514,Unemployed,High School,Stable,Good,Good,0,High
+872,30617,Retired,College,Stable,Good,Good,0,Medium
+873,11350,Retired,Graduate,Stable,Good,Good,0,High
+874,57318,Disabled,Less than High School,Stable,None,Good,0,Medium
+875,94195,Employed,College,Stable,Good,Limited,0,High
+876,98170,Retired,College,Stable,Good,Good,0,High
+877,61358,Employed,Less than High School,Stable,Limited,Good,0,Medium
+878,71178,Retired,High School,Stable,Good,Good,1,High
+879,85805,Retired,High School,Stable,Good,Limited,0,Medium
+880,68465,Employed,High School,Stable,Good,Limited,1,High
+881,10608,Retired,High School,Stable,Good,Good,0,Medium
+882,86657,Retired,Less than High School,Stable,Limited,Good,0,Medium
+883,58650,Unemployed,College,Stable,Good,Limited,0,Low
+884,49834,Retired,College,Stable,Good,Limited,1,Medium
+885,10167,Retired,College,Stable,Good,Good,0,High
+886,58338,Retired,Less than High School,Stable,Good,Limited,1,High
+887,49543,Unemployed,High School,Stable,Limited,Good,0,Medium
+888,13256,Disabled,College,Unstable,Good,Good,0,Medium
+889,12479,Retired,High School,Stable,None,Limited,0,High
+890,99511,Employed,Graduate,Stable,Good,Good,0,High
+891,71478,Retired,Graduate,Stable,Limited,Limited,0,High
+892,51939,Employed,Less than High School,Stable,Good,Good,0,High
+893,37010,Employed,College,Stable,Good,Good,0,High
+894,18982,Retired,High School,Stable,None,Good,0,Medium
+895,60626,Disabled,Less than High School,Homeless,Good,Good,0,High
+896,67277,Retired,Less than High School,Stable,Limited,Good,0,High
+897,86176,Employed,High School,Stable,Good,Good,0,Medium
+898,83276,Unemployed,High School,Stable,Good,Good,0,High
+899,35702,Disabled,High School,Stable,Limited,Good,0,High
+900,69094,Disabled,College,Stable,Limited,Good,0,High
+901,71541,Disabled,Graduate,Stable,Limited,Limited,0,Medium
+902,31134,Unemployed,High School,Stable,Limited,Limited,0,High
+903,21353,Retired,Graduate,Stable,Good,Good,0,High
+904,86917,Retired,High School,Homeless,Good,Good,1,Medium
+905,25238,Employed,High School,Stable,Limited,Limited,1,Medium
+906,72766,Employed,High School,Stable,Good,Limited,1,High
+907,56596,Retired,College,Stable,None,Good,0,High
+908,93152,Employed,Less than High School,Stable,Good,Good,0,High
+909,24422,Employed,College,Stable,Good,Limited,0,High
+910,39638,Employed,College,Stable,Good,Good,0,Medium
+911,57990,Employed,High School,Stable,Good,Good,0,High
+912,80264,Employed,High School,Stable,Good,Limited,0,Medium
+913,74756,Employed,High School,Unstable,Good,Good,0,High
+914,71285,Employed,High School,Stable,None,Good,1,High
+915,72553,Retired,College,Stable,Good,Limited,1,Low
+916,34029,Employed,College,Stable,Good,Good,0,Medium
+917,61851,Unemployed,High School,Stable,Limited,Limited,0,Medium
+918,67226,Unemployed,High School,Stable,Limited,None,0,High
+919,28384,Retired,High School,Stable,Good,Good,0,Medium
+920,40089,Employed,Less than High School,Stable,Limited,Good,0,High
+921,97926,Employed,College,Stable,Good,Good,1,Low
+922,43007,Employed,College,Stable,None,Limited,0,High
+923,99359,Disabled,College,Stable,Limited,Good,0,Low
+924,77726,Retired,High School,Stable,Good,Good,1,Medium
+925,73182,Employed,Graduate,Homeless,Limited,Limited,0,High
+926,47459,Retired,Less than High School,Stable,None,Limited,0,High
+927,75411,Employed,College,Stable,Good,Good,0,Medium
+928,12015,Employed,High School,Unstable,Good,Limited,1,Medium
+929,97290,Unemployed,College,Stable,Good,Good,0,High
+930,92082,Unemployed,College,Stable,Good,Limited,0,High
+931,63901,Retired,Graduate,Unstable,Limited,None,1,High
+932,10030,Employed,High School,Stable,Good,Good,0,High
+933,16601,Retired,High School,Stable,Good,Limited,0,Medium
+934,34389,Unemployed,College,Unstable,Limited,Limited,1,Low
+935,53098,Employed,Less than High School,Stable,None,Limited,0,Medium
+936,94095,Retired,Less than High School,Stable,Limited,None,0,Medium
+937,61978,Disabled,Graduate,Stable,Good,Good,0,High
+938,96985,Employed,High School,Stable,Good,Good,0,Medium
+939,27231,Unemployed,Graduate,Unstable,Good,Good,0,High
+940,59943,Retired,High School,Stable,Good,None,0,Medium
+941,34276,Retired,College,Stable,Good,Good,0,High
+942,55795,Employed,High School,Stable,Limited,Limited,1,High
+943,73344,Unemployed,Less than High School,Stable,Good,Limited,0,Low
+944,83513,Retired,High School,Unstable,Good,Good,1,Low
+945,24294,Employed,Graduate,Stable,Good,Good,1,High
+946,72996,Unemployed,High School,Homeless,Limited,Good,0,High
+947,19204,Unemployed,Graduate,Stable,Good,Good,0,Low
+948,94944,Retired,High School,Stable,Good,Limited,0,Medium
+949,92994,Retired,Less than High School,Stable,Good,Good,0,Low
+950,32352,Employed,College,Unstable,Good,None,0,Medium
+951,61067,Employed,High School,Stable,Limited,Good,0,High
+952,96403,Retired,High School,Stable,Good,Good,0,High
+953,33613,Retired,College,Stable,Good,Good,0,Medium
+954,89190,Employed,High School,Unstable,Limited,Limited,0,Low
+955,33704,Unemployed,High School,Stable,Good,Good,0,Medium
+956,92655,Retired,College,Stable,Good,Limited,0,High
+957,18133,Employed,Graduate,Stable,Good,Good,0,Medium
+958,72949,Employed,High School,Unstable,Good,Good,0,Medium
+959,67321,Retired,College,Stable,Limited,Good,0,Medium
+960,64200,Retired,College,Stable,Good,Good,0,Medium
+961,91573,Retired,Less than High School,Stable,Good,Good,0,High
+962,97741,Employed,Graduate,Stable,Good,Good,0,High
+963,53816,Disabled,College,Stable,None,Good,0,Medium
+964,97596,Employed,Graduate,Stable,Limited,Good,0,High
+965,91615,Unemployed,College,Stable,None,Good,0,High
+966,30861,Unemployed,High School,Stable,Good,Good,0,High
+967,26479,Employed,High School,Stable,Limited,Limited,0,Medium
+968,84639,Unemployed,Graduate,Stable,Good,Good,0,High
+969,39458,Employed,Less than High School,Stable,Good,Good,0,High
+970,87034,Unemployed,Less than High School,Stable,Limited,Limited,0,High
+971,30820,Unemployed,College,Stable,Limited,Good,0,High
+972,84446,Retired,College,Stable,Limited,Good,0,Medium
+973,53964,Disabled,High School,Stable,Limited,Good,0,Medium
+974,65833,Employed,High School,Stable,None,Limited,0,Medium
+975,68717,Disabled,College,Stable,Good,Good,0,High
+976,33399,Disabled,Graduate,Homeless,Good,Good,0,Medium
+977,33758,Employed,High School,Stable,Good,Good,0,Medium
+978,17658,Disabled,College,Stable,Good,Good,0,High
+979,90801,Unemployed,College,Homeless,None,None,0,High
+980,65162,Retired,Less than High School,Stable,None,Limited,0,Medium
+981,30065,Disabled,High School,Stable,Good,Good,1,Medium
+982,61961,Retired,College,Stable,Limited,Good,0,High
+983,57467,Unemployed,College,Stable,Good,Good,0,High
+984,21411,Retired,High School,Stable,Limited,None,0,High
+985,72408,Unemployed,High School,Stable,None,Good,0,Medium
+986,42697,Employed,High School,Stable,Good,Limited,0,Medium
+987,25162,Employed,College,Stable,Good,Good,0,High
+988,81571,Unemployed,College,Stable,Good,Limited,0,Medium
+989,32510,Retired,Less than High School,Stable,Limited,Good,0,Medium
+990,67848,Retired,Graduate,Stable,Good,Good,0,High
+991,56925,Disabled,High School,Stable,Good,Good,1,High
+992,81664,Employed,Less than High School,Stable,Good,None,0,High
+993,36841,Retired,Less than High School,Stable,Good,Good,1,Medium
+994,48746,Retired,College,Homeless,None,Good,0,High
+995,90353,Employed,High School,Stable,Limited,Limited,1,Medium
+996,95980,Employed,High School,Stable,Good,Limited,1,High
+997,78520,Employed,Graduate,Unstable,Good,Limited,0,Medium
+998,29180,Disabled,College,Stable,Good,Good,0,High
+999,15444,Disabled,High School,Stable,Good,None,0,Low
+1000,95846,Retired,College,Stable,Good,Limited,0,High
